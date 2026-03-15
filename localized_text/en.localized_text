@@ -1,0 +1,9 @@
+{
+    "shadow_fleet_name": "Shadow Fleet",
+    "shadow_fleet_desc": "Teleportation in Sins2",
+    "player_faction_name.trader_corsair": "Corsairs",
+    "player_faction_description.trader_corsair": "Now it's mine!",
+    "player_faction_name.trader_smuggler": "Smugglers",
+    "player_faction_description.trader_smuggler": "Contraband for everyone",
+    "end": "The End"
+}

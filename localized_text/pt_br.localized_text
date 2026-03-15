@@ -1,0 +1,9 @@
+{
+    "shadow_fleet_name": "Frota das Sombras", 
+    "shadow_fleet_desc": "Teletransporte no Sins2",
+	"player_faction_name.trader_corsair": "Corsários",
+	"player_faction_description.trader_corsair": "Agora é meu!",
+    "player_faction_name.trader_smuggler": "Contrabandistas", 
+    "player_faction_description.trader_smuggler": "Contrabando para todos" ,
+    "end" : "Das Ende"
+}

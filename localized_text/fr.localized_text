@@ -1,0 +1,9 @@
+{
+    "shadow_fleet_name": "Flotte de l'Ombre", 
+	"shadow_fleet_desc": "Téléportation dans Sins2",
+	"player_faction_name.trader_corsair": "Corsaires",
+	"player_faction_description.trader_corsair": "Maintenant, c'est à moi !",
+	"player_faction_name.trader_smuggler": "Contrebandiers",
+	"player_faction_description.trader_smuggler": "Contrebande pour tous",
+	"end" : "Das Ende"
+}

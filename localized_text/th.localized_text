@@ -1,0 +1,9 @@
+{
+    "shadow_fleet_name": "กองเรือเงา", 
+	"shadow_fleet_desc": "การเคลื่อนที่แบบเทレポートใน Sins2",
+	"player_faction_name.trader_corsair": "คอร์แซร์",
+	"player_faction_description.trader_corsair": "ตอนนี้มันเป็นของฉันแล้ว!",
+	"player_faction_name.trader_smuggler": "นักลักลอบขนของ", 
+	"player_faction_description.trader_smuggler": "ของเถื่อนสำหรับทุกคน"  ,
+	"end" : "Das Ende"
+}

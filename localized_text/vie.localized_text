@@ -1,0 +1,9 @@
+{
+	"shadow_fleet_name": "Hạm đội Bóng đêm", 
+	"shadow_fleet_desc": "Dịch chuyển tức thời trong Sins2",
+	"player_faction_name.trader_corsair": "Hải tặc",
+	"player_faction_description.trader_corsair": "Bây giờ nó là của tôi!",
+	"player_faction_name.trader_smuggler": "Những kẻ buôn lậu", 
+    "player_faction_description.trader_smuggler": "Hàng lậu cho mọi người" ,
+	"end" : "Das Ende"
+}

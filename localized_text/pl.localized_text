@@ -1,0 +1,9 @@
+{
+    "shadow_fleet_name": "Flota Cienia", 
+	"shadow_fleet_desc": "Teleportacja w Sins2",
+	"player_faction_name.trader_corsair": "Korsarze",
+	"player_faction_description.trader_corsair": "Teraz to moje!",
+	"player_faction_name.trader_smuggler": "Przemytnicy", 
+	"player_faction_description.trader_smuggler": "Kontrabanda dla każdego",
+	"end" : "Das Ende"
+}

@@ -1,0 +1,9 @@
+{
+    "shadow_fleet_name": "Árnyékflotta", 
+	"shadow_fleet_desc": "Teleportálás a Sins2-ben",
+	"player_faction_name.trader_corsair": "Kalózok",
+	"player_faction_description.trader_corsair": "Most már az enyém!",
+	"player_faction_name.trader_smuggler": "Csempészek", 
+	"player_faction_description.trader_smuggler": "Csempészáru mindenkinek",
+	"end" : "Das Ende"
+}

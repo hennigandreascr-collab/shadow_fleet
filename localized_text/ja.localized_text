@@ -1,0 +1,9 @@
+{
+    "shadow_fleet_name": "シャドウ・フリート", 
+	"shadow_fleet_desc": "Sins2でのテレポート",
+	"player_faction_name.trader_corsair": "コルセア",
+	"player_faction_description.trader_corsair": "これは私のものだ！",
+	"player_faction_name.trader_smuggler": "密輸業者", 
+	"player_faction_description.trader_smuggler": "皆に禁制品を",	
+	"end" : "Das Ende"
+}

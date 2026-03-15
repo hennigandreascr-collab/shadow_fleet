@@ -1,0 +1,9 @@
+{
+    "shadow_fleet_name": "Armada Bayangan", 
+	"shadow_fleet_desc": "Teleportasi di Sins2"
+	"player_faction_name.trader_corsair": "Bajak Laut",
+	"player_faction_description.trader_corsair": "Sekarang ini milikku!",
+	"player_faction_name.trader_smuggler": "Penyelundup", 
+	"player_faction_description.trader_smuggler": "Kontraband untuk semua orang",
+	"end" : "Das Ende"
+}

@@ -1,0 +1,9 @@
+{
+    "shadow_fleet_name": "그림자 함대", 
+	"shadow_fleet_desc": "Sins2의 텔레포트",
+	"player_faction_name.trader_corsair": "코르세어",
+	"player_faction_description.trader_corsair": "이제 이건 내 것이다!",
+	"player_faction_name.trader_smuggler": "밀수꾼", 
+	"player_faction_description.trader_smuggler": "모두를 위한 밀수품",
+	"end" : "Das Ende"
+}

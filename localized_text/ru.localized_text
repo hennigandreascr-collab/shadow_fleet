@@ -1,0 +1,9 @@
+{
+    "shadow_fleet_name": "Теневой флот", 
+	"shadow_fleet_desc": "Телепортация в Sins2",
+	"player_faction_name.trader_corsair": "Корсары",
+	"player_faction_description.trader_corsair": "Теперь это моё!",
+	"player_faction_name.trader_smuggler": "Контрабандисты", 
+	"player_faction_description.trader_smuggler": "Контрабанда для всех",
+	"end" : "Das Ende"
+}
