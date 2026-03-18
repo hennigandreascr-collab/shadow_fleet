@@ -5,5 +5,13 @@
 	"player_faction_description.trader_corsair": "Ora è mio!",
 	"player_faction_name.trader_smuggler": "Contrabbandieri", 
 	"player_faction_description.trader_smuggler": "Contrabbando per tutti",	
+	"trader_research_field_name_civilian_lore": "conoscenza logistica",
+	"trader_research_field_name_military_lore": "conoscenza militare",
+    "trader_corsair_civic_lore_0_research_subject_name": "Eins",
+    "trader_corsair_civic_lore_0_research_subject_name_uppercase": "EINS",
+    "trader_corsair_civic_lore_0_research_subject_description" : "Herumrollen",
+    "trader_smuggler_civic_lore_0_research_subject_name": "1",
+    "trader_smuggler_civic_lore_0_research_subject_name_uppercase": "5 - 4",
+    "trader_smuggler_civic_lore_0_research_subject_description" : "Rum-Rollen",
 	"end" : "Das Ende"
 }

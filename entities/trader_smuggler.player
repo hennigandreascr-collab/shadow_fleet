@@ -699,6 +699,11 @@
                 }],
                 "research_fields": [
                 {
+                    "id": "civilian_lore",
+                    "name": "trader_research_field_name_civilian_lore",
+                    "picture": "advent_research_field_picture_civilian_evangelism"
+                },
+                {
                     "id": "civilian_industry",
                     "name": "trader_research_field_name_civilian_industry",
                     "picture": "trader_research_field_picture_civilian_industry"
@@ -843,6 +848,11 @@
                     "button_background": "trader_research_tier_button_background_4_military"
                 }],
                 "research_fields": [
+                {
+                    "id": "military_lore",
+                    "name": "trader_research_field_name_military_lore",
+                    "picture": "advent_research_field_picture_military_protection"
+                },
                 {
                     "id": "military_mobilization",
                     "name": "trader_research_field_name_military_mobilization",
@@ -1087,6 +1097,7 @@
             "trader_upgrade_volcanic_biosphere_credit_rate",
             "trader_war_measures_act",
             "trader_wormhole_travel",
+            "trader_smuggler_civic_lore_0",
             "trader_unlock_commodity_exchange_unit_item",
             "trader_unlock_population_growth_ability"
         ],
@@ -1101,6 +1112,7 @@
             "trader_structure_hull",
             "trader_war_measures_act",
             "trader_counter_deployment",
+            "trader_smuggler_civic_lore_0",
             "trader_unlock_home_guard_outpost_unit_item"
         ]
     },

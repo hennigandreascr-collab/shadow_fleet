@@ -705,6 +705,11 @@
                 }],
                 "research_fields": [
                 {
+                    "id": "civilian_lore",
+                    "name": "trader_research_field_name_civilian_lore",
+                    "picture": "advent_research_field_picture_civilian_evangelism"
+                },
+                {
                     "id": "civilian_industry",
                     "name": "trader_research_field_name_civilian_industry",
                     "picture": "trader_research_field_picture_civilian_industry"
@@ -849,6 +854,11 @@
                     "button_background": "trader_research_tier_button_background_4_military"
                 }],
                 "research_fields": [
+                {
+                    "id": "military_lore",
+                    "name": "trader_research_field_name_military_lore",
+                    "picture": "advent_research_field_picture_military_protection"
+                },
                 {
                     "id": "military_mobilization",
                     "name": "trader_research_field_name_military_mobilization",
@@ -1091,6 +1101,7 @@
             "trader_upgrade_volcanic_biosphere",
             "trader_upgrade_volcanic_biosphere_credit_rate",
             "trader_wormhole_travel",
+            "trader_corsair_civic_lore_0",
             "trader_unlock_commodity_exchange_unit_item",
             "trader_unlock_population_growth_ability"
         ],
@@ -1107,6 +1118,7 @@
             "trader_unlock_rebel_titan_rail_gun_weapon_unit_item",
             "trader_unlock_human_doctrine_center_unit_item",
             "trader_unlock_pirate_mercenary_base_unit_item",
+            "trader_corsair_civic_lore_0",
             "trader_orbital_cannon_structure_range"
         ]
     },

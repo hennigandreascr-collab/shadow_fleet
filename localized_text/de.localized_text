@@ -5,5 +5,13 @@
     "player_faction_description.trader_corsair": "Jetzt gehört es mir!",
     "player_faction_name.trader_smuggler": "Schmuggler",
     "player_faction_description.trader_smuggler": "Konterbande für alle",
+	"trader_research_field_name_civilian_lore": "logistisches Wissen",
+    "trader_research_field_name_military_lore": "militärisches Wissen",
+    "trader_corsair_civic_lore_0_research_subject_name": "Eins",
+    "trader_corsair_civic_lore_0_research_subject_name_uppercase": "EINS",
+    "trader_corsair_civic_lore_0_research_subject_description" : "Herumrollen",
+    "trader_smuggler_civic_lore_0_research_subject_name": "1",
+    "trader_smuggler_civic_lore_0_research_subject_name_uppercase": "5 - 4",
+    "trader_smuggler_civic_lore_0_research_subject_description" : "Rum-Rollen",
     "end": "Das Ende"
 }

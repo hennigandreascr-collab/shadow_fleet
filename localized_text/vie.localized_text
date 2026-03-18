@@ -5,5 +5,13 @@
 	"player_faction_description.trader_corsair": "Bây giờ nó là của tôi!",
 	"player_faction_name.trader_smuggler": "Những kẻ buôn lậu", 
     "player_faction_description.trader_smuggler": "Hàng lậu cho mọi người" ,
+    "trader_corsair_civic_lore_0_research_subject_name": "Eins",
+    "trader_corsair_civic_lore_0_research_subject_name_uppercase": "EINS",
+    "trader_corsair_civic_lore_0_research_subject_description" : "Herumrollen",
+    "trader_smuggler_civic_lore_0_research_subject_name": "1",
+    "trader_smuggler_civic_lore_0_research_subject_name_uppercase": "5 - 4",
+    "trader_smuggler_civic_lore_0_research_subject_description" : "Rum-Rollen",
+	"trader_research_field_name_civilian_lore": "kiến thức hậu cần",
+	"trader_research_field_name_military_lore": "kiến thức quân sự",
 	"end" : "Das Ende"
 }

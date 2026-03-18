@@ -5,5 +5,13 @@
 	"player_faction_description.trader_corsair": "ตอนนี้มันเป็นของฉันแล้ว!",
 	"player_faction_name.trader_smuggler": "นักลักลอบขนของ", 
 	"player_faction_description.trader_smuggler": "ของเถื่อนสำหรับทุกคน"  ,
+	"trader_research_field_name_civilian_lore": "ความรู้ด้านโลจิสติกส์",
+	"trader_research_field_name_military_lore": "ความรู้ทางการทหาร",
+    "trader_corsair_civic_lore_0_research_subject_name": "Eins",
+    "trader_corsair_civic_lore_0_research_subject_name_uppercase": "EINS",
+    "trader_corsair_civic_lore_0_research_subject_description" : "Herumrollen",
+    "trader_smuggler_civic_lore_0_research_subject_name": "1",
+    "trader_smuggler_civic_lore_0_research_subject_name_uppercase": "5 - 4",
+    "trader_smuggler_civic_lore_0_research_subject_description" : "Rum-Rollen",
 	"end" : "Das Ende"
 }
