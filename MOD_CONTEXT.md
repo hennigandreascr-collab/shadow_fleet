@@ -32,7 +32,11 @@
 - 1 starbase ability (self-destruct) in template form
 - Localization files: 15 languages (en, de, es, fr, hu, id, it, ja, ko, pl, pt_br, ru, th, vie, zh_cn)
 
+## Localization Language Codes (ISO-639)
+- en, de, es, fr, hu, id, it, ja, ko, pl, pt_br, ru, th, vie, zh_cn
+
 ## Next Development Areas
 - Expand with more units/structures
 - Finalize starbase ability (remove `.try` when ready)
 - Consider creating as independent race (vs. Trader variants)
+- **Translations**: Request language support across all 15 languages when new content needs localization
