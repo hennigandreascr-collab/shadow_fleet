@@ -1102,6 +1102,7 @@
             "trader_upgrade_volcanic_biosphere_credit_rate",
             "trader_wormhole_travel",
             "trader_corsair_civic_lore_0",
+            "trader_corsair_civic_lore_1",
             "trader_unlock_commodity_exchange_unit_item",
             "trader_unlock_population_growth_ability"
         ],
@@ -1119,6 +1120,7 @@
             "trader_unlock_human_doctrine_center_unit_item",
             "trader_unlock_pirate_mercenary_base_unit_item",
             "trader_corsair_civic_lore_0",
+            "trader_corsair_civic_lore_1",
             "trader_orbital_cannon_structure_range"
         ]
     },

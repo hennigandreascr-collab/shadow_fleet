@@ -4,12 +4,12 @@
     "tier": 0,
     "field": "civilian_lore",
     "field_coord": [0, 0],
-    "research_time": 60.0,
+    "research_time": 75.0,
     "price":
     {
-        "credits": 250.0,
-        "metal": 25.0,
-        "crystal": 75.0
+        "credits": 300.0,
+        "metal": 50.0,
+        "crystal": 100.0
     },
     "name": "trader_corsair_civic_lore_0_research_subject_name",
     "name_uppercase": "trader_corsair_civic_lore_0_research_subject_name_uppercase",

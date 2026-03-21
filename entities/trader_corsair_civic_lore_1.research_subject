@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "domain": "civilian",
+    "tier": 0,
+    "field": "civilian_lore",
+    "field_coord": [1, 0],
+    "research_time": 75.0,
+    "price":
+    {
+        "credits": 300.0,
+        "metal": 50.0,
+        "crystal": 100.0
+    },
+    "prerequisites": [
+        ["trader_corsair_civic_lore_0"]
+    ],
+    "name": "trader_corsair_civic_lore_1_research_subject_name",
+    "name_uppercase": "trader_corsair_civic_lore_1_research_subject_name_uppercase",
+    "description": "trader_corsair_civic_lore_1_research_subject_description",
+    "hud_icon": "advent_max_supply_1_research_subject_hud_icon",
+    "tooltip_picture": "advent_max_supply_1_research_subject_tooltip_picture"
+}
