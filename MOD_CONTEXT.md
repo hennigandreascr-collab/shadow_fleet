@@ -44,6 +44,13 @@
 
 This ensures German is the source language and all translations stay synchronized.
 
+### Translation Process Notes
+- Use the exact same key structure from `de.localized_text` in all language files
+- Replace only the German **text values** with translations for each language
+- Preserve JSON formatting, tabs/spaces, and the trailing "end" key
+- When replacing, match the exact context including surrounding lines to avoid mismatches
+- All 15 language files must have identical keys; only the values differ
+
 ## Next Development Areas
 - Expand with more units/structures
 - Finalize starbase ability (remove `.try` when ready)
