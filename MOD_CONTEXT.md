@@ -35,6 +35,15 @@
 ## Localization Language Codes (ISO-639)
 - en, de, es, fr, hu, id, it, ja, ko, pl, pt_br, ru, th, vie, zh_cn
 
+## Translation Workflow
+1. **Edit German source**: Modify `localized_text/de.localized_text` with German text for new/changed keys
+2. **Commit to Git**: Push your German changes with a descriptive commit message
+3. **Request sync**: Tell me which keys were added/changed in German
+4. **Auto-translate**: I translate those keys to all 14 other languages and update their respective `.localized_text` files
+5. **Commit translations**: All translated files are committed together
+
+This ensures German is the source language and all translations stay synchronized.
+
 ## Next Development Areas
 - Expand with more units/structures
 - Finalize starbase ability (remove `.try` when ready)
