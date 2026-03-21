@@ -13,5 +13,11 @@
     "trader_smuggler_civic_lore_0_research_subject_name": "1",
     "trader_smuggler_civic_lore_0_research_subject_name_uppercase": "5 - 4",
     "trader_smuggler_civic_lore_0_research_subject_description" : "Rom-Gördülés",
+    "trader_corsair_civic_lore_1_research_subject_name": "Kettő",
+    "trader_corsair_civic_lore_1_research_subject_name_uppercase": "KETTŐ",
+    "trader_corsair_civic_lore_1_research_subject_description" : "Csúszás",
+    "trader_smuggler_civic_lore_1_research_subject_name": "És kettő",
+    "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "ÉS KETTŐ",
+    "trader_smuggler_civic_lore_1_research_subject_description" : "És csúszás",
 	"end" : "Das Ende"
 }

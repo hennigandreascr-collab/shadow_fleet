@@ -13,5 +13,11 @@
     "trader_smuggler_civic_lore_0_research_subject_name": "1",
     "trader_smuggler_civic_lore_0_research_subject_name_uppercase": "5 - 4",
     "trader_smuggler_civic_lore_0_research_subject_description" : "Rum-Rotolamento",
+    "trader_corsair_civic_lore_1_research_subject_name": "Due",
+    "trader_corsair_civic_lore_1_research_subject_name_uppercase": "DUE",
+    "trader_corsair_civic_lore_1_research_subject_description" : "Strisciamento",
+    "trader_smuggler_civic_lore_1_research_subject_name": "E due",
+    "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "E DUE",
+    "trader_smuggler_civic_lore_1_research_subject_description" : "E strisciamento",
 	"end" : "Das Ende"
 }

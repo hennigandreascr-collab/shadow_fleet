@@ -13,5 +13,11 @@
     "trader_smuggler_civic_lore_0_research_subject_name": "1",
     "trader_smuggler_civic_lore_0_research_subject_name_uppercase": "5 - 4",
     "trader_smuggler_civic_lore_0_research_subject_description" : "Rum-Toczenie się",
+    "trader_corsair_civic_lore_1_research_subject_name": "Dwa",
+    "trader_corsair_civic_lore_1_research_subject_name_uppercase": "DWA",
+    "trader_corsair_civic_lore_1_research_subject_description" : "Czołganie się",
+    "trader_smuggler_civic_lore_1_research_subject_name": "I dwa",
+    "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "I DWA",
+    "trader_smuggler_civic_lore_1_research_subject_description" : "I czołganie się",
 	"end" : "Das Ende"
 }

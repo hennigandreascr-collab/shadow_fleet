@@ -13,5 +13,11 @@
     "trader_smuggler_civic_lore_0_research_subject_name": "1",
     "trader_smuggler_civic_lore_0_research_subject_name_uppercase": "5 - 4",
     "trader_smuggler_civic_lore_0_research_subject_description" : "รัม-กลิ้ง",
+    "trader_corsair_civic_lore_1_research_subject_name": "สอง",
+    "trader_corsair_civic_lore_1_research_subject_name_uppercase": "สอง",
+    "trader_corsair_civic_lore_1_research_subject_description" : "คลาน",
+    "trader_smuggler_civic_lore_1_research_subject_name": "และสอง",
+    "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "และสอง",
+    "trader_smuggler_civic_lore_1_research_subject_description" : "และคลาน",
 	"end" : "Das Ende"
 }

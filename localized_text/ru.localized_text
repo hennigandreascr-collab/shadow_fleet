@@ -13,5 +13,11 @@
     "trader_smuggler_civic_lore_0_research_subject_name": "1",
     "trader_smuggler_civic_lore_0_research_subject_name_uppercase": "5 - 4",
     "trader_smuggler_civic_lore_0_research_subject_description" : "Ром-Катание",
+    "trader_corsair_civic_lore_1_research_subject_name": "Два",
+    "trader_corsair_civic_lore_1_research_subject_name_uppercase": "ДВА",
+    "trader_corsair_civic_lore_1_research_subject_description" : "Ползание",
+    "trader_smuggler_civic_lore_1_research_subject_name": "И два",
+    "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "И ДВА",
+    "trader_smuggler_civic_lore_1_research_subject_description" : "И ползание",
 	"end" : "Das Ende"
 }
