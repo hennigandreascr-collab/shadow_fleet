@@ -7,11 +7,11 @@
 	"player_faction_description.trader_smuggler": "Kontraband untuk semua orang",
 	"trader_research_field_name_civilian_lore": "pengetahuan logistik",
 	"trader_research_field_name_military_lore": "pengetahuan militer",
-    "trader_corsair_civic_lore_0_research_subject_name": "Eins",
-    "trader_corsair_civic_lore_0_research_subject_name_uppercase": "EINS",
-    "trader_corsair_civic_lore_0_research_subject_description" : "Herumrollen",
+    "trader_corsair_civic_lore_0_research_subject_name": "Satu",
+    "trader_corsair_civic_lore_0_research_subject_name_uppercase": "SATU",
+    "trader_corsair_civic_lore_0_research_subject_description" : "Berguling",
     "trader_smuggler_civic_lore_0_research_subject_name": "1",
     "trader_smuggler_civic_lore_0_research_subject_name_uppercase": "5 - 4",
-    "trader_smuggler_civic_lore_0_research_subject_description" : "Rum-Rollen",
+    "trader_smuggler_civic_lore_0_research_subject_description" : "Rom-Berguling",
 	"end" : "Das Ende"
 }

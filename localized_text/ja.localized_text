@@ -7,11 +7,11 @@
 	"player_faction_description.trader_smuggler": "皆に禁制品を",	
 	"trader_research_field_name_civilian_lore": "ロジスティクスの伝承",
 	"trader_research_field_name_military_lore": "軍事伝承;군사 지식",
-    "trader_corsair_civic_lore_0_research_subject_name": "Eins",
-    "trader_corsair_civic_lore_0_research_subject_name_uppercase": "EINS",
-    "trader_corsair_civic_lore_0_research_subject_description" : "Herumrollen",
+    "trader_corsair_civic_lore_0_research_subject_name": "ワン",
+    "trader_corsair_civic_lore_0_research_subject_name_uppercase": "ワン",
+    "trader_corsair_civic_lore_0_research_subject_description" : "ローリング",
     "trader_smuggler_civic_lore_0_research_subject_name": "1",
     "trader_smuggler_civic_lore_0_research_subject_name_uppercase": "5 - 4",
-    "trader_smuggler_civic_lore_0_research_subject_description" : "Rum-Rollen",
+    "trader_smuggler_civic_lore_0_research_subject_description" : "ラム-ローリング",
 	"end" : "Das Ende"
 }
