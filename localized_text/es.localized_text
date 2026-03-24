@@ -19,5 +19,11 @@
     "trader_smuggler_civic_lore_1_research_subject_name": "Y dos",
     "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "Y DOS",
     "trader_smuggler_civic_lore_1_research_subject_description" : "Y arrastrarse",
+    "trader_corsair_civic_lore_2_research_subject_name": "Tres",
+    "trader_corsair_civic_lore_2_research_subject_name_uppercase": "TRES",
+    "trader_corsair_civic_lore_2_research_subject_description" : "Arrastrarse",
+    "trader_smuggler_civic_lore_2_research_subject_name": "Y tres",
+    "trader_smuggler_civic_lore_2_research_subject_name_uppercase": "Y TRES",
+    "trader_smuggler_civic_lore_2_research_subject_description" : "Y arrastrarse",
 	"end" : "El Fin"
 }

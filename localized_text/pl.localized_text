@@ -19,5 +19,11 @@
     "trader_smuggler_civic_lore_1_research_subject_name": "I dwa",
     "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "I DWA",
     "trader_smuggler_civic_lore_1_research_subject_description" : "I czołganie się",
+    "trader_corsair_civic_lore_2_research_subject_name": "Trzy",
+    "trader_corsair_civic_lore_2_research_subject_name_uppercase": "TRZY",
+    "trader_corsair_civic_lore_2_research_subject_description" : "Czołganie się",
+    "trader_smuggler_civic_lore_2_research_subject_name": "I trzy",
+    "trader_smuggler_civic_lore_2_research_subject_name_uppercase": "I TRZY",
+    "trader_smuggler_civic_lore_2_research_subject_description" : "I czołganie się",
 	"end" : "Das Ende"
 }

@@ -18,6 +18,12 @@
     "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "和二",
     "trader_smuggler_civic_lore_1_research_subject_description" : "和爬行",
 	"trader_research_field_name_civilian_lore": "物流知识",
+    "trader_corsair_civic_lore_2_research_subject_name": "三",
+    "trader_corsair_civic_lore_2_research_subject_name_uppercase": "三",
+    "trader_corsair_civic_lore_2_research_subject_description" : "爬行",
+    "trader_smuggler_civic_lore_2_research_subject_name": "和三",
+    "trader_smuggler_civic_lore_2_research_subject_name_uppercase": "和三",
+    "trader_smuggler_civic_lore_2_research_subject_description" : "和爬行",
 	"trader_research_field_name_military_lore": "军事知识",
 	"end" : "Das Ende"
 }

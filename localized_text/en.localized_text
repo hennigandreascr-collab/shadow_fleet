@@ -19,5 +19,11 @@
     "trader_smuggler_civic_lore_1_research_subject_name": "And Two",
     "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "AND TWO",
     "trader_smuggler_civic_lore_1_research_subject_description" : "And Crawling",
+    "trader_corsair_civic_lore_2_research_subject_name": "Three",
+    "trader_corsair_civic_lore_2_research_subject_name_uppercase": "THREE",
+    "trader_corsair_civic_lore_2_research_subject_description" : "Crawling",
+    "trader_smuggler_civic_lore_2_research_subject_name": "And Three",
+    "trader_smuggler_civic_lore_2_research_subject_name_uppercase": "AND THREE",
+    "trader_smuggler_civic_lore_2_research_subject_description" : "And Crawling",
     "end": "The End"
 }

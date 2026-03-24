@@ -19,5 +19,11 @@
     "trader_smuggler_civic_lore_1_research_subject_name": "És kettő",
     "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "ÉS KETTŐ",
     "trader_smuggler_civic_lore_1_research_subject_description" : "És csúszás",
+    "trader_corsair_civic_lore_2_research_subject_name": "Három",
+    "trader_corsair_civic_lore_2_research_subject_name_uppercase": "HÁROM",
+    "trader_corsair_civic_lore_2_research_subject_description" : "Csúszás",
+    "trader_smuggler_civic_lore_2_research_subject_name": "És három",
+    "trader_smuggler_civic_lore_2_research_subject_name_uppercase": "ÉS HÁROM",
+    "trader_smuggler_civic_lore_2_research_subject_description" : "És csúszás",
 	"end" : "Das Ende"
 }

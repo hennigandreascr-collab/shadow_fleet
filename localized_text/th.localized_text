@@ -19,5 +19,11 @@
     "trader_smuggler_civic_lore_1_research_subject_name": "และสอง",
     "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "และสอง",
     "trader_smuggler_civic_lore_1_research_subject_description" : "และคลาน",
+    "trader_corsair_civic_lore_2_research_subject_name": "สาม",
+    "trader_corsair_civic_lore_2_research_subject_name_uppercase": "สาม",
+    "trader_corsair_civic_lore_2_research_subject_description" : "คลาน",
+    "trader_smuggler_civic_lore_2_research_subject_name": "และสาม",
+    "trader_smuggler_civic_lore_2_research_subject_name_uppercase": "และสาม",
+    "trader_smuggler_civic_lore_2_research_subject_description" : "และคลาน",
 	"end" : "Das Ende"
 }

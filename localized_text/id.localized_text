@@ -19,5 +19,11 @@
     "trader_smuggler_civic_lore_1_research_subject_name": "Dan dua",
     "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "DAN DUA",
     "trader_smuggler_civic_lore_1_research_subject_description" : "Dan merangkak",
+    "trader_corsair_civic_lore_2_research_subject_name": "Tiga",
+    "trader_corsair_civic_lore_2_research_subject_name_uppercase": "TIGA",
+    "trader_corsair_civic_lore_2_research_subject_description" : "Merangkak",
+    "trader_smuggler_civic_lore_2_research_subject_name": "Dan tiga",
+    "trader_smuggler_civic_lore_2_research_subject_name_uppercase": "DAN TIGA",
+    "trader_smuggler_civic_lore_2_research_subject_description" : "Dan merangkak",
 	"end" : "Das Ende"
 }

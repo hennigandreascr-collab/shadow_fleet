@@ -19,5 +19,11 @@
     "trader_smuggler_civic_lore_1_research_subject_name": "Et deux",
     "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "ET DEUX",
     "trader_smuggler_civic_lore_1_research_subject_description" : "Et ramper",
+    "trader_corsair_civic_lore_2_research_subject_name": "Trois",
+    "trader_corsair_civic_lore_2_research_subject_name_uppercase": "TROIS",
+    "trader_corsair_civic_lore_2_research_subject_description" : "Ramper",
+    "trader_smuggler_civic_lore_2_research_subject_name": "Et trois",
+    "trader_smuggler_civic_lore_2_research_subject_name_uppercase": "ET TROIS",
+    "trader_smuggler_civic_lore_2_research_subject_description" : "Et ramper",
 	"end" : "Das Ende"
 }

@@ -19,5 +19,11 @@
     "trader_smuggler_civic_lore_1_research_subject_name": "그리고 둘",
     "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "그리고 둘",
     "trader_smuggler_civic_lore_1_research_subject_description" : "그리고 기어가다",
+    "trader_corsair_civic_lore_2_research_subject_name": "셋",
+    "trader_corsair_civic_lore_2_research_subject_name_uppercase": "셋",
+    "trader_corsair_civic_lore_2_research_subject_description" : "기어가다",
+    "trader_smuggler_civic_lore_2_research_subject_name": "그리고 셋",
+    "trader_smuggler_civic_lore_2_research_subject_name_uppercase": "그리고 셋",
+    "trader_smuggler_civic_lore_2_research_subject_description" : "그리고 기어가다",
 	"end" : "Das Ende"
 }

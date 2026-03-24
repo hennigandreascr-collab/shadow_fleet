@@ -19,5 +19,11 @@
     "trader_smuggler_civic_lore_1_research_subject_name": "そしてツー",
     "trader_smuggler_civic_lore_1_research_subject_name_uppercase": "そしてツー",
     "trader_smuggler_civic_lore_1_research_subject_description" : "そして這う",
+    "trader_corsair_civic_lore_2_research_subject_name": "スリー",
+    "trader_corsair_civic_lore_2_research_subject_name_uppercase": "スリー",
+    "trader_corsair_civic_lore_2_research_subject_description" : "這う",
+    "trader_smuggler_civic_lore_2_research_subject_name": "そしてスリー",
+    "trader_smuggler_civic_lore_2_research_subject_name_uppercase": "そしてスリー",
+    "trader_smuggler_civic_lore_2_research_subject_description" : "そして這う",
 	"end" : "Das Ende"
 }
