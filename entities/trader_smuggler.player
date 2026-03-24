@@ -1099,6 +1099,7 @@
             "trader_wormhole_travel",
             "trader_smuggler_civic_lore_0",
             "trader_smuggler_civic_lore_1",
+            "trader_smuggler_civic_lore_2",
             "trader_unlock_commodity_exchange_unit_item",
             "trader_unlock_population_growth_ability"
         ],
@@ -1115,6 +1116,7 @@
             "trader_counter_deployment",
             "trader_smuggler_civic_lore_0",
             "trader_smuggler_civic_lore_1",
+            "trader_smuggler_civic_lore_2",
             "trader_unlock_home_guard_outpost_unit_item"
         ]
     },

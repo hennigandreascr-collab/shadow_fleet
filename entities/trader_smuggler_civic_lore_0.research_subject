@@ -7,9 +7,9 @@
     "research_time": 60.0,
     "price":
     {
-        "credits": 250.0,
+        "credits": 400.0,
         "metal": 25.0,
-        "crystal": 75.0
+        "crystal": 50.0
     },
     "name": "trader_smuggler_civic_lore_0_research_subject_name",
     "name_uppercase": "trader_smuggler_civic_lore_0_research_subject_name_uppercase",
