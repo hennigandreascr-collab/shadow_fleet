@@ -1104,6 +1104,7 @@
             "trader_corsair_civic_lore_0",
             "trader_corsair_civic_lore_1",
             "trader_corsair_civic_lore_2",
+            "trader_corsair_civic_lore_3",
             "trader_unlock_commodity_exchange_unit_item",
             "trader_unlock_population_growth_ability"
         ],
@@ -1123,6 +1124,7 @@
             "trader_corsair_civic_lore_0",
             "trader_corsair_civic_lore_1",
             "trader_corsair_civic_lore_2",
+            "trader_corsair_civic_lore_3",
             "trader_orbital_cannon_structure_range"
         ]
     },
