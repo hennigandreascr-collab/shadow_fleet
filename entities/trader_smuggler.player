@@ -1101,6 +1101,12 @@
             "trader_smuggler_civic_lore_1",
             "trader_smuggler_civic_lore_2",
             "trader_smuggler_civic_lore_3",
+            "trader_smuggler_civic_lore_4",
+            "trader_smuggler_civic_lore_5",
+            "trader_smuggler_civic_lore_6",
+            "trader_smuggler_civic_lore_7",
+            "trader_smuggler_civic_lore_8",
+            "trader_smuggler_civic_lore_9",
             "trader_unlock_commodity_exchange_unit_item",
             "trader_unlock_population_growth_ability"
         ],
@@ -1119,6 +1125,12 @@
             "trader_smuggler_civic_lore_1",
             "trader_smuggler_civic_lore_2",
             "trader_smuggler_civic_lore_3",
+            "trader_smuggler_civic_lore_4",
+            "trader_smuggler_civic_lore_5",
+            "trader_smuggler_civic_lore_6",
+            "trader_smuggler_civic_lore_7",
+            "trader_smuggler_civic_lore_8",
+            "trader_smuggler_civic_lore_9",
             "trader_unlock_home_guard_outpost_unit_item"
         ]
     },

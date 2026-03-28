@@ -4,14 +4,14 @@
     "tier": 1,
     "field": "civilian_lore",
     "field_coord": [3, 0],
-    "research_time": 120.0,
+    "research_time": 150.0,
     "price":
     {
-        "credits": 700.0,
-        "metal": 100.0,
-        "crystal": 125.0
+        "credits": 750.0,
+        "metal": 125.0,
+        "crystal": 150.0
     },
-    "prerequisites": [
+   "prerequisites": [
         ["trader_smuggler_civic_lore_2"]
     ],
     "name": "trader_smuggler_civic_lore_3_research_subject_name",
