@@ -1,0 +1,30 @@
+name: Auto Localize Shadow Fleet
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'localized_text/de.localized_text' # Trigger nur bei Änderung der deutschen Datei
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Google Translate Localization
+        uses: gapit-html5/google-translate-localization@v2
+        with:
+          # Deine Master-Datei
+          input_file: 'localized_text/de.localized_text'
+          # Alle Zielsprachen (ohne de)
+          languages: '["en", "es", "fr", "hu", "id", "it", "ja", "ko", "pl", "pt_br", "ru", "th", "vie", "zh_cn"]'
+          # Pfad-Muster für die Ziel-Dateien
+          output_file: 'localized_text/{language}.localized_text'
+
+      - name: Commit & Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-translation of localized_text"
