@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "domain": "military",
+    "tier": 4,
+    "field": "military_lore",
+    "field_coord": [9, 0],
+    "research_time": 600.0,
+    "price":
+    {
+        "credits": 2250.0,
+        "metal": 425.0,
+        "crystal": 750.0
+    },
+    "prerequisites": [
+        ["trader_corsair_military_lore_8"]
+    ],
+    "name": "trader_corsair_civic_lore_9_research_subject_name",
+    "name_uppercase": "trader_corsair_civic_lore_9_research_subject_name_uppercase",
+    "description": "trader_corsair_civic_lore_9_research_subject_description",
+    "hud_icon": "vasari_max_supply_4_research_subject_hud_icon",
+    "tooltip_picture": "vasari_max_supply_4_research_subject_tooltip_picture"
+}
