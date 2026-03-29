@@ -1,6 +1,5 @@
 0.0.3 The "shadow fleet" research field "lore" is to be introduced.
-It contains 2 civil research subject for the corsairs and one for the smugglers.
-
+It contains 10 civic and military research subjects for the corsairs and one for the smugglers.
 0.0.2 Die Player are committed to github, the Mod starts with them.
 0.0.1 Introducing new Player for Sins of solar empire 2
 *.start_mode - files  discovered. A big extension!
