@@ -1,9 +1,14 @@
 {
-    "shadow_fleet_name": "Flotte de l'Ombre", 
-	"shadow_fleet_desc": "Téléportation dans Sins2",
-	"player_faction_name.trader_corsair": "Corsaires",
-	"player_faction_description.trader_corsair": "Maintenant, c'est à moi !",
-	"player_faction_name.trader_smuggler": "Contrebandiers",
-	"player_faction_description.trader_smuggler": "Contrebande pour tous",
-	"end" : "Das Ende"
+    "shadow_fleet_name": "Flotte de l'Ombre",
+    "shadow_fleet_desc": "Téléportation dans Sins2",
+    "player_faction_name.trader_corsair": "Corsaires",
+    "player_faction_description.trader_corsair": "Maintenant, c'est à moi !",
+    "player_faction_name.trader_smuggler": "Contrebandiers",
+    "player_faction_description.trader_smuggler": "Contrebande pour tous",
+    "trader_shields_strikecraft_research_subject_name": "Modernisation des boucliers des chasseurs",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "MODERNISATION DES\nBOUCLIERS DES CHASSEURS",
+    "trader_shields_structure_research_subject_name": "Modernisation des boucliers des structures",
+    "trader_shields_structure_research_subject_name_uppercase": "MODERNISATION DES\nBOUCLIERS DES STRUCTURES",
+    "trader_shields_structure_research_subject_description": "Octroie des boucliers aux structures.",
+    "end": "Fin"
 }

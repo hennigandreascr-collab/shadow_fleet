@@ -1,9 +1,14 @@
 {
-    "shadow_fleet_name": "Flota Cienia", 
-	"shadow_fleet_desc": "Teleportacja w Sins2",
-	"player_faction_name.trader_corsair": "Korsarze",
-	"player_faction_description.trader_corsair": "Teraz to moje!",
-	"player_faction_name.trader_smuggler": "Przemytnicy", 
-	"player_faction_description.trader_smuggler": "Kontrabanda dla każdego",
-	"end" : "Das Ende"
+    "shadow_fleet_name": "Cienista Flota",
+    "shadow_fleet_desc": "Teleportacja w Sins2",
+    "player_faction_name.trader_corsair": "Korsarze",
+    "player_faction_description.trader_corsair": "Teraz to moje!",
+    "player_faction_name.trader_smuggler": "Przemytnicy",
+    "player_faction_description.trader_smuggler": "Kontrabanda dla wszystkich",
+    "trader_shields_strikecraft_research_subject_name": "Doposażenie osłon myśliwców",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "DOPOSAŻENIE OSŁON\nMYŚLIWCÓW",
+    "trader_shields_structure_research_subject_name": "Doposażenie osłon struktur",
+    "trader_shields_structure_research_subject_name_uppercase": "DOPOSAŻENIE OSŁON\nSTRUKTUR",
+    "trader_shields_structure_research_subject_description": "Zapewnia osłony strukturom.",
+    "end": "Koniec"
 }

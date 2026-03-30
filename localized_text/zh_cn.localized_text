@@ -1,9 +1,14 @@
 {
-	"shadow_fleet_name": "暗影舰队", 
-	"shadow_fleet_desc": "Sins2 中的瞬移",
-	"player_faction_name.trader_corsair": "私掠者",
-	"player_faction_description.trader_corsair": "现在它是我的了！",
-	"player_faction_name.trader_smuggler": "走私者", 
-	"player_faction_description.trader_smuggler": "人人皆可走私",
-	"end" : "Das Ende"
+    "shadow_fleet_name": "暗影舰队",
+    "shadow_fleet_desc": "Sins2 中的传送",
+    "player_faction_name.trader_corsair": "海盗",
+    "player_faction_description.trader_corsair": "现在归我了！",
+    "player_faction_name.trader_smuggler": "走私者",
+    "player_faction_description.trader_smuggler": "让违禁品遍及各地",
+    "trader_shields_strikecraft_research_subject_name": "舰载机护盾改装",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "舰载机护盾改装",
+    "trader_shields_structure_research_subject_name": "结构护盾改装",
+    "trader_shields_structure_research_subject_name_uppercase": "结构护盾改装",
+    "trader_shields_structure_research_subject_description": "为结构提供护盾。",
+    "end": "结束"
 }

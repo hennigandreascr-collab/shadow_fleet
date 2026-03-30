@@ -1,9 +1,14 @@
 {
-    "shadow_fleet_name": "Flotta dell'Ombra", 
-	"shadow_fleet_desc": "Teletrasporto in Sins2",
-	"player_faction_name.trader_corsair": "Corsari",
-	"player_faction_description.trader_corsair": "Ora è mio!",
-	"player_faction_name.trader_smuggler": "Contrabbandieri", 
-	"player_faction_description.trader_smuggler": "Contrabbando per tutti",	
-	"end" : "Das Ende"
+    "shadow_fleet_name": "Flotta dell'Ombra",
+    "shadow_fleet_desc": "Teletrasporto in Sins2",
+    "player_faction_name.trader_corsair": "Corsari",
+    "player_faction_description.trader_corsair": "Ora è mio!",
+    "player_faction_name.trader_smuggler": "Contrabbandieri",
+    "player_faction_description.trader_smuggler": "Contrabbando per tutti",
+    "trader_shields_strikecraft_research_subject_name": "Riconversione scudi caccia",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "RICONVERSIONE SCUDI\nCACCIA",
+    "trader_shields_structure_research_subject_name": "Riconversione scudi strutture",
+    "trader_shields_structure_research_subject_name_uppercase": "RICONVERSIONE SCUDI\nSTRUTTURE",
+    "trader_shields_structure_research_subject_description": "Fornisce scudi alle strutture.",
+    "end": "Fine"
 }

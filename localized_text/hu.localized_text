@@ -1,9 +1,14 @@
 {
-    "shadow_fleet_name": "Árnyékflotta", 
-	"shadow_fleet_desc": "Teleportálás a Sins2-ben",
-	"player_faction_name.trader_corsair": "Kalózok",
-	"player_faction_description.trader_corsair": "Most már az enyém!",
-	"player_faction_name.trader_smuggler": "Csempészek", 
-	"player_faction_description.trader_smuggler": "Csempészáru mindenkinek",
-	"end" : "Das Ende"
+    "shadow_fleet_name": "Árnyflotta",
+    "shadow_fleet_desc": "Teleportáció a Sins2-ben",
+    "player_faction_name.trader_corsair": "Kalózok",
+    "player_faction_description.trader_corsair": "Most már az enyém!",
+    "player_faction_name.trader_smuggler": "Csempészek",
+    "player_faction_description.trader_smuggler": "Csempészáru mindenkinek",
+    "trader_shields_strikecraft_research_subject_name": "Vadászgép pajzs-utólagos felszerelés",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "VADÁSZGÉP PAJZS-\nUTÓLAGOS FELSZERELÉS",
+    "trader_shields_structure_research_subject_name": "Struktúra pajzs-utólagos felszerelés",
+    "trader_shields_structure_research_subject_name_uppercase": "STRUKTÚRA PAJZS-\nUTÓLAGOS FELSZERELÉS",
+    "trader_shields_structure_research_subject_description": "Pajzsot ad az építményeknek.",
+    "end": "Vége"
 }

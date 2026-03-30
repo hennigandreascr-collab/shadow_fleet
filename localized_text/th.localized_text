@@ -1,9 +1,14 @@
 {
-    "shadow_fleet_name": "กองเรือเงา", 
-	"shadow_fleet_desc": "การเคลื่อนที่แบบเทレポートใน Sins2",
-	"player_faction_name.trader_corsair": "คอร์แซร์",
-	"player_faction_description.trader_corsair": "ตอนนี้มันเป็นของฉันแล้ว!",
-	"player_faction_name.trader_smuggler": "นักลักลอบขนของ", 
-	"player_faction_description.trader_smuggler": "ของเถื่อนสำหรับทุกคน"  ,
-	"end" : "Das Ende"
+    "shadow_fleet_name": "กองยานเงา",
+    "shadow_fleet_desc": "การเคลื่อนย้ายมวลสารใน Sins2",
+    "player_faction_name.trader_corsair": "คอร์แอร์",
+    "player_faction_description.trader_corsair": "ตอนนี้มันเป็นของฉันแล้ว!",
+    "player_faction_name.trader_smuggler": "นักลักลอบขนของเถื่อน",
+    "player_faction_description.trader_smuggler": "ของเถื่อนสำหรับทุกคน",
+    "trader_shields_strikecraft_research_subject_name": "การติดตั้งเกราะป้องกันยานจู่โจม",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "การติดตั้งเกราะป้องกันยานจู่โจม",
+    "trader_shields_structure_research_subject_name": "การติดตั้งเกราะป้องกันโครงสร้าง",
+    "trader_shields_structure_research_subject_name_uppercase": "การติดตั้งเกราะป้องกันโครงสร้าง",
+    "trader_shields_structure_research_subject_description": "เพิ่มเกราะป้องกันให้กับสิ่งก่อสร้าง",
+    "end": "จบ"
 }

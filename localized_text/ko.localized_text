@@ -1,9 +1,14 @@
 {
-    "shadow_fleet_name": "그림자 함대", 
-	"shadow_fleet_desc": "Sins2의 텔레포트",
-	"player_faction_name.trader_corsair": "코르세어",
-	"player_faction_description.trader_corsair": "이제 이건 내 것이다!",
-	"player_faction_name.trader_smuggler": "밀수꾼", 
-	"player_faction_description.trader_smuggler": "모두를 위한 밀수품",
-	"end" : "Das Ende"
+    "shadow_fleet_name": "섀도우 함대",
+    "shadow_fleet_desc": "Sins2 텔레포트",
+    "player_faction_name.trader_corsair": "코르세르",
+    "player_faction_description.trader_corsair": "이제 이건 내 거야!",
+    "player_faction_name.trader_smuggler": "밀수꾼",
+    "player_faction_description.trader_smuggler": "모두를 위한 밀수품",
+    "trader_shields_strikecraft_research_subject_name": "함재기 방어막 개조",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "함재기 방어막 개조",
+    "trader_shields_structure_research_subject_name": "구조물 방어막 개조",
+    "trader_shields_structure_research_subject_name_uppercase": "구조물 방어막 개조",
+    "trader_shields_structure_research_subject_description": "구조물에 방어막을 부여합니다.",
+    "end": "끝"
 }

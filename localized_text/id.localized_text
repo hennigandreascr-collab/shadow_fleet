@@ -1,9 +1,14 @@
 {
-    "shadow_fleet_name": "Armada Bayangan", 
-	"shadow_fleet_desc": "Teleportasi di Sins2",
-	"player_faction_name.trader_corsair": "Bajak Laut",
-	"player_faction_description.trader_corsair": "Sekarang ini milikku!",
-	"player_faction_name.trader_smuggler": "Penyelundup", 
-	"player_faction_description.trader_smuggler": "Kontraband untuk semua orang",
-	"end" : "Das Ende"
+    "shadow_fleet_name": "Armada Bayangan",
+    "shadow_fleet_desc": "Teleportasi di Sins2",
+    "player_faction_name.trader_corsair": "Korsair",
+    "player_faction_description.trader_corsair": "Sekarang ini milikku!",
+    "player_faction_name.trader_smuggler": "Penyelundup",
+    "player_faction_description.trader_smuggler": "Kontraband untuk semua",
+    "trader_shields_strikecraft_research_subject_name": "Pemasangan ulang perisai kapal tempur",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "PEMASANGAN ULANG\nPERISAI KAPAL TEMPUR",
+    "trader_shields_structure_research_subject_name": "Pemasangan ulang perisai struktur",
+    "trader_shields_structure_research_subject_name_uppercase": "PEMASANGAN ULANG\nPERISAI STRUKTUR",
+    "trader_shields_structure_research_subject_description": "Memberikan perisai pada struktur.",
+    "end": "Selesai"
 }

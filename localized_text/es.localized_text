@@ -1,9 +1,14 @@
 {
-	"shadow_fleet_name": "Flota de las Sombras", 
-	"shadow_fleet_desc": "Teletransportación en Sins2",
-	"player_faction_name.trader_corsair": "Corsarios",
-	"player_faction_description.trader_corsair": "¡Ahora es mío!",
-	"player_faction_name.trader_smuggler": "Contrabandistas", 
-	"player_faction_description.trader_smuggler": "Contrabando para todos",
-	"end" : "El Fin"
+    "shadow_fleet_name": "Flota de las Sombras",
+    "shadow_fleet_desc": "Teletransportación en Sins2",
+    "player_faction_name.trader_corsair": "Corsarios",
+    "player_faction_description.trader_corsair": "¡Ahora es mío!",
+    "player_faction_name.trader_smuggler": "Contrabandistas",
+    "player_faction_description.trader_smuggler": "Contrabando para todos",
+    "trader_shields_strikecraft_research_subject_name": "Refuerzo de escudos de cazas",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "REFUERZO DE ESCUDOS\nDE CAZAS",
+    "trader_shields_structure_research_subject_name": "Refuerzo de escudos de estructuras",
+    "trader_shields_structure_research_subject_name_uppercase": "REFUERZO DE ESCUDOS\nDE ESTRUCTURAS",
+    "trader_shields_structure_research_subject_description": "Otorga escudos a las estructuras.",
+    "end": "Fin"
 }

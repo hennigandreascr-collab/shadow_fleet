@@ -5,5 +5,10 @@
     "player_faction_description.trader_corsair": "Now it's mine!",
     "player_faction_name.trader_smuggler": "Smugglers",
     "player_faction_description.trader_smuggler": "Contraband for everyone",
+    "trader_shields_strikecraft_research_subject_name": "Strikecraft Shield Refit",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "STRIKECRAFT\nSHIELD REFIT",
+    "trader_shields_structure_research_subject_name": "Structure Shield Refit",
+    "trader_shields_structure_research_subject_name_uppercase": "STRUCTURE\nSHIELD REFIT",
+    "trader_shields_structure_research_subject_description": "Grants shields to structures.",
     "end": "The End"
 }
