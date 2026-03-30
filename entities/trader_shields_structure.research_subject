@@ -11,6 +11,14 @@
         "metal": 125.0,
         "crystal": 150.0
     },
+    "unit_modifiers": [
+    {
+        "modifier_type": "max_shield_points",
+        "value_behavior": "additive",
+        "value": 1500.0,
+        "tags": [
+            "structure"]
+    }],
     "name": "trader_shields_structure_research_subject_name",
     "name_uppercase": "trader_shields_structure_research_subject_name_uppercase",
     "description": "trader_shields_structure_research_subject_description",

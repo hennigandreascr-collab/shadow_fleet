@@ -466,8 +466,8 @@
         "dlc2_trader_loyalist_super_capital_ship"
     ],
     "buildable_strikecraft": [
-        "trader_smuggler_interceptor_strikecraft",
-        "trader_smuggler_bomber_strikecraft"
+        "trader_interceptor_strikecraft",
+        "trader_bomber_strikecraft"
     ],
     "structure_build_groups": [
     {

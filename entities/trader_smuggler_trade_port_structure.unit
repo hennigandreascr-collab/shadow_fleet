@@ -80,15 +80,6 @@
             "experience_given_on_death": 50.0
         }]
     },
-    "unit_modifiers": [
-    {
-        "modifier_type": "max_shield_points",
-        "value_behavior": "additive",
-        "value": 1500.0,
-        "prerequisites": [
-            ["trader_shields_structure"]
-        ]
-    }],
     "build":
     {
         "build_time": 75.0,

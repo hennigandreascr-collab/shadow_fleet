@@ -11,6 +11,14 @@
         "metal": 100.0,
         "crystal": 125.0
     },
+    "unit_modifiers": [
+    {
+        "modifier_type": "max_shield_points",
+        "value_behavior": "additive",
+        "value": 60.0,
+        "tags": [
+            "structure"]
+    }],
     "name": "trader_shields_strikecraft_research_subject_name",
     "name_uppercase": "trader_shields_strikecraft_research_subject_name_uppercase",
     "description": "trader_shields_strikecraft_research_subject_description",
