@@ -497,7 +497,7 @@
         "trader_culture_center_structure",
         "trader_exotic_factory_structure",
         "trader_population_structure",
-        "trader_trade_port_structure",
+        "trader_smuggler_trade_port_structure",
         "trader_loyalist_titan_factory_structure",
         "trader_autocannon_defense_structure",
         "trader_retrofit_bay_structure",
@@ -699,11 +699,6 @@
                 }],
                 "research_fields": [
                 {
-                    "id": "civilian_lore",
-                    "name": "trader_research_field_name_civilian_lore",
-                    "picture": "advent_research_field_picture_civilian_evangelism"
-                },
-                {
                     "id": "civilian_industry",
                     "name": "trader_research_field_name_civilian_industry",
                     "picture": "trader_research_field_picture_civilian_industry"
@@ -849,11 +844,6 @@
                 }],
                 "research_fields": [
                 {
-                    "id": "military_lore",
-                    "name": "trader_research_field_name_military_lore",
-                    "picture": "advent_research_field_picture_military_protection"
-                },
-                {
                     "id": "military_mobilization",
                     "name": "trader_research_field_name_military_mobilization",
                     "picture": "trader_research_field_picture_military_mobilization"
@@ -956,6 +946,8 @@
             "trader_shields_corvette",
             "trader_shields_cruiser",
             "trader_shields_frigate",
+            "trader_shields_structure",
+            "trader_shields_strikecraft",
             "trader_starbase_item_price",
             "trader_structure_build_rate",
             "trader_structure_hull",
@@ -1097,12 +1089,12 @@
             "trader_upgrade_volcanic_biosphere_credit_rate",
             "trader_war_measures_act",
             "trader_wormhole_travel",
-            "trader_smuggler_civic_lore_0",
-            "trader_smuggler_civic_lore_1",
             "trader_unlock_commodity_exchange_unit_item",
             "trader_unlock_population_growth_ability"
         ],
         "faction_research_subjects": [
+            "trader_shields_structure",
+            "trader_shields_strikecraft",
             "trader_unlock_garrison_recruitment_center",
             "trader_garrison_max_supply",
             "trader_unlock_heavy_garrison",
@@ -1113,8 +1105,6 @@
             "trader_structure_hull",
             "trader_war_measures_act",
             "trader_counter_deployment",
-            "trader_smuggler_civic_lore_0",
-            "trader_smuggler_civic_lore_1",
             "trader_unlock_home_guard_outpost_unit_item"
         ]
     },

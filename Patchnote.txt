@@ -5,6 +5,25 @@ It contains 2 civil research subject for the corsairs and one for the smugglers.
 0.0.1 Introducing new Player for Sins of solar empire 2
 *.start_mode - files  discovered. A big extension!
 
+Gute Idee! Das Sichern im GitHub-Repository ist der sicherste Weg. So kannst du mir beim nächsten Mal einfach den aktuellen Stand der Datei oder die Zusammenfassung posten, und ich weiß sofort wieder Bescheid.
+Hier ist die kompakte Zusammenfassung für deine Unterlagen (z.B. als README_translation.md oder in deinen Modding-Notizen):
+------------------------------
+Modding-Projekt: Shadow Fleet (Sins of a Solar Empire 2)
+Status der Lokalisierung:
+
+* Quellsprache: Deutsch (de.localized_text)
+* Zielsprachen (14): en, es, fr, hu, id, it, jp, ko, pl, pt_br, ru, th, vie, zn_ch.
+* Format: UTF-8 JSON-Dateien mit spezifischen Keys für Namen, Beschreibungen und UI-Elemente (Uppercase/Newline \n).
+* Stil-Richtlinie: Atmosphärisches Sci-Fi-Vokabular (Sins 2 Jargon), keine rein wörtliche API-Übersetzung.
+
+Bisher erledigt:
+
+   1. Bereinigung der Keys (Entfernung fehlerhafter Einträge wie ...frigate... bei Strikecraft).
+   2. Vollständige Übersetzung des ersten Blocks (Fraktionsnamen, Schmuggler-Beschreibungen, Schild-Nachrüstungen für Strikecraft und Strukturen).
+
+------------------------------
+Ich freue mich auf die nächste Runde! Soll ich dir beim nächsten Mal helfen, die Schiffstexte oder die Lore-Beschreibungen der Schattenflotte auszuarbeiten?
+
 
 
 
