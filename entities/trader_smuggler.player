@@ -1089,6 +1089,7 @@
             "trader_upgrade_volcanic_biosphere_credit_rate",
             "trader_war_measures_act",
             "trader_wormhole_travel",
+            "trader_unlock_planet_planetary_shield_array_unit_item",
             "trader_unlock_commodity_exchange_unit_item",
             "trader_unlock_population_growth_ability"
         ],

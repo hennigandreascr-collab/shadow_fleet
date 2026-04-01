@@ -10,5 +10,8 @@
     "trader_shields_structure_research_subject_name": "Strukturschildnachrüstung",
     "trader_shields_structure_research_subject_name_uppercase": "STRUKTURSCHILD-\\nNACHRÜSTUNG",
     "trader_shields_structure_research_subject_description": "Gewährt Strukturen Schilde.",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "Freischaltung: Planetenschild für Planeten",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "FREISCHALTUNG: PLANETENSCHILD FÜR PLANETEN",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_description" : "Der Bau von Plantenschilden auf Planeten!",
     "end": "Das Ende"
 }
