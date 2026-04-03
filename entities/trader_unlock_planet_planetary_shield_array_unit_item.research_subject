@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "domain": "military",
+    "tier": 3,
+    "field": "military_engineering",
+    "field_coord": [7, 8],
+    "research_time": 420.0,
+    "price":
+    {
+        "credits": 1750.0,
+        "metal": 325.0,
+        "crystal": 550.0
+    },
+    "prerequisites": [
+        ["trader_shields_cruiser"]
+    ],
+    "name": "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name",
+    "name_uppercase": "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase",
+    "description": "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_description",
+    "hud_icon": "trader_starbase_planetary_shield_array_unit_item_hud_icon",
+    "tooltip_picture": "trader_starbase_planetary_shield_array_unit_item_tooltip_picture"
+}

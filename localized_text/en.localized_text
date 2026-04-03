@@ -10,5 +10,13 @@
     "trader_shields_structure_research_subject_name": "Structure Shield Refit",
     "trader_shields_structure_research_subject_name_uppercase": "STRUCTURE\nSHIELD REFIT",
     "trader_shields_structure_research_subject_description": "Grants shields to structures.",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "Unlock: Planetary Shield for Planets",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "UNLOCK: PLANETARY SHIELD FOR PLANETS",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_description": "The construction of planetary shields on planets!",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name": "Unlock: Orbital Planetary Shield for Corsairs",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name_uppercase": "UNLOCK: ORBITAL PLANETARY SHIELD FOR CORSAIRS",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Allows the construction of orbital planetary shields for Corsairs.",
+    "trader_corsair_planetary_shield_structure_description": "A shield generator aboard this powerful structure shields the planet from enemy attacks.",
+    "trader_corsair_planetary_shield_structure_name": "Planetary Shield",
     "end": "The End"
 }

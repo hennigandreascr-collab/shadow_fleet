@@ -510,6 +510,7 @@
         "trader_phase_jump_inhibitor_structure",
         "trader_hangar_defense_structure",
         "trader_starbase",
+        "trader_corsair_planetary_shield_structure",
         "trader_orbital_cannon_structure"
     ],
     "allowed_traffic_ports": [
@@ -1097,6 +1098,7 @@
             "trader_upgrade_volcanic_biosphere_credit_rate",
             "trader_wormhole_travel",
             "trader_unlock_commodity_exchange_unit_item",
+            "trader_corsair_unlock_planetary_shield_structure",
             "trader_unlock_population_growth_ability"
         ],
         "faction_research_subjects": [
@@ -1112,6 +1114,7 @@
             "trader_unlock_rebel_titan_rail_gun_weapon_unit_item",
             "trader_unlock_human_doctrine_center_unit_item",
             "trader_unlock_pirate_mercenary_base_unit_item",
+            "trader_corsair_unlock_planetary_shield_structure",
             "trader_orbital_cannon_structure_range"
         ]
     },

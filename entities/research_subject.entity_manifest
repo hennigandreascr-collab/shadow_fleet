@@ -1,6 +1,8 @@
 {
     "ids": [
         "trader_shields_strikecraft",
+        "trader_unlock_planet_planetary_shield_array_unit_item",
+        "trader_corsair_unlock_planetary_shield_structure",
         "trader_shields_structure"
     ]
 }
