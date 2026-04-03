@@ -10,5 +10,13 @@
     "trader_shields_structure_research_subject_name": "Pemasangan ulang perisai struktur",
     "trader_shields_structure_research_subject_name_uppercase": "PEMASANGAN ULANG\nPERISAI STRUKTUR",
     "trader_shields_structure_research_subject_description": "Memberikan perisai pada struktur.",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "Buka kunci: Perisai Planet untuk Planet",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "BUKA KUNCI: PERISAI PLANET UNTUK PLANET",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_description": "Pembangunan perisai planet di planet-planet!",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name": "Buka kunci: Perisai Planet orbital untuk Korsair",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name_uppercase": "BUKA KUNCI: PERISAI PLANET ORBITAL UNTUK KORSAIR",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Memungkinkan pembangunan perisai planet orbital untuk Korsair.",
+    "trader_corsair_planetary_shield_structure_description": "Generator perisai di atas struktur kuat ini melindungi planet dari serangan musuh.",
+    "trader_corsair_planetary_shield_structure_name": "Perisai Planet",
     "end": "Selesai"
 }

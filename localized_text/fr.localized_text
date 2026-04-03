@@ -10,5 +10,13 @@
     "trader_shields_structure_research_subject_name": "Modernisation des boucliers des structures",
     "trader_shields_structure_research_subject_name_uppercase": "MODERNISATION DES\nBOUCLIERS DES STRUCTURES",
     "trader_shields_structure_research_subject_description": "Octroie des boucliers aux structures.",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "Déblocage : Bouclier planétaire pour les planètes",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "DÉBLOCAGE : BOUCLIER PLANÉTAIRE POUR LES PLANÈTES",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_description": "La construction de boucliers planétaires sur les planètes !",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name": "Déblocage : Bouclier planétaire orbital pour les Corsaires",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name_uppercase": "DÉBLOCAGE : BOUCLIER PLANÉTAIRE ORBITAL POUR LES CORSAIRES",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Permet la construction de boucliers planétaires orbitaux pour les Corsaires.",
+    "trader_corsair_planetary_shield_structure_description": "Un générateur de bouclier à bord de cette puissante structure protège la planète des attaques ennemies.",
+    "trader_corsair_planetary_shield_structure_name": "Bouclier planétaire",
     "end": "Fin"
 }

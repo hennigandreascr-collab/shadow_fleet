@@ -10,5 +10,13 @@
     "trader_shields_structure_research_subject_name": "Refuerzo de escudos de estructuras",
     "trader_shields_structure_research_subject_name_uppercase": "REFUERZO DE ESCUDOS\nDE ESTRUCTURAS",
     "trader_shields_structure_research_subject_description": "Otorga escudos a las estructuras.",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "Desbloqueo: Escudo planetario para planetas",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "DESBLOQUEO: ESCUDO PLANETARIO PARA PLANETAS",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_description": "¡La construcción de escudos planetarios en los planetas!",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name": "Desbloqueo: Escudo planetario orbital para corsarios",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name_uppercase": "DESBLOQUEO: ESCUDO PLANETARIO ORBITAL PARA CORSARIOS",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Permite la construcción de escudos planetarios orbitales para los corsarios.",
+    "trader_corsair_planetary_shield_structure_description": "Un generador de escudos a bordo de esta poderosa estructura protege al planeta de los ataques enemigos.",
+    "trader_corsair_planetary_shield_structure_name": "Escudo planetario",
     "end": "Fin"
 }

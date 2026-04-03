@@ -10,5 +10,13 @@
     "trader_shields_structure_research_subject_name": "Riconversione scudi strutture",
     "trader_shields_structure_research_subject_name_uppercase": "RICONVERSIONE SCUDI\nSTRUTTURE",
     "trader_shields_structure_research_subject_description": "Fornisce scudi alle strutture.",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "Sblocco: Scudo planetario per pianeti",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "SBLOCCO: SCUDO PLANETARIO PER PIANETI",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_description": "La costruzione di scudi planetari sui pianeti!",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name": "Sblocco: Scudo planetario orbitale per Corsari",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name_uppercase": "SBLOCCO: SCUDO PLANETARIO ORBITALE PER CORSARI",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Consente la costruzione di scudi planetari orbitali per i Corsari.",
+    "trader_corsair_planetary_shield_structure_description": "Un generatore di scudi a bordo di questa potente struttura protegge il pianeta dagli attacchi nemici.",
+    "trader_corsair_planetary_shield_structure_name": "Scudo planetario",
     "end": "Fine"
 }

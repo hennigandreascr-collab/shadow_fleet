@@ -10,5 +10,13 @@
     "trader_shields_structure_research_subject_name": "Struktúra pajzs-utólagos felszerelés",
     "trader_shields_structure_research_subject_name_uppercase": "STRUKTÚRA PAJZS-\nUTÓLAGOS FELSZERELÉS",
     "trader_shields_structure_research_subject_description": "Pajzsot ad az építményeknek.",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "Feloldás: Bolygópajzs a bolygók számára",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "FELOLDÁS: BOLYGÓPAJZS A BOLYGÓK SZÁMÁRA",
+    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_description": "Bolygópajzsok építése a bolygókon!",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name": "Feloldás: Orbitális bolygópajzs a Kalózoknak",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name_uppercase": "FELOLDÁS: ORBITÁLIS BOLYGÓPAJZS A KALÓZOKNAK",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Lehetővé teszi orbitális bolygópajzsok építését a Kalózok számára.",
+    "trader_corsair_planetary_shield_structure_description": "Egy pajzsgenerátor ezen a hatalmas építményen megvédi a bolygót az ellenséges támadásoktól.",
+    "trader_corsair_planetary_shield_structure_name": "Bolygópajzs",
     "end": "Vége"
 }
