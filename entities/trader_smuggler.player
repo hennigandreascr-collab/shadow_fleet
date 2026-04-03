@@ -1218,6 +1218,7 @@
         "trader_xeno_tech_lab",
         "trader_surface_irradiated_planet_research_lab",
         "trader_fissile_plant",
+        "trader_planet_planetary_shield_array",
         "trader_commodity_exchange"
     ],
     "planet_component_build_groups": [

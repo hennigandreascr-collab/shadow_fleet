@@ -13,5 +13,10 @@
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "Freischaltung: Planetenschild für Planeten",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "FREISCHALTUNG: PLANETENSCHILD FÜR PLANETEN",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_description" : "Der Bau von Plantenschilden auf Planeten!",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name": "Freischaltung: orbitaler Planetenschild für Korsaren",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_name_uppercase": "FREISCHALTUNG: ORBITALERPLANETENSCHILD FÜR KORSAREN",
+    "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Ermöglicht den Bau von orbitalen Planetenschilden für Korsaren",
+    "trader_corsair_planetary_shield_structure_description": "Ein Schildgenerator an Bord dieser mächtigen Struktur schirmt den Planten vor feindlichen Angriffen ab.",
+    "trader_corsair_planetary_shield_structure_name": "Planetenschild",
     "end": "Das Ende"
 }
