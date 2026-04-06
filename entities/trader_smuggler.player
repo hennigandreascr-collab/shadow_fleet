@@ -444,7 +444,7 @@
         "trader_light_frigate",
         "trader_skirmisher_corvette_frigate",
         "trader_missile_corvette",
-        "trader_colony_frigate",
+        "trader_shadow_colony_frigate",
         "trader_siege_frigate",
         "trader_carrier_cruiser",
         "trader_antifighter_frigate",
@@ -484,7 +484,7 @@
     }],
     "structure_builder":
     {
-        "ship": "trader_constructor_ship",
+        "ship": "trader_shadow_constructor_ship",
         "special_operation_unit_kind": "structure_builder"
     },
     "structures": [
@@ -517,6 +517,7 @@
     ],
     "ability_created_units": [
         "trader_missile_battery_frigate",
+        "trader_shadow_constructor_ship",
         "trader_starbase"
     ],
     "unit_limits":
