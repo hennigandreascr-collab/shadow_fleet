@@ -1,5 +1,38 @@
-0.0.3 The "shadow fleet" research field "lore" is to be introduced.
-It contains 2 civil research subject for the corsairs and one for the smugglers.
+0.0.4  todos
+Dass die Fähigkeit funktioniert, wenn der Constructor direkt vom Planeten kommt, aber nicht, wenn er von der Kolonie-Fregatte "deployed" wird, liegt meist an einer fehlenden oder falsch gesetzten Owner-Verknüpfung in Sins II.
+Hier sind die drei wahrscheinlichsten Ursachen, die du in deinen JSON-Dateien prüfen solltest:
+## 1. Fehlende Verknüpfung zum Planeten-Inventar
+Der trader_constructor_ship_build_structure.ability ist darauf angewiesen, dass der Constructor weiß, welchem Planeten er gerade zugeordnet ist, um die Logistik-Slots zu nutzen.
+
+* Problem: Wenn die Fregatte den Constructor spawnt, wird dieser oft als "freifliegende" Einheit ohne Heimatplaneten (Home Planet) erstellt.
+* Lösung: Prüfe in der trader_colony_frigate_deploy_constructor.ability, ob beim Spawnen (create_unit) ein Trigger oder Buff mitgegeben wird, der den Constructor dem aktuellen Gravitationsbrunnen (gravity_well) zuordnet. Ohne diese Bindung kann die Baufähigkeit nicht auf die Slots des Planeten zugreifen. [1] 
+
+## 2. "Build Manager" Constraint
+In Sins II besitzen Planeten einen internen build_manager.
+
+* Standard-Constructoren, die am Planeten gebaut werden, registrieren sich automatisch bei diesem Manager.
+* Check: Schau in die trader_shadow_constructor_ship.unit. Gibt es dort Constraints unter abilities, die nur aktiv werden, wenn die Einheit einen bestimmten "Unit Tag" oder "Player Owner" hat?
+* Wird der Constructor von der Fregatte gespawnt, erhält er manchmal einen "Spawned"-Tag, der ihn von regulären Baueinheiten unterscheidet und ihn für die build_structure-Logik des Spiels unsichtbar macht.
+
+## 3. Antimaterie oder Level-Fixierung
+Da du den Branch plantary_slots_deploy_lev nennst:
+
+* Antimaterie: Hat der von der Fregatte gespawnte Constructor genug Start-Antimaterie? Oft starten gespawnte Einheiten mit 0 oder nur 25%, was die build_structure.ability sofort blockiert.
+* Level-Typ: In der .ability Datei des Constructors: Ist der abilityLevelType auf FixedLevel0 oder Intrinsic gesetzt? Wenn die Fregatte die Einheit spawnt, muss sichergestellt sein, dass die Fähigkeit auf dem Constructor direkt auf Level 1 (oder höher) startet. [2] 
+
+Empfohlener Test:
+Öffne die Konsole im Spiel (Strg+Umschalt+D) und klicke den von der Fregatte gespawnten Constructor an. Prüfe, ob die Fähigkeit ausgegraut ist oder ein Fehler wie "No active planet" angezeigt wird.
+Soll ich dir ein Beispiel für den create_unit-Block schreiben, der sicherstellt, dass die Einheit korrekt initialisiert wird?
+Weiterführende Ressourcen:
+
+* Details zur Einheiten-Erstellung findest du im [Sins II Modding Wiki](https://wiki.sinsofasolarempire2.com/space/SSEFW/2284027951/How+to+Create+a+Mod).
+* Die offizielle Modding-Dokumentation auf Steam beschreibt ähnliche Probleme bei "Carrier-spawning" Logiken.
+
+
+[1] [https://forums.sinsofasolarempire.com](https://forums.sinsofasolarempire.com/302640/no-limits-mod)
+[2] [https://forums.sinsofasolarempire.com](https://forums.sinsofasolarempire.com/307838/modding-abilities)
+
+
 
 0.0.2 Die Player are committed to github, the Mod starts with them.
 0.0.1 Introducing new Player for Sins of solar empire 2
