@@ -33,6 +33,61 @@ Weiterführende Ressourcen:
 [2] [https://forums.sinsofasolarempire.com](https://forums.sinsofasolarempire.com/307838/modding-abilities)
 
 
+Das erklärt das Problem perfekt! In Sins of a Solar Empire II ist owner_type oft der unsichtbare Hebel. Wenn du ihn weglässt, wird die Einheit oft als "neutral" oder "besitzerlos" (unbound) gespawnt, wodurch sie keine Berechtigung hat, die Logistik-Slots deines Planeten zu verbrauchen.
+Hier ist die korrigierte und vollständige Version deiner trader_colony_frigate_deploy_constructor.ability. Ich habe die Struktur so angepasst, wie Sins 2 sie für "Deploy"-Aktionen erwartet:
+
+{
+    "version": 0,
+    "action_data_source": "trader_colony_frigate_deploy_constructor",
+    "level_source": "ability",
+    "passive_actions": {
+        "persistant_buff": "trader_colony_frigate_deploy_constructor_on_self"
+    },
+    "gui": {
+        "name": "trader_colony_frigate_deploy_constructor_name",
+        "description": "trader_colony_frigate_deploy_constructor_description",
+        "icon": "trader_colony_frigate_deploy_constructor_icon",
+        "tooltip_line_groups": [
+            {
+                "lines": [
+                    {
+                        "rendering_type": "buff_unit_count",
+                        "name": "trader_colony_frigate_deploy_constructor_unit_count_name",
+                        "value": "constructor_count_value"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+## Der entscheidende Teil (in der zugehörigen Buff-Datei)
+Meistens wird in Sins 2 der eigentliche Spawn-Befehl in einem Buff (den die Fregatte auf sich selbst trägt) ausgeführt, damit das Spiel kontinuierlich prüft, ob der Constructor noch lebt.
+In deiner trader_colony_frigate_deploy_constructor_on_self.buff (oder direkt in der Ability, falls du instant_action nutzt) muss der Block so aussehen:
+
+{
+    "action_type": "create_unit",
+    "unit_definition": "trader_shadow_constructor_ship",
+    "owner_type": "player", 
+    "spawn_strategy": "near_parent",
+    "time_alive": 0,
+    "target_for_buff": "created_unit",
+    "buff_on_created_unit": "trader_constructor_init_buff"
+}
+
+## Warum du owner_type nicht gefunden hast:
+
+   1. Standardwerte: Viele Standard-Sins-Dateien lassen ihn weg, weil sie "Hardcoded"-Logiken nutzen. In Mods musst du ihn oft explizit setzen ("player" oder "first_spawner").
+   2. Schema-Lücke: Wenn deine JSON-Schemata im Repository diesen Key nicht kennen, wird er dir in VS Code auch nicht vorgeschlagen.
+
+Checkliste für dich:
+
+   1. Füge "owner_type": "player" in den create_unit-Block ein.
+   2. Prüfe, ob der Constructor in seiner eigenen .unit-Datei das Tag "role": "constructor" hat. Ohne dieses Tag "weiß" die Engine nicht, dass dieses Schiff überhaupt nach Bauaufträgen suchen soll.
+
+Soll ich dir zeigen, wie du deine JSON-Schemadatei anpassen musst, damit sie owner_type erkennt?
+
+
 
 0.0.2 Die Player are committed to github, the Mod starts with them.
 0.0.1 Introducing new Player for Sins of solar empire 2

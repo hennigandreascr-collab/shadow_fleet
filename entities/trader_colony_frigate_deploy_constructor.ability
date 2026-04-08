@@ -18,6 +18,9 @@
                 {
                     "operator_type": "create_unit",
                     "unit_to_create": "trader_shadow_constructor_ship",
+                    "copy_parent_buff_memory_values": true,
+                    "buff_on_created_unit": "trader_colony_frigate_deploy_constructor",
+                    "special_operation_unit_kind": "structure_builder",
                     "unit_forward":
                     {
                         "direction_type": "unit_forward",
@@ -25,8 +28,7 @@
                         {
                             "unit_type": "current_spawner"
                         }
-                    },
-                    "buff_on_created_unit": "trader_colony_frigate_deploy_constructor"
+                    }
                 }]
             }]
         },
@@ -34,7 +36,8 @@
         "range": "deploy_constructor_range_value",
         "spawned_unit":
         {
-            "unit": "trader_shadow_constructor_ship"
+            "unit": "trader_shadow_constructor_ship",
+            "special_operation_unit_kind": "structure_builder" 
         },
         "auto_cast":
         {
