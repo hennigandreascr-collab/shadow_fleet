@@ -18,5 +18,6 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Umożliwia budowę orbitalnych tarcz planetarnych dla Korsarzy.",
     "trader_corsair_planetary_shield_structure_description": "Generator osłon na pokładzie tej potężnej struktury chroni planetę przed atakami wroga.",
     "trader_corsair_planetary_shield_structure_name": "Tarcza planetarna",
+    "unit_tag_name.logistical_carrier": "Transporter logistyczny",
     "end": "Koniec"
 }

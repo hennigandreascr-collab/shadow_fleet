@@ -18,5 +18,6 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "コルセアによる軌道惑星シールドの建設を可能にします。",
     "trader_corsair_planetary_shield_structure_description": "この強力な構造物に搭載されたシールド発生装置が、敵の攻撃から惑星を保護します。",
     "trader_corsair_planetary_shield_structure_name": "惑星シールド",
+    "unit_tag_name.logistical_carrier": "ロジスティカル・キャリア",
     "end": "終了"
 }

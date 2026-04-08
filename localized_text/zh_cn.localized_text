@@ -18,5 +18,6 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "允许海盗建造轨道行星护盾。",
     "trader_corsair_planetary_shield_structure_description": "这座强大建筑上的护盾发生器可以保护行星免受敌方攻击。",
     "trader_corsair_planetary_shield_structure_name": "行星护盾",
+    "unit_tag_name.logistical_carrier": "物流运输船",
     "end": "结束"
 }

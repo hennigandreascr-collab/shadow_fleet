@@ -18,5 +18,6 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Memungkinkan pembangunan perisai planet orbital untuk Korsair.",
     "trader_corsair_planetary_shield_structure_description": "Generator perisai di atas struktur kuat ini melindungi planet dari serangan musuh.",
     "trader_corsair_planetary_shield_structure_name": "Perisai Planet",
+    "unit_tag_name.logistical_carrier": "Pengangkut Logistik",
     "end": "Selesai"
 }

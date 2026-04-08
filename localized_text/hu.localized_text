@@ -18,5 +18,6 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Lehetővé teszi orbitális bolygópajzsok építését a Kalózok számára.",
     "trader_corsair_planetary_shield_structure_description": "Egy pajzsgenerátor ezen a hatalmas építményen megvédi a bolygót az ellenséges támadásoktól.",
     "trader_corsair_planetary_shield_structure_name": "Bolygópajzs",
+    "unit_tag_name.logistical_carrier": "Logisztikai Szállító",
     "end": "Vége"
 }

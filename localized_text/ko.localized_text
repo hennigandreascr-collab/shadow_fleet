@@ -18,5 +18,6 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "코르세어의 궤도 행성 보호막 건설을 허용합니다.",
     "trader_corsair_planetary_shield_structure_description": "이 강력한 구조물에 탑재된 보호막 발생기가 적의 공격으로부터 행성을 보호합니다.",
     "trader_corsair_planetary_shield_structure_name": "행성 보호막",
+    "unit_tag_name.logistical_carrier": "물류 운반선",
     "end": "종료"
 }

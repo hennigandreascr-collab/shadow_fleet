@@ -449,7 +449,7 @@
         "trader_light_frigate",
         "trader_skirmisher_corvette_frigate",
         "trader_missile_corvette",
-        "trader_colony_frigate",
+        "trader_corsair_colony_frigate",
         "trader_siege_frigate",
         "trader_carrier_cruiser",
         "trader_antifighter_frigate",
@@ -523,6 +523,7 @@
     ],
     "faction_structures": [],
     "ability_created_units": [
+        "trader_civilian_research_lab_structure",
         "trader_missile_battery_frigate",
         "trader_starbase"
     ],
@@ -1127,6 +1128,7 @@
         "trader_salvage_kit",
         "trader_radiation_bomb",
         "trader_flak_burst",
+        "trader_deploy_civilian_research_lab_structure",
         "trader_reserve_squadron_hangar",
         "trader_antimatter_engine",
         "trader_combat_repair_system",

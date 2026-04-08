@@ -18,5 +18,6 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Consente la costruzione di scudi planetari orbitali per i Corsari.",
     "trader_corsair_planetary_shield_structure_description": "Un generatore di scudi a bordo di questa potente struttura protegge il pianeta dagli attacchi nemici.",
     "trader_corsair_planetary_shield_structure_name": "Scudo planetario",
+    "unit_tag_name.logistical_carrier": "Trasportatore logistico",
     "end": "Fine"
 }

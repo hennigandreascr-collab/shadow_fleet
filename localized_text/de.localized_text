@@ -18,5 +18,6 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Ermöglicht den Bau von orbitalen Planetenschilden für Korsaren",
     "trader_corsair_planetary_shield_structure_description": "Ein Schildgenerator an Bord dieser mächtigen Struktur schirmt den Planten vor feindlichen Angriffen ab.",
     "trader_corsair_planetary_shield_structure_name": "Planetenschild",
+    "unit_tag_name.logistical_carrier": "Logistikträger",
     "end": "Das Ende"
 }

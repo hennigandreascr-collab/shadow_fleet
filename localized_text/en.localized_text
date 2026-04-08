@@ -18,5 +18,6 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Allows the construction of orbital planetary shields for Corsairs.",
     "trader_corsair_planetary_shield_structure_description": "A shield generator aboard this powerful structure shields the planet from enemy attacks.",
     "trader_corsair_planetary_shield_structure_name": "Planetary Shield",
+    "unit_tag_name.logistical_carrier": "Logistical Carrier",
     "end": "The End"
 }

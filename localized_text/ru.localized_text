@@ -18,5 +18,6 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Позволяет строить орбитальные планетарные щиты для Корсаров.",
     "trader_corsair_planetary_shield_structure_description": "Генератор щита на борту этой мощной структуры защищает планету от вражеских атак.",
     "trader_corsair_planetary_shield_structure_name": "Планетарный щит",
+    "unit_tag_name.logistical_carrier": "Логистический перевозчик",
     "end": "Конец"
 }

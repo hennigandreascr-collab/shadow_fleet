@@ -18,5 +18,6 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "อนุญาตให้สร้างโล่ป้องกันดาวเคราะห์ในวงโคจรสำหรับคอร์แชร์",
     "trader_corsair_planetary_shield_structure_description": "เครื่องกำเนิดโล่บนสิ่งก่อสร้างอันทรงพลังนี้จะปกป้องดาวเคราะห์จากการโจมตีของศัตรู",
     "trader_corsair_planetary_shield_structure_name": "โล่ป้องกันดาวเคราะห์",
+    "unit_tag_name.logistical_carrier": "เรือขนส่งโลจิสติกส์",
     "end": "จบ"
 }
