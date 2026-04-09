@@ -1,10 +1,10 @@
 {
     "version": 0,
     "item_type": "ship_component",
-    "hud_icon": "trader_civilian_research_lab_structure_hud_icon",
-    "tooltip_picture": "trader_civilian_research_lab_structure_tooltip_picture",
-    "name": "trader_civilian_research_lab_structure_name",
-    "description": "trader_civilian_research_lab_structure_description",
+    "hud_icon": "trader_autocannon_defense_structure_hud_icon",
+    "tooltip_picture": "trader_autocannon_defense_structure_tooltip_picture",
+    "name": "trader_autocannon_defense_structure_name",
+    "description": "trader_autocannon_defense_structure_description",
     "build_time": 50.0,
     "price":
     {
@@ -21,5 +21,5 @@
     "consumable_stack_count": [1],
     "max_count_on_unit": 1,
     "build_group_id": "consumable",
-    "ability": "trader_deploy_civilian_research_lab_structure"
+    "ability": "trader_deploy_autocannon_defense_structure"
 }

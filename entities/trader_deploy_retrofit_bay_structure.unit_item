@@ -1,0 +1,25 @@
+{
+    "version": 0,
+    "item_type": "ship_component",
+    "hud_icon": "trader_retrofit_bay_structure_hud_icon",
+    "tooltip_picture": "trader_retrofit_bay_structure_tooltip_picture",
+    "name": "trader_retrofit_bay_structure_name",
+    "description": "trader_retrofit_bay_structure_description",
+    "build_time": 100.0,
+    "price":
+    {
+        "credits": 1000.0,
+        "metal": 100.0,
+        "crystal": 200.0
+    },
+    "required_unit_tags": [
+        "logistical_carrier",
+        "capital_ship",
+        "super_capital_ship",
+        "titan"
+    ],
+    "consumable_stack_count": [1],
+    "max_count_on_unit": 1,
+    "build_group_id": "consumable",
+    "ability": "trader_deploy_retrofit_bay_structure"
+}

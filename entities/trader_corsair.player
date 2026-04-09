@@ -524,6 +524,8 @@
     "faction_structures": [],
     "ability_created_units": [
         "trader_civilian_research_lab_structure",
+        "trader_retrofit_bay_structure",
+        "trader_autocannon_defense_structure",
         "trader_missile_battery_frigate",
         "trader_starbase"
     ],
@@ -584,6 +586,12 @@
                             "value_behavior": "additive",
                             "modifier_type": "crystal_income_rate",
                             "value": 0.5
+                        }],
+                        "planet_modifiers": [
+                        {
+                            "value_behavior": "additive",
+                            "modifier_type": "max_civilian_structure_slots",
+                            "value": 10.0
                         }]
                     },
                     "button_background": "trader_research_tier_button_background_0_civil"
@@ -603,6 +611,11 @@
                             "value_behavior": "additive",
                             "modifier_type": "max_allied_population_factor",
                             "value": 0.1
+                        },
+                        {
+                            "value_behavior": "additive",
+                            "modifier_type": "max_civilian_structure_slots",
+                            "value": 10.0
                         }]
                     },
                     "button_background": "trader_research_tier_button_background_1_civil"
@@ -633,6 +646,12 @@
                             "value_behavior": "scalar",
                             "modifier_type": "trade_crystal_income_rate",
                             "value": 0.1
+                        }],
+                        "planet_modifiers": [
+                        {
+                            "value_behavior": "additive",
+                            "modifier_type": "max_civilian_structure_slots",
+                            "value": 10.0
                         }]
                     },
                     "button_background": "trader_research_tier_button_background_2_civil"
@@ -658,6 +677,10 @@
                             "value_behavior": "additive",
                             "modifier_type": "max_allied_population_factor",
                             "value": 0.15
+                        },{
+                            "value_behavior": "additive",
+                            "modifier_type": "max_civilian_structure_slots",
+                            "value": 10.0
                         }]
                     },
                     "button_background": "trader_research_tier_button_background_3_civil"
@@ -701,6 +724,12 @@
                             "value_behavior": "scalar",
                             "modifier_type": "trade_crystal_income_rate",
                             "value": 0.15
+                        }],
+                        "planet_modifiers": [
+                        {
+                            "value_behavior": "additive",
+                            "modifier_type": "max_civilian_structure_slots",
+                            "value": 10.0
                         }]
                     },
                     "button_background": "trader_research_tier_button_background_4_civil"
@@ -749,6 +778,12 @@
                             "modifier_type": "max_armor_points",
                             "value_behavior": "scalar",
                             "value": 0.05
+                        }],
+                        "planet_modifiers": [
+                        {
+                            "value_behavior": "additive",
+                            "modifier_type": "max_military_structure_slots",
+                            "value": 10.0
                         }]
                     },
                     "button_background": "trader_research_tier_button_background_0_military"
@@ -768,6 +803,12 @@
                             "modifier_type": "hull_crippled_percentage",
                             "value_behavior": "additive",
                             "value": 0.1
+                        }],
+                        "planet_modifiers": [
+                        {
+                            "value_behavior": "additive",
+                            "modifier_type": "max_military_structure_slots",
+                            "value": 10.0
                         }]
                     },
                     "button_background": "trader_research_tier_button_background_1_military"
@@ -788,6 +829,12 @@
                             "modifier_type": "max_armor_points",
                             "value_behavior": "scalar",
                             "value": 0.05
+                        }],
+                        "planet_modifiers": [
+                        {
+                            "value_behavior": "additive",
+                            "modifier_type": "max_military_structure_slots",
+                            "value": 10.0
                         }]
                     },
                     "button_background": "trader_research_tier_button_background_2_military"
@@ -813,6 +860,12 @@
                             "modifier_type": "hull_crippled_percentage",
                             "value_behavior": "additive",
                             "value": 0.1
+                        }],
+                        "planet_modifiers": [
+                        {
+                            "value_behavior": "additive",
+                            "modifier_type": "max_military_structure_slots",
+                            "value": 10.0
                         }]
                     },
                     "button_background": "trader_research_tier_button_background_3_military"
@@ -846,6 +899,12 @@
                             "modifier_type": "max_armor_points",
                             "value_behavior": "scalar",
                             "value": 0.05
+                        }],
+                        "planet_modifiers": [
+                        {
+                            "value_behavior": "additive",
+                            "modifier_type": "max_military_structure_slots",
+                            "value": 10.0
                         }]
                     },
                     "button_background": "trader_research_tier_button_background_4_military"
@@ -1129,6 +1188,8 @@
         "trader_radiation_bomb",
         "trader_flak_burst",
         "trader_deploy_civilian_research_lab_structure",
+        "trader_deploy_retrofit_bay_structure",
+        "trader_deploy_autocannon_defense_structure",
         "trader_reserve_squadron_hangar",
         "trader_antimatter_engine",
         "trader_combat_repair_system",
