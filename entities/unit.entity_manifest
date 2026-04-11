@@ -3,6 +3,9 @@
         "trader_corsair_colony_frigate",
         "trader_smuggler_trade_ship",
         "trader_corsair_planetary_shield_structure",
+        "trader_autocannon_defense_drop_structure",
+        "trader_retrofit_bay_drop_structure",
+        "trader_civilian_research_lab_drop_structure",
         "trader_smuggler_trade_port_structure"
     ]
 }

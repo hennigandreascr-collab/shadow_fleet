@@ -1,6 +1,9 @@
 {
     "unit_tags": [
     {
+        "name": "drop_structure",
+        "localized_name": "unit_tag_name.drop_structure"
+    },    {
         "name": "logistical_carrier",
         "localized_name": "unit_tag_name.logistical_carrier"
     }]

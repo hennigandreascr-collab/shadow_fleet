@@ -19,5 +19,6 @@
     "trader_corsair_planetary_shield_structure_description": "Generator osłon na pokładzie tej potężnej struktury chroni planetę przed atakami wroga.",
     "trader_corsair_planetary_shield_structure_name": "Tarcza planetarna",
     "unit_tag_name.logistical_carrier": "Transporter logistyczny",
+    "unit_tag_name.drop_structure": "Struktura do upuszczenia",
     "end": "Koniec"
 }

@@ -523,9 +523,10 @@
     ],
     "faction_structures": [],
     "ability_created_units": [
-        "trader_civilian_research_lab_structure",
+        "trader_civilian_research_lab_drop_structure",
         "trader_retrofit_bay_structure",
-        "trader_autocannon_defense_structure",
+        "trader_autocannon_defense_drop_structure",
+        "trader_retrofit_bay_drop_structure",
         "trader_missile_battery_frigate",
         "trader_starbase"
     ],
@@ -549,6 +550,10 @@
         {
             "tag": "starbase",
             "unit_limit": 1
+        },
+        {
+            "tag": "drop_structure",
+            "unit_limit": 15
         },
         {
             "tag": "superweapon",
@@ -985,11 +990,11 @@
             "trader_max_hull_points_0",
             "trader_max_hull_points_1",
             "trader_max_hull_points_2",
-            "trader_max_supply_0",
-            "trader_max_supply_1",
-            "trader_max_supply_2",
-            "trader_max_supply_3",
-            "trader_max_supply_4",
+            "trader_corsair_max_supply_0",
+            "trader_corsair_max_supply_1",
+            "trader_corsair_max_supply_2",
+            "trader_corsair_max_supply_3",
+            "trader_corsair_max_supply_4",
             "trader_mining_track_crystal_rate_0",
             "trader_mining_track_crystal_rate_1",
             "trader_mining_track_metal_rate_0",
@@ -5314,31 +5319,31 @@
         {
             "max_supply": 250,
             "prerequisites": [
-                ["trader_max_supply_0"]
+                ["trader_corsair_max_supply_0"]
             ]
         },
         {
             "max_supply": 500,
             "prerequisites": [
-                ["trader_max_supply_1"]
+                ["trader_corsair_max_supply_1"]
             ]
         },
         {
             "max_supply": 1000,
             "prerequisites": [
-                ["trader_max_supply_2"]
+                ["trader_corsair_max_supply_2"]
             ]
         },
         {
             "max_supply": 1500,
             "prerequisites": [
-                ["trader_max_supply_3"]
+                ["trader_corsair_max_supply_3"]
             ]
         },
         {
             "max_supply": 2000,
             "prerequisites": [
-                ["trader_max_supply_4"]
+                ["trader_corsair_max_supply_4"]
             ]
         }]
     },

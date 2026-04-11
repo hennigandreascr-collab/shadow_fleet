@@ -19,5 +19,6 @@
     "trader_corsair_planetary_shield_structure_description": "这座强大建筑上的护盾发生器可以保护行星免受敌方攻击。",
     "trader_corsair_planetary_shield_structure_name": "行星护盾",
     "unit_tag_name.logistical_carrier": "物流运输船",
+    "unit_tag_name.drop_structure": "投放结构",
     "end": "结束"
 }

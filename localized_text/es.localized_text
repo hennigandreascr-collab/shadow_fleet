@@ -19,5 +19,6 @@
     "trader_corsair_planetary_shield_structure_description": "Un generador de escudos a bordo de esta poderosa estructura protege al planeta de los ataques enemigos.",
     "trader_corsair_planetary_shield_structure_name": "Escudo planetario",
     "unit_tag_name.logistical_carrier": "Transportador logístico",
+    "unit_tag_name.drop_structure": "Estructura de caída",
     "end": "Fin"
 }

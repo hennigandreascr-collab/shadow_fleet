@@ -19,5 +19,6 @@
     "trader_corsair_planetary_shield_structure_description": "A shield generator aboard this powerful structure shields the planet from enemy attacks.",
     "trader_corsair_planetary_shield_structure_name": "Planetary Shield",
     "unit_tag_name.logistical_carrier": "Logistical Carrier",
+    "unit_tag_name.drop_structure": "Drop Structure",
     "end": "The End"
 }

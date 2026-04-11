@@ -19,5 +19,6 @@
     "trader_corsair_planetary_shield_structure_description": "この強力な構造物に搭載されたシールド発生装置が、敵の攻撃から惑星を保護します。",
     "trader_corsair_planetary_shield_structure_name": "惑星シールド",
     "unit_tag_name.logistical_carrier": "ロジスティカル・キャリア",
+    "unit_tag_name.drop_structure": "ドロップ構造",
     "end": "終了"
 }

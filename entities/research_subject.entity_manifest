@@ -3,6 +3,11 @@
         "trader_shields_strikecraft",
         "trader_unlock_planet_planetary_shield_array_unit_item",
         "trader_corsair_unlock_planetary_shield_structure",
+        "trader_corsair_max_supply_0",
+        "trader_corsair_max_supply_1",
+        "trader_corsair_max_supply_2",
+        "trader_corsair_max_supply_3",
+        "trader_corsair_max_supply_4",
         "trader_shields_structure"
     ]
 }

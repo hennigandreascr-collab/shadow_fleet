@@ -19,5 +19,6 @@
     "trader_corsair_planetary_shield_structure_description": "เครื่องกำเนิดโล่บนสิ่งก่อสร้างอันทรงพลังนี้จะปกป้องดาวเคราะห์จากการโจมตีของศัตรู",
     "trader_corsair_planetary_shield_structure_name": "โล่ป้องกันดาวเคราะห์",
     "unit_tag_name.logistical_carrier": "เรือขนส่งโลจิสติกส์",
+    "unit_tag_name.drop_structure": "โครงสร้างการปล่อย",
     "end": "จบ"
 }

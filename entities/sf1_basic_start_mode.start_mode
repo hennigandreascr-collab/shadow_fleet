@@ -176,7 +176,7 @@
             "starting_units_in_hyperspace":
             {},
             "home_planet_starting_population": [400, 400]
-        },
+    },
         "starting_research":
         {
             "starting_research_subjects": []

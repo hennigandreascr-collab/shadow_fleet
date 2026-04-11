@@ -19,5 +19,6 @@
     "trader_corsair_planetary_shield_structure_description": "Ein Schildgenerator an Bord dieser mächtigen Struktur schirmt den Planten vor feindlichen Angriffen ab.",
     "trader_corsair_planetary_shield_structure_name": "Planetenschild",
     "unit_tag_name.logistical_carrier": "Logistikträger",
+    "unit_tag_name.drop_structure": "Abwurfstruktur",
     "end": "Das Ende"
 }

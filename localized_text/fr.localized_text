@@ -19,5 +19,6 @@
     "trader_corsair_planetary_shield_structure_description": "Un générateur de bouclier à bord de cette puissante structure protège la planète des attaques ennemies.",
     "trader_corsair_planetary_shield_structure_name": "Bouclier planétaire",
     "unit_tag_name.logistical_carrier": "Transporteur logistique",
+    "unit_tag_name.drop_structure": "Structure de largage",
     "end": "Fin"
 }

@@ -743,48 +743,246 @@
         "player_definition_id": "trader_corsair",
         "starting_assets":
         {
-            "credits": 1000.0,
-            "metal": 400.0,
-            "crystal": 250.0
+            "credits": 15000.0,
+            "metal": 4500.0,
+            "crystal": 3500.0
         },
+        "starting_exotics": [
+        {
+            "exotic_type": "offense",
+            "count": 3
+        },
+        {
+            "exotic_type": "defense",
+            "count": 3
+        },
+        {
+            "exotic_type": "utility",
+            "count": 3
+        },
+        {
+            "exotic_type": "economic",
+            "count": 3
+        }],
         "home_planet":
         {
             "starting_units_in_gravity_well":
             {
                 "required_units": [
                 {
-                    "unit": "trader_frigate_factory_structure",
+                    "unit": "trader_civilian_research_lab_structure",
+                    "count": [3, 3]
+                },
+                {
+                    "unit": "trader_military_research_lab_structure",
+                    "count": [3, 3]
+                },
+                {
+                    "unit": "trader_starbase",
                     "count": [1, 1]
                 }]
             },
+            "starting_units_in_formations": [
+            {
+                "required_units": [
+                {
+                    "unit": "trader_frigate_factory_structure",
+                    "count": [1, 1]
+                },
+                {
+                    "unit": "trader_capital_ship_factory_structure",
+                    "count": [1, 1]
+                },
+                {
+                    "unit": "trader_retrofit_bay_structure",
+                    "count": [1, 1]
+                },
+                {
+                    "unit": "trader_light_frigate",
+                    "count": [15, 15]
+                },
+                {
+                    "unit": "trader_antiarmor_frigate",
+                    "count": [10, 10]
+                },
+                {
+                    "unit": "trader_carrier_cruiser",
+                    "count": [5, 5]
+                },
+                {
+                    "unit": "trader_robotics_cruiser",
+                    "count": [5, 5]
+                },
+                {
+                    "unit": "trader_heavy_cruiser",
+                    "count": [5, 5]
+                }]
+            }],
             "home_planet_track_levels":
             {
+                "logistics": 4,
+                "defense": 4,
+                "commerce": 5,
+                "mining": 3,
+                "research": 2,
+                "focus": 0,
+                "surveying": 0
+            },
+            "starting_units_in_hyperspace":
+            {},
+            "home_planet_starting_population": [500, 500],
+            "home_planet_starting_items": []
+        },
+        "starting_player_inventory_items": [],
+        "additional_starting_planets":
+        {
+            "count": 3,
+            "allowed_planet_types": [
+            {
+                "planet_type": "terran",
+                "priority": 100
+            },
+            {
+                "planet_type": "oceanic",
+                "priority": 90
+            },
+            {
+                "planet_type": "desert",
+                "priority": 85
+            },
+            {
+                "planet_type": "crystalline",
+                "priority": 80
+            },
+            {
+                "planet_type": "ferrous",
+                "priority": 75
+            },
+            {
+                "planet_type": "magnetic",
+                "priority": 75
+            },
+            {
+                "planet_type": "swamp",
+                "priority": 70
+            },
+            {
+                "planet_type": "hive_asteroid",
+                "priority": 65
+            },
+            {
+                "planet_type": "ice",
+                "priority": 65
+            },
+            {
+                "planet_type": "volcanic",
+                "priority": 60
+            },
+            {
+                "planet_type": "ice_asteroid",
+                "priority": 55
+            },
+            {
+                "planet_type": "asteroid",
+                "priority": 50
+            }],
+            "max_jumps": 2,
+            "include_star_phase_lanes": false,
+            "include_wormhole_phase_lanes": false,
+            "starting_planet_track_levels":
+            {
                 "logistics": 1,
-                "defense": 0,
+                "defense": 1,
                 "commerce": 1,
                 "mining": 1,
                 "research": 0,
                 "focus": 0,
                 "surveying": 0
             },
-            "starting_units_in_hyperspace":
-            {},
-            "home_planet_starting_population": [400, 400]
+            "granted_planets_units_in_gravity_wells":
+            {
+                "required_units": [
+                {
+                    "unit": "trader_civilian_research_lab_structure",
+                    "count": [1, 1]
+                },
+                {
+                    "unit": "trader_military_research_lab_structure",
+                    "count": [1, 1]
+                },
+                {
+                    "unit": "trader_autocannon_defense_structure",
+                    "count": [3, 3]
+                }]
+            },
+            "granted_planets_units_in_formations": [
+            {
+                "required_units": [
+                {
+                    "unit": "trader_light_frigate",
+                    "count": [4, 4]
+                },
+                {
+                    "unit": "trader_scout_corvette",
+                    "count": [2, 2]
+                }]
+            }],
+            "granted_planet_starting_items": []
         },
         "starting_research":
         {
-            "starting_research_subjects": []
-        },
-        "starting_player_inventory_items": [],
-        "additional_starting_planets":
-        {
-            "count": 0,
-            "allowed_planet_types": [],
-            "max_jumps": 0,
-            "include_star_phase_lanes": false,
-            "include_wormhole_phase_lanes": false
-        },
-        "free_starting_capital_ship": false
+            "starting_civilian_tier": 3,
+            "starting_military_tier": 3,
+            "starting_research_subjects": [
+                "trader_autocannon_weapon_damage_0",
+                "trader_autocannon_weapon_damage_1",
+                "trader_capital_ship_starting_level_0",
+                "trader_hull_damage_reduction_0",
+                "trader_hull_damage_reduction_1",
+                "trader_max_hull_points_0",
+                "trader_max_hull_points_1",
+                "trader_corsair_max_supply_0",
+                "trader_corsair_max_supply_1",
+                "trader_corsair_max_supply_2",
+                "trader_mining_track_crystal_rate_0",
+                "trader_mining_track_metal_rate_0",
+                "trader_missile_weapon_damage_0",
+                "trader_unlock_antiarmor_frigate",
+                "trader_unlock_antifighter_frigate",
+                "trader_unlock_antifighter_frigate_light_autocannon_weapon",
+                "trader_unlock_carrier_cruiser",
+                "trader_unlock_crystalline_biosphere",
+                "trader_unlock_culture_center",
+                "trader_unlock_desert_biosphere",
+                "trader_unlock_exotic_factory_structure",
+                "trader_unlock_ferrous_biosphere",
+                "trader_unlock_flak_burst_unit_item",
+                "trader_unlock_hangar_defense_structure",
+                "trader_unlock_heavy_cruiser",
+                "trader_unlock_ice_biosphere",
+                "trader_unlock_irradiated_biosphere",
+                "trader_unlock_long_range_cruiser",
+                "trader_unlock_magnetic_biosphere",
+                "trader_unlock_missile_corvette",
+                "trader_unlock_oceanic_biosphere",
+                "trader_unlock_phase_lane_detector",
+                "trader_unlock_phase_lane_detector_extended_range",
+                "trader_unlock_population_structure",
+                "trader_unlock_resource_extractor_structures",
+                "trader_unlock_retrofit_bay_repair_ability",
+                "trader_unlock_robotics_cruiser",
+                "trader_unlock_siege_frigate",
+                "trader_unlock_skirmisher_corvette_frigate",
+                "trader_unlock_starbase",
+                "trader_unlock_swamp_biosphere",
+                "trader_unlock_trade_port",
+                "trader_unlock_volcanic_biosphere",
+                "trader_upgrade_consumables_0",
+                "trader_upgrade_influence_0",
+                "trader_upgrade_influence_1",
+                "trader_upgrade_loot_experience_gain"
+            ]
+        }
     },
     {
         "player_definition_id": "advent_loyalist",

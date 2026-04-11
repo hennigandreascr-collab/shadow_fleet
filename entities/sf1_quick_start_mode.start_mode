@@ -449,37 +449,89 @@
         "player_definition_id": "trader_corsair",
         "starting_assets":
         {
-            "credits": 1000.0,
-            "metal": 400.0,
-            "crystal": 250.0
+            "credits": 10000.0,
+            "metal": 2250.0,
+            "crystal": 1600.0
         },
+        "starting_exotics": [
+        {
+            "exotic_type": "offense",
+            "count": 1
+        },
+        {
+            "exotic_type": "defense",
+            "count": 1
+        },
+        {
+            "exotic_type": "utility",
+            "count": 1
+        },
+        {
+            "exotic_type": "economic",
+            "count": 1
+        }],
         "home_planet":
         {
             "starting_units_in_gravity_well":
             {
                 "required_units": [
                 {
-                    "unit": "trader_frigate_factory_structure",
+                    "unit": "trader_civilian_research_lab_structure",
+                    "count": [1, 1]
+                },
+                {
+                    "unit": "trader_military_research_lab_structure",
                     "count": [1, 1]
                 }]
             },
+            "starting_units_in_formations": [
+            {
+                "required_units": [
+                {
+                    "unit": "trader_capital_ship_factory_structure",
+                    "count": [1, 1]
+                },
+                {
+                    "unit": "trader_retrofit_bay_structure",
+                    "count": [1, 1]
+                },
+                {
+                    "unit": "trader_frigate_factory_structure",
+                    "count": [1, 1]
+                },
+                {
+                    "unit": "trader_light_frigate",
+                    "count": [10, 10]
+                },
+                {
+                    "unit": "trader_scout_corvette",
+                    "count": [3, 3]
+                }]
+            }],
             "home_planet_track_levels":
             {
-                "logistics": 1,
-                "defense": 0,
-                "commerce": 1,
-                "mining": 1,
-                "research": 0,
+                "logistics": 3,
+                "defense": 3,
+                "commerce": 4,
+                "mining": 2,
+                "research": 1,
                 "focus": 0,
                 "surveying": 0
             },
             "starting_units_in_hyperspace":
             {},
-            "home_planet_starting_population": [400, 400]
+            "home_planet_starting_population": [500, 500]
         },
         "starting_research":
         {
-            "starting_research_subjects": []
+            "starting_civilian_tier": 1,
+            "starting_military_tier": 1,
+            "starting_research_subjects": [
+                "trader_corsair_max_supply_0",
+                "trader_unlock_ice_biosphere",
+                "trader_unlock_swamp_biosphere",
+                "trader_unlock_volcanic_biosphere"
+            ]
         },
         "starting_player_inventory_items": [],
         "additional_starting_planets":
@@ -489,8 +541,7 @@
             "max_jumps": 0,
             "include_star_phase_lanes": false,
             "include_wormhole_phase_lanes": false
-        },
-        "free_starting_capital_ship": false
+        }
     },
     {
         "player_definition_id": "advent_loyalist",

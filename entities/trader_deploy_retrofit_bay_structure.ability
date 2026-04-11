@@ -16,7 +16,7 @@
                 "position_operators": [
                 {
                     "operator_type": "create_unit",
-                    "unit_to_create": "trader_retrofit_bay_structure",
+                    "unit_to_create": "trader_retrofit_bay_drop_structure",
                     "unit_forward":
                     {
                         "direction_type": "unit_forward",
@@ -33,7 +33,7 @@
         "range": "range_value",
         "spawned_unit":
         {
-            "unit": "trader_retrofit_bay_structure"
+            "unit": "trader_retrofit_bay_drop_structure"
         },
         "move_alignment":
         {

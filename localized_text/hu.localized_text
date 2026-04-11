@@ -19,5 +19,6 @@
     "trader_corsair_planetary_shield_structure_description": "Egy pajzsgenerátor ezen a hatalmas építményen megvédi a bolygót az ellenséges támadásoktól.",
     "trader_corsair_planetary_shield_structure_name": "Bolygópajzs",
     "unit_tag_name.logistical_carrier": "Logisztikai Szállító",
+    "unit_tag_name.drop_structure": "Ledobó Struktúra",
     "end": "Vége"
 }
