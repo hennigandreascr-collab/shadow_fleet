@@ -1,10 +1,10 @@
 {
     "shadow_fleet_name": "Flotta dell'Ombra",
     "shadow_fleet_desc": "Teletrasporto in Sins2",
-    "player_faction_name.trader_corsair": "Corsari",
-    "player_faction_description.trader_corsair": "Ora è mio!",
-    "player_faction_name.trader_smuggler": "Contrabbandieri",
-    "player_faction_description.trader_smuggler": "Contrabbando per tutti",
+    "player_faction_name.shadow_rebel": "Corsari",
+    "player_faction_description.shadow_rebel": "Ora è mio!",
+    "player_faction_name.shadow_loyalist": "Contrabbandieri",
+    "player_faction_description.shadow_loyalist": "Contrabbando per tutti",
     "trader_shields_strikecraft_research_subject_name": "Riconversione scudi caccia",
     "trader_shields_strikecraft_research_subject_name_uppercase": "RICONVERSIONE SCUDI\nCACCIA",
     "trader_shields_structure_research_subject_name": "Riconversione scudi strutture",
@@ -18,5 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Consente la costruzione di scudi planetari orbitali per i Corsari.",
     "trader_corsair_planetary_shield_structure_description": "Un generatore di scudi a bordo di questa potente struttura protegge il pianeta dagli attacchi nemici.",
     "trader_corsair_planetary_shield_structure_name": "Scudo planetario",
+    "player_race.shadow": "Flotta dell'Ombra",
+    "player_race_description.shadow": "La Flotta dell'Ombra è una faction misteriosa e potente che è emersa dai resti di una civiltà antica. Sono conosciuti per la loro tecnologia avanzata e la loro capacità di teletrasportarsi attraverso l'universo. I membri della Flotta dell'Ombra sono divisi in due principali fazioni: i Loyalisti, che credono nell'ordine vecchio, e i Ribelli, che cercano la libertà. Entrambe le fazioni condividono l'obiettivo di dominare l'universo e espandere il loro potere.",
     "end": "Fine"
 }

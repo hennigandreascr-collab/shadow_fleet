@@ -1,10 +1,10 @@
 {
     "shadow_fleet_name": "Cienista Flota",
     "shadow_fleet_desc": "Teleportacja w Sins2",
-    "player_faction_name.trader_corsair": "Korsarze",
-    "player_faction_description.trader_corsair": "Teraz to należy do mnie!",
-    "player_faction_name.trader_smuggler": "Przemytnicy",
-    "player_faction_description.trader_smuggler": "Kontrabanda dla wszystkich",
+    "player_faction_name.shadow_rebel": "Korsarze",
+    "player_faction_description.shadow_rebel": "Teraz to należy do mnie!",
+    "player_faction_name.shadow_loyalist": "Przemytnicy",
+    "player_faction_description.shadow_loyalist": "Kontrabanda dla wszystkich",
     "trader_shields_strikecraft_research_subject_name": "Modernizacja osłon jednostek uderzeniowych",
     "trader_shields_strikecraft_research_subject_name_uppercase": "MODERNIZACJA OSŁON\nJEDNOSTEK UDERZENIOWYCH",
     "trader_shields_structure_research_subject_name": "Modernizacja osłon struktur",
@@ -18,5 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Umożliwia budowę orbitalnych tarcz planetarnych dla Korsarzy.",
     "trader_corsair_planetary_shield_structure_description": "Generator osłon na pokładzie tej potężnej struktury chroni planetę przed atakami wroga.",
     "trader_corsair_planetary_shield_structure_name": "Tarcza planetarna",
+    "player_race.shadow": "Cienista Flota",
+    "player_race_description.shadow": "Cienista Flota to tajemnicza i potężna frakcja, która powstała z resztek starzej cywilizacji. Jest znana z zaawansowanej technologii i zdolności do teleportacji przez wszechświat. Członkowie Cienistej Floty są podzieleni na dwie główne frakcje: Lojalisci, którzy wierzą w stary porządek, i Rebelianci, którzy poszukują wolności. Oba zespoły dzielą wspólny cel - zdominować wszechświat i rozszerzyć swoje władze.",
     "end": "Koniec"
 }

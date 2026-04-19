@@ -171,12 +171,12 @@
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_smuggler",
+                    "modified_faction": "shadow_loyalist",
                     "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_corsair",
+                    "modified_faction": "shadow_rebel",
                     "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },
@@ -318,7 +318,7 @@
             ]
         },
         {
-            "this_faction": "trader_smuggler",
+            "this_faction": "shadow_loyalist",
             "min_trust_for_trade_offers": 20.0,
             "chance_to_make_trade_offer": 0.2,
             "influence_valuation_stages": [2.0, 5.0, 9.0, 15.0],
@@ -341,12 +341,12 @@
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_smuggler",
+                    "modified_faction": "shadow_loyalist",
                     "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_corsair",
+                    "modified_faction": "shadow_rebel",
                     "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },
@@ -511,13 +511,13 @@
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_smuggler",
-                    "faction_diplomacy_modifier": [-30.0, -20.0],
+                    "modified_faction": "shadow_loyalist",
+                    "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_corsair",
-                    "faction_diplomacy_modifier": [10.0, 15.0],
+                    "modified_faction": "shadow_rebel",
+                    "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },
                 {
@@ -657,7 +657,7 @@
             ]
         },
         {
-            "this_faction": "trader_corsair",
+            "this_faction": "shadow_rebel",
             "min_trust_for_trade_offers": 20.0,
             "chance_to_make_trade_offer": 0.2,
             "influence_valuation_stages": [2.0, 5.0, 9.0, 15.0],
@@ -680,13 +680,13 @@
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_smuggler",
-                    "faction_diplomacy_modifier": [-30.0, -20.0],
+                    "modified_faction": "shadow_loyalist",
+                    "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_corsair",
-                    "faction_diplomacy_modifier": [10.0, 15.0],
+                    "modified_faction": "shadow_rebel",
+                    "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },
                 {
@@ -849,14 +849,14 @@
                     "base_hatred": 10.0
                 },
                 {
-                    "modified_faction": "trader_smuggler",
-                    "faction_diplomacy_modifier": [-40.0, -20.0],
-                    "base_hatred": 5.0
+                    "modified_faction": "shadow_loyalist",
+                    "faction_diplomacy_modifier": [5.0, 5.0],
+                    "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_corsair",
-                    "faction_diplomacy_modifier": [-60.0, -40.0],
-                    "base_hatred": 10.0
+                    "modified_faction": "shadow_rebel",
+                    "faction_diplomacy_modifier": [-30.0, -20.0],
+                    "base_hatred": 0.0
                 },
                 {
                     "modified_faction": "advent_loyalist",
@@ -1018,13 +1018,13 @@
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_smuggler",
-                    "faction_diplomacy_modifier": [-5.0, 5.0],
+                    "modified_faction": "shadow_loyalist",
+                    "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_corsair",
-                    "faction_diplomacy_modifier": [-15.0, -5.0],
+                    "modified_faction": "shadow_rebel",
+                    "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },
                 {
@@ -1187,14 +1187,14 @@
                     "base_hatred": 5.0
                 },
                 {
-                    "modified_faction": "trader_smuggler",
-                    "faction_diplomacy_modifier": [-10.0, -5.0],
-                    "base_hatred": 5.0
+                    "modified_faction": "shadow_loyalist",
+                    "faction_diplomacy_modifier": [5.0, 5.0],
+                    "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_corsair",
+                    "modified_faction": "shadow_rebel",
                     "faction_diplomacy_modifier": [-30.0, -20.0],
-                    "base_hatred": 5.0
+                    "base_hatred": 0.0
                 },
                 {
                     "modified_faction": "advent_loyalist",
@@ -1356,13 +1356,13 @@
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_smuggler",
-                    "faction_diplomacy_modifier": [0.0, 10.0],
+                    "modified_faction": "shadow_loyalist",
+                    "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "trader_corsair",
-                    "faction_diplomacy_modifier": [-5.0, 0.0],
+                    "modified_faction": "shadow_rebel",
+                    "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },
                 {
@@ -1504,8 +1504,33 @@
     ],
     "race_definitions": [
         {
+            "this_race": "shadow",
+            "modifiers": [
+                {
+                    "modified_race": "shadow",
+                    "race_diplomacy_modifier": [5.0, 15.0]
+                },
+                {
+                    "modified_race": "trader",
+                    "race_diplomacy_modifier": [5.0, 15.0]
+                },
+                {
+                    "modified_race": "advent",
+                    "race_diplomacy_modifier": [-15.0, -10.0]
+                },
+                {
+                    "modified_race": "vasari",
+                    "race_diplomacy_modifier": [-20.0, -10.0]
+                }
+            ]
+        },
+        {
             "this_race": "trader",
             "modifiers": [
+                {
+                    "modified_race": "shadow",
+                    "race_diplomacy_modifier": [5.0, 15.0]
+                },
                 {
                     "modified_race": "trader",
                     "race_diplomacy_modifier": [5.0, 15.0]
@@ -1524,6 +1549,10 @@
             "this_race": "advent",
             "modifiers": [
                 {
+                    "modified_race": "shadow",
+                    "race_diplomacy_modifier": [-20.0, -10.0]
+                },
+                {
                     "modified_race": "trader",
                     "race_diplomacy_modifier": [-20.0, -10.0]
                 },
@@ -1540,6 +1569,10 @@
         {
             "this_race": "vasari",
             "modifiers": [
+                {
+                    "modified_race": "shadow",
+                    "race_diplomacy_modifier": [-15.0, -10.0]
+                },
                 {
                     "modified_race": "trader",
                     "race_diplomacy_modifier": [-15.0, -10.0]

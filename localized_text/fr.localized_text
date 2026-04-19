@@ -1,10 +1,10 @@
 {
     "shadow_fleet_name": "Flotte de l'Ombre",
     "shadow_fleet_desc": "Téléportation dans Sins2",
-    "player_faction_name.trader_corsair": "Corsaires",
-    "player_faction_description.trader_corsair": "Maintenant, c'est à moi !",
-    "player_faction_name.trader_smuggler": "Contrebandiers",
-    "player_faction_description.trader_smuggler": "Contrebande pour tous",
+    "player_faction_name.shadow_rebel": "Corsaires",
+    "player_faction_description.shadow_rebel": "Maintenant, c'est à moi !",
+    "player_faction_name.shadow_loyalist": "Contrebandiers",
+    "player_faction_description.shadow_loyalist": "Contrebande pour tous",
     "trader_shields_strikecraft_research_subject_name": "Modernisation des boucliers des chasseurs",
     "trader_shields_strikecraft_research_subject_name_uppercase": "MODERNISATION DES\nBOUCLIERS DES CHASSEURS",
     "trader_shields_structure_research_subject_name": "Modernisation des boucliers des structures",
@@ -18,5 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Permet la construction de boucliers planétaires orbitaux pour les Corsaires.",
     "trader_corsair_planetary_shield_structure_description": "Un générateur de bouclier à bord de cette puissante structure protège la planète des attaques ennemies.",
     "trader_corsair_planetary_shield_structure_name": "Bouclier planétaire",
+    "player_race.shadow": "Flotte de l'Ombre",
+    "player_race_description.shadow": "La Flotte de l'Ombre est une faction mystérieuse et puissante qui a émergé des vestiges d'une civilisation ancienne. Elle est connue pour sa technologie avancée et sa capacité à se téléporter à travers l'univers. Les membres de la Flotte de l'Ombre sont divisés en deux grandes factions : les Loyalistes, qui croient en l'ordre ancien, et les Rébellés, qui cherchent la liberté. Les deux factions partagent l'objectif de dominer l'univers et d'élargir leur pouvoir.",
     "end": "Fin"
 }

@@ -1,10 +1,10 @@
 {
     "shadow_fleet_name": "暗影舰队",
     "shadow_fleet_desc": "《原罪帝国的叛逆2》中的传送",
-    "player_faction_name.trader_corsair": "海盗",
-    "player_faction_description.trader_corsair": "现在它是我的了！",
-    "player_faction_name.trader_smuggler": "走私者",
-    "player_faction_description.trader_smuggler": "全民走私",
+    "player_faction_name.shadow_rebel": "海盗",
+    "player_faction_description.shadow_rebel": "现在它是我的了！",
+    "player_faction_name.shadow_loyalist": "走私者",
+    "player_faction_description.shadow_loyalist": "全民走私",
     "trader_shields_strikecraft_research_subject_name": "攻击艇护盾改装",
     "trader_shields_strikecraft_research_subject_name_uppercase": "攻击艇\\n护盾改装",
     "trader_shields_structure_research_subject_name": "建筑护盾改装",
@@ -18,5 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "允许海盗建造轨道行星护盾。",
     "trader_corsair_planetary_shield_structure_description": "这座强大建筑上的护盾发生器可以保护行星免受敌方攻击。",
     "trader_corsair_planetary_shield_structure_name": "行星护盾",
+    "player_race.shadow": "暗影舰队",
+    "player_race_description.shadow": "暗影舰队是一个神秘而强大的派系，由古代文明的遗迹形成。他们以先进的技术和穿越宇宙的传送能力而闻名。暗影舰队的成员分为两个主要派系：忠诚于旧秩序的洛伊alist和追求自由的反叛者。两个派系都致力于统治宇宙并扩大自己的权力。",
     "end": "结束"
 }

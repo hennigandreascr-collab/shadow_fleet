@@ -1,10 +1,10 @@
 {
     "shadow_fleet_name": "Árnyflotta",
     "shadow_fleet_desc": "Teleportáció a Sins2-ben",
-    "player_faction_name.trader_corsair": "Kalózok",
-    "player_faction_description.trader_corsair": "Most már az enyém!",
-    "player_faction_name.trader_smuggler": "Csempészek",
-    "player_faction_description.trader_smuggler": "Csempészáru mindenkinek",
+    "player_faction_name.shadow_rebel": "Kalózok",
+    "player_faction_description.shadow_rebel": "Most már az enyém!",
+    "player_faction_name.shadow_loyalist": "Csempészek",
+    "player_faction_description.shadow_loyalist": "Csempészáru mindenkinek",
     "trader_shields_strikecraft_research_subject_name": "Vadászgép pajzs-utólagos felszerelés",
     "trader_shields_strikecraft_research_subject_name_uppercase": "VADÁSZGÉP PAJZS-\nUTÓLAGOS FELSZERELÉS",
     "trader_shields_structure_research_subject_name": "Struktúra pajzs-utólagos felszerelés",
@@ -18,5 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Lehetővé teszi orbitális bolygópajzsok építését a Kalózok számára.",
     "trader_corsair_planetary_shield_structure_description": "Egy pajzsgenerátor ezen a hatalmas építményen megvédi a bolygót az ellenséges támadásoktól.",
     "trader_corsair_planetary_shield_structure_name": "Bolygópajzs",
+    "player_race.shadow": "Árnyflotta",
+    "player_race_description.shadow": "Az Árnyflotta egy mistikus és erős frakció, amely az egy régi civilizáció maradványai közül alakult ki. Ismertek a fejlett technológiájukkal és az univerzumon keresztül történő teleportálásukkal. Az Árnyflotta tagjai két fő frakcióra vannak osztva: a Loyalisták, akik a régi rendet hitték, és a Rebellek, akik szabadságot keresnek. Mindkét frakció megosztja a célját, hogy uralkodjanak az univerzumon és bővítsék hatalmukat.",
     "end": "Vége"
 }

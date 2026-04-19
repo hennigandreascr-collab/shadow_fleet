@@ -1,10 +1,10 @@
 {
     "shadow_fleet_name": "シャドウ・フリート",
     "shadow_fleet_desc": "Sins2でのテレポーテーション",
-    "player_faction_name.trader_corsair": "コルセア",
-    "player_faction_description.trader_corsair": "これは私のものだ！",
-    "player_faction_name.trader_smuggler": "密輸業者",
-    "player_faction_description.trader_smuggler": "皆に密輸品を",
+    "player_faction_name.shadow_rebel": "コルセア",
+    "player_faction_description.shadow_rebel": "これは私のものだ！",
+    "player_faction_name.shadow_loyalist": "密輸業者",
+    "player_faction_description.shadow_loyalist": "皆に密輸品を",
     "trader_shields_strikecraft_research_subject_name": "ストライククラフト・シールド換装",
     "trader_shields_strikecraft_research_subject_name_uppercase": "ストライククラフト・\\nシールド換装",
     "trader_shields_structure_research_subject_name": "構造物シールド換装",
@@ -18,5 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "コルセアによる軌道惑星シールドの建設を可能にします。",
     "trader_corsair_planetary_shield_structure_description": "この強力な構造物に搭載されたシールド発生装置が、敵の攻撃から惑星を保護します。",
     "trader_corsair_planetary_shield_structure_name": "惑星シールド",
+    "player_race.shadow": "シャドウ・フリート",
+    "player_race_description.shadow": "シャドウ・フリートは、古代文明の遺跡から生まれた神秘的で強力な派閥です。高度な技術と宇宙を越えたテレポート機能で知られています。シャドウ・フリートのメンバーは、古い秩序を信じる「ロイヤリスト」と、自由を求める「リベリスト」の二つの主要な派閥に分かれています。両派閥は宇宙を支配し、権力拡大を目指しています。",
     "end": "終了"
 }

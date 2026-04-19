@@ -816,8 +816,8 @@ json
     "advent_loyalist",
     "vasari_loyalist",
     "vasari_rebel",
-    "trader_smuggler", 
-    "trader_corsair"
+    "shadow_loyalist", 
+    "shadow_rebel"
 ],
 Verwende Code mit Vorsicht.
 

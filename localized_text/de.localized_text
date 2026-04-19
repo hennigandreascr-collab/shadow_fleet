@@ -1,10 +1,10 @@
 {
     "shadow_fleet_name": "Schattenflotte",
     "shadow_fleet_desc": "Teleportation in Sins2",
-    "player_faction_name.trader_corsair": "Korsaren",
-    "player_faction_description.trader_corsair": "Jetzt gehört es mir!",
-    "player_faction_name.trader_smuggler": "Schmuggler",
-    "player_faction_description.trader_smuggler": "Konterbande für alle",
+    "player_faction_name.shadow_rebel": "Korsaren",
+    "player_faction_description.shadow_rebel": "Jetzt gehört es mir!",
+    "player_faction_name.shadow_loyalist": "Schmuggler",
+    "player_faction_description.shadow_loyalist": "Konterbande für alle",
     "trader_shields_strikecraft_research_subject_name": "Strikecraft-Schildnachrüstung",
     "trader_shields_strikecraft_research_subject_name_uppercase": "STRIKECRAFT-\\nSCHILDNACHRÜSTUNG",
     "trader_shields_structure_research_subject_name": "Strukturschildnachrüstung",
@@ -18,5 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Ermöglicht den Bau von orbitalen Planetenschilden für Korsaren",
     "trader_corsair_planetary_shield_structure_description": "Ein Schildgenerator an Bord dieser mächtigen Struktur schirmt den Planten vor feindlichen Angriffen ab.",
     "trader_corsair_planetary_shield_structure_name": "Planetenschild",
+    "player_race.shadow": "Schattenflotte",
+    "player_race_description.shadow": "Die Schattenflotte ist eine mysteriöse und mächtige Fraktion, die aus den Überresten einer alten Zivilisation entstanden ist. Sie sind bekannt für ihre fortschrittliche Technologie und ihre Fähigkeit, sich durch das Universum zu teleportieren. Die Mitglieder der Schattenflotte sind in zwei Hauptfraktionen unterteilt: die Loyalisten, die an die alte Ordnung glauben, und die Rebellen, die nach Freiheit streben. Beide Fraktionen teilen jedoch das Ziel, das Universum zu beherrschen und ihre Macht auszubauen.",
     "end": "Das Ende"
 }

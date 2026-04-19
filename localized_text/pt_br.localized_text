@@ -1,10 +1,10 @@
 {
     "shadow_fleet_name": "Frota das Sombras",
     "shadow_fleet_desc": "Teletransporte em Sins2",
-    "player_faction_name.trader_corsair": "Corsários",
-    "player_faction_description.trader_corsair": "Agora é meu!",
-    "player_faction_name.trader_smuggler": "Contrabandistas",
-    "player_faction_description.trader_smuggler": "Contrabando para todos",
+    "player_faction_name.shadow_rebel": "Corsários",
+    "player_faction_description.shadow_rebel": "Agora é meu!",
+    "player_faction_name.shadow_loyalist": "Contrabandistas",
+    "player_faction_description.shadow_loyalist": "Contrabando para todos",
     "trader_shields_strikecraft_research_subject_name": "Modernização de Escudos de Caças",
     "trader_shields_strikecraft_research_subject_name_uppercase": "MODERNIZAÇÃO DE ESCUDOS\nDE CAÇAS",
     "trader_shields_structure_research_subject_name": "Modernização de Escudos de Estruturas",
@@ -18,5 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Permite a construção de escudos planetários orbitais para os Corsários.",
     "trader_corsair_planetary_shield_structure_description": "Um gerador de escudo a bordo desta poderosa estrutura protege o planeta de ataques inimigos.",
     "trader_corsair_planetary_shield_structure_name": "Escudo Planetário",
+    "player_race.shadow": "Frota das Sombras",
+    "player_race_description.shadow": "A Frota das Sombras é uma facção misteriosa e poderosa que surgiu a partir dos restos de uma civilização antiga. Eles são conhecidos por sua tecnologia avançada e capacidade de se teletransportar através do universo. Os membros da Frota das Sombras estão divididos em duas principais facções: os Leais, que acreditam no velho ordenamento, e os Rebeldes, que buscam liberdade. Ambas as facções compartilham o objetivo de dominar o universo e expandir seu poder.",
     "end": "Fim"
 }

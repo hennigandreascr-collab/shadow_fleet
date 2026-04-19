@@ -11,8 +11,8 @@
         "advent_loyalist",
         "vasari_loyalist",
         "vasari_rebel",
-        "trader_corsair",
-        "trader_smuggler"
+        "shadow_rebel",
+        "shadow_loyalist"
     ],
     "dlc_only_pickable_players": [
         "dlc_trader_loyalist"

@@ -1,10 +1,10 @@
 {
     "shadow_fleet_name": "กองยานเงา",
     "shadow_fleet_desc": "การเคลื่อนที่ข้ามมิติใน Sins2",
-    "player_faction_name.trader_corsair": "คอร์แชร์",
-    "player_faction_description.trader_corsair": "ตอนนี้มันเป็นของฉันแล้ว!",
-    "player_faction_name.trader_smuggler": "นักลักลอบขนของเถื่อน",
-    "player_faction_description.trader_smuggler": "สินค้าเถื่อนสำหรับทุกคน",
+    "player_faction_name.shadow_rebel": "คอร์แชร์",
+    "player_faction_description.shadow_rebel": "ตอนนี้มันเป็นของฉันแล้ว!",
+    "player_faction_name.shadow_loyalist": "นักลักลอบขนของเถื่อน",
+    "player_faction_description.shadow_loyalist": "สินค้าเถื่อนสำหรับทุกคน",
     "trader_shields_strikecraft_research_subject_name": "การติดตั้งโล่ป้องกันยานจู่โจมใหม่",
     "trader_shields_strikecraft_research_subject_name_uppercase": "การติดตั้งโล่ป้องกัน\nยานจู่โจมใหม่",
     "trader_shields_structure_research_subject_name": "การติดตั้งโล่ป้องกันสิ่งก่อสร้างใหม่",
@@ -18,5 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "อนุญาตให้สร้างโล่ป้องกันดาวเคราะห์ในวงโคจรสำหรับคอร์แชร์",
     "trader_corsair_planetary_shield_structure_description": "เครื่องกำเนิดโล่บนสิ่งก่อสร้างอันทรงพลังนี้จะปกป้องดาวเคราะห์จากการโจมตีของศัตรู",
     "trader_corsair_planetary_shield_structure_name": "โล่ป้องกันดาวเคราะห์",
+    "player_race.shadow": "กองยานเงา",
+    "player_race_description.shadow": "กองยานเงา เป็นกลุ่มที่ลึกลับและทรงพลัง ซึ่งเกิดขึ้นจากเศษส่วนของวัฒนธรรมโบราณ พวกเขาเป็นที่รู้จักจากเทคโนโลยีที่ทันสมัยและความสามารถในการเคลื่อนที่ข้ามมิติในจักรวาล สมาชิกของกองยานเงาแบ่งออกเป็นสองกลุ่มหลัก: ผู้สนับสนุนระบบเก่า และผู้ต่อต้าน ทั้งสองกลุ่มมีเป้าหมายเดียวกัน คือ การครองจักรวาลและขยายอำนาจ",
     "end": "จบ"
 }

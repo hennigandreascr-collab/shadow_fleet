@@ -1,10 +1,10 @@
 {
     "shadow_fleet_name": "Shadow Fleet",
     "shadow_fleet_desc": "Teleportation in Sins2",
-    "player_faction_name.trader_corsair": "Corsairs",
-    "player_faction_description.trader_corsair": "Now it's mine!",
-    "player_faction_name.trader_smuggler": "Smugglers",
-    "player_faction_description.trader_smuggler": "Contraband for everyone",
+    "player_faction_name.shadow_rebel": "Corsairs",
+    "player_faction_description.shadow_rebel": "Now it's mine!",
+    "player_faction_name.shadow_loyalist": "Smugglers",
+    "player_faction_description.shadow_loyalist": "Contraband for everyone",
     "trader_shields_strikecraft_research_subject_name": "Strikecraft Shield Refit",
     "trader_shields_strikecraft_research_subject_name_uppercase": "STRIKECRAFT\nSHIELD REFIT",
     "trader_shields_structure_research_subject_name": "Structure Shield Refit",
@@ -18,5 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Allows the construction of orbital planetary shields for Corsairs.",
     "trader_corsair_planetary_shield_structure_description": "A shield generator aboard this powerful structure shields the planet from enemy attacks.",
     "trader_corsair_planetary_shield_structure_name": "Planetary Shield",
+    "player_race.shadow": "Shadow Fleet",
+    "player_race_description.shadow": "The Shadow Fleet is a mysterious and powerful faction that emerged from the remnants of an ancient civilization. They are known for their advanced technology and their ability to teleport through the universe. Members of the Shadow Fleet are divided into two main factions: the Loyalists, who believe in the old order, and the Rebels, who seek freedom. Both factions share the goal of dominating the universe and expanding their power.",
     "end": "The End"
 }

@@ -52,7 +52,7 @@
         "free_starting_capital_ship": false
     },
     {
-        "player_definition_id": "trader_smuggler",
+        "player_definition_id": "shadow_loyalist",
         "starting_assets":
         {
             "credits": 1000.0,
@@ -144,9 +144,9 @@
             "include_wormhole_phase_lanes": false
         },
         "free_starting_capital_ship": false
-    },
+    },    
     {
-        "player_definition_id": "trader_corsair",
+        "player_definition_id": "shadow_rebel",
         "starting_assets":
         {
             "credits": 1000.0,
@@ -191,7 +191,7 @@
             "include_wormhole_phase_lanes": false
         },
         "free_starting_capital_ship": false
-    },
+    },    
     {
         "player_definition_id": "advent_loyalist",
         "starting_assets":
