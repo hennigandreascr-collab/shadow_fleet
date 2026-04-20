@@ -106,7 +106,7 @@
     {
         "max_trade_ship_count": 3,
         "trade_ship_construction_time": 60.0,
-        "trade_ship": "trader_smuggler_trade_ship",
+        "trade_ship": "shadow_loyalist_trade_ship",
         "special_operation_unit_kind": "trade_ship",
         "create_trade_ship_offset": [0.0, 0.0, 1500.0]
     },

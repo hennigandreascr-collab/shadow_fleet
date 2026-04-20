@@ -1,7 +1,7 @@
 {
     "ids": [
-        "trader_smuggler_trade_ship",
+        "shadow_loyalist_trade_ship",
         "trader_corsair_planetary_shield_structure",
-        "trader_smuggler_trade_port_structure"
+        "shadow_loyalist_trade_port_structure"
     ]
 }
