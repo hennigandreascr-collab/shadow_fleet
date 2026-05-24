@@ -505,7 +505,7 @@
         "trader_phase_jump_inhibitor_structure",
         "trader_hangar_defense_structure",
         "trader_starbase",
-        "trader_orbital_cannon_structure"
+        "shadow_orbital_cannon_structure"
     ],
     "allowed_traffic_ports": [
         "advent_population_structure",

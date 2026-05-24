@@ -1,14 +1,14 @@
 {
     "shadow_fleet_name": "Armada Bayangan",
     "shadow_fleet_desc": "Teleportasi di Sins2",
-    "player_faction_name.shadow_rebel": "Korsair",
+    "player_faction_name.shadow_rebel": "TAU Korsair",
     "player_faction_description.shadow_rebel": "Sekarang ini milikku!",
-    "player_faction_name.shadow_loyalist": "Penyelundup",
+    "player_faction_name.shadow_loyalist": "TAU Penyelundup",
     "player_faction_description.shadow_loyalist": "Kontraband untuk semua",
     "trader_shields_strikecraft_research_subject_name": "Pemasangan ulang perisai kapal tempur",
-    "trader_shields_strikecraft_research_subject_name_uppercase": "PEMASANGAN ULANG\nPERISAI KAPAL TEMPUR",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "PEMASANGAN ULANG\\nPERISAI KAPAL TEMPUR",
     "trader_shields_structure_research_subject_name": "Pemasangan ulang perisai struktur",
-    "trader_shields_structure_research_subject_name_uppercase": "PEMASANGAN ULANG\nPERISAI STRUKTUR",
+    "trader_shields_structure_research_subject_name_uppercase": "PEMASANGAN ULANG\\nPERISAI STRUKTUR",
     "trader_shields_structure_research_subject_description": "Memberikan perisai pada struktur.",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "Buka kunci: Perisai Planet untuk Planet",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "BUKA KUNCI: PERISAI PLANET UNTUK PLANET",
@@ -18,7 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Memungkinkan pembangunan perisai planet orbital untuk Korsair.",
     "trader_corsair_planetary_shield_structure_description": "Generator perisai di atas struktur kuat ini melindungi planet dari serangan musuh.",
     "trader_corsair_planetary_shield_structure_name": "Perisai Planet",
-    "player_race.shadow": "Armada Bayangan",
-    "player_race_description.shadow": "Armada Bayangan adalah fraksi misterius dan kuat yang muncul dari sisa-sisa peradaban kuno. Mereka dikenal karena teknologi canggih mereka dan kemampuan mereka untuk berpindah tempat melalui alam semesta. Anggota Armada Bayangan dibagi menjadi dua fraksi utama: Loyalis, yang percaya pada tatanan lama, dan Rebelean, yang mencari kebebasan. Kedua fraksi ini berbagi tujuan untuk menguasai alam semesta dan memperluas kekuatan mereka.",
+    "player_race.shadow": "TAU",
+    "player_race_description.shadow": "Union of Teletransportation Ascension (TAU) is a group of researchers from the Emergency Merchant Coalition who accidentally discovered the secret of personal teletransportation. They were brutally suppressed by TEC officials and taken to crime.\\n\\nMembers of the TAU are divided into two main factions: the Loyalists, who engage in trade without any morality, and the Rebels, who want to completely disarm and strip all other factions.",
     "end": "Selesai"
 }

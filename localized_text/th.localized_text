@@ -6,9 +6,9 @@
     "player_faction_name.shadow_loyalist": "นักลักลอบขนของเถื่อน",
     "player_faction_description.shadow_loyalist": "สินค้าเถื่อนสำหรับทุกคน",
     "trader_shields_strikecraft_research_subject_name": "การติดตั้งโล่ป้องกันยานจู่โจมใหม่",
-    "trader_shields_strikecraft_research_subject_name_uppercase": "การติดตั้งโล่ป้องกัน\nยานจู่โจมใหม่",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "การติดตั้งโล่ป้องกัน\\nยานจู่โจมใหม่",
     "trader_shields_structure_research_subject_name": "การติดตั้งโล่ป้องกันสิ่งก่อสร้างใหม่",
-    "trader_shields_structure_research_subject_name_uppercase": "การติดตั้งโล่ป้องกัน\nสิ่งก่อสร้างใหม่",
+    "trader_shields_structure_research_subject_name_uppercase": "การติดตั้งโล่ป้องกัน\\nสิ่งก่อสร้างใหม่",
     "trader_shields_structure_research_subject_description": "มอบโล่ป้องกันให้กับสิ่งก่อสร้าง",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "ปลดล็อก: โล่ป้องกันดาวเคราะห์สำหรับดาวเคราะห์",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "ปลดล็อก: โล่ป้องกันดาวเคราะห์สำหรับดาวเคราะห์",
@@ -18,7 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "อนุญาตให้สร้างโล่ป้องกันดาวเคราะห์ในวงโคจรสำหรับคอร์แชร์",
     "trader_corsair_planetary_shield_structure_description": "เครื่องกำเนิดโล่บนสิ่งก่อสร้างอันทรงพลังนี้จะปกป้องดาวเคราะห์จากการโจมตีของศัตรู",
     "trader_corsair_planetary_shield_structure_name": "โล่ป้องกันดาวเคราะห์",
-    "player_race.shadow": "กองยานเงา",
-    "player_race_description.shadow": "กองยานเงา เป็นกลุ่มที่ลึกลับและทรงพลัง ซึ่งเกิดขึ้นจากเศษส่วนของวัฒนธรรมโบราณ พวกเขาเป็นที่รู้จักจากเทคโนโลยีที่ทันสมัยและความสามารถในการเคลื่อนที่ข้ามมิติในจักรวาล สมาชิกของกองยานเงาแบ่งออกเป็นสองกลุ่มหลัก: ผู้สนับสนุนระบบเก่า และผู้ต่อต้าน ทั้งสองกลุ่มมีเป้าหมายเดียวกัน คือ การครองจักรวาลและขยายอำนาจ",
+    "player_race.shadow": "ทาว",
+    "player_race_description.shadow": "สหภาพการเทเลพอร์ตและการอุบัติ (TAU) คือกลุ่มนักวิจัยจากสมาพันธ์ฉุกเฉินแห่งพ่อค้า (TEC) ที่บังเอิญค้นพบความลับของการเทเลพอร์ตส่วนบุคคล พวกเขาถูกเจ้าหน้าที่ของ TEC ปราบปรามอย่างโหดร้ายและถูกบีบให้เข้าสู่โลกอาชญากรรม\\n\\nสมาชิกของ TAU แบ่งออกเป็นสองฝ่ายหลัก ได้แก่ ฝ่ายจงรักภักดี (Loyalists) ที่ดำเนินธุรกิจการค้าโดยไม่สนใจศีลธรรมใด ๆ และฝ่ายกบฏ (Rebels) ที่ต้องการปลดอาวุธและล้มล้างอำนาจของฝ่ายอื่น ๆ ทั้งหมดโดยสิ้นเชิง",
     "end": "จบ"
 }

@@ -1,14 +1,14 @@
 {
     "shadow_fleet_name": "Flota de las Sombras",
     "shadow_fleet_desc": "Teletransportación en Sins2",
-    "player_faction_name.shadow_rebel": "Corsarios",
+    "player_faction_name.shadow_rebel": "TAU Corsarios",
     "player_faction_description.shadow_rebel": "¡Ahora es mío!",
-    "player_faction_name.shadow_loyalist": "Contrabandistas",
+    "player_faction_name.shadow_loyalist": "TAU Contrabandistas",
     "player_faction_description.shadow_loyalist": "Contrabando para todos",
     "trader_shields_strikecraft_research_subject_name": "Refuerzo de escudos de cazas",
-    "trader_shields_strikecraft_research_subject_name_uppercase": "REFUERZO DE ESCUDOS\nDE CAZAS",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "REFUERZO DE ESCUDOS\\nDE CAZAS",
     "trader_shields_structure_research_subject_name": "Refuerzo de escudos de estructuras",
-    "trader_shields_structure_research_subject_name_uppercase": "REFUERZO DE ESCUDOS\nDE ESTRUCTURAS",
+    "trader_shields_structure_research_subject_name_uppercase": "REFUERZO DE ESCUDOS\\nDE ESTRUCTURAS",
     "trader_shields_structure_research_subject_description": "Otorga escudos a las estructuras.",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "Desbloqueo: Escudo planetario para planetas",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "DESBLOQUEO: ESCUDO PLANETARIO PARA PLANETAS",
@@ -18,7 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Permite la construcción de escudos planetarios orbitales para los corsarios.",
     "trader_corsair_planetary_shield_structure_description": "Un generador de escudos a bordo de esta poderosa estructura protege al planeta de los ataques enemigos.",
     "trader_corsair_planetary_shield_structure_name": "Escudo planetario",
-    "player_race.shadow": "Flota de las Sombras",
-    "player_race_description.shadow": "La Flota de las Sombras es una facción misteriosa y poderosa que surgió a partir de los restos de una antigua civilización. Son conocidos por su tecnología avanzada y su capacidad para teletransportarse a través del universo. Los miembros de la Flota de las Sombras están divididos en dos facciones principales: los Leales, que creen en el orden antiguo, y los Rebeldes, que buscan libertad. Ambas facciones comparten el objetivo de dominar el universo y expandir su poder.",
+    "player_race.shadow": "TAU",
+    "player_race_description.shadow": "La Unión de Ascensión de Teletransportación (TAU) es un grupo de investigadores de la Coalición de Emergencia de Comerciantes que accidentalmente descubrieron el secreto de la teletransportación personal. Fueron brutalmente reprimidos por los funcionarios de la TEC y llevados al crimen.\\n\\nLos miembros de la TAU se dividen en dos facciones principales: los Leales, que realizan comercio fuera de toda moralidad, y los Rebeldes, que quieren desarmar y despojar completamente a todas las demás facciones.",
     "end": "Fin"
 }

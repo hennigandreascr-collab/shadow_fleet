@@ -1,14 +1,14 @@
 {
     "shadow_fleet_name": "Flotte de l'Ombre",
     "shadow_fleet_desc": "Téléportation dans Sins2",
-    "player_faction_name.shadow_rebel": "Corsaires",
+    "player_faction_name.shadow_rebel": "TAU Corsaires",
     "player_faction_description.shadow_rebel": "Maintenant, c'est à moi !",
-    "player_faction_name.shadow_loyalist": "Contrebandiers",
+    "player_faction_name.shadow_loyalist": "TAU Contrebandiers",
     "player_faction_description.shadow_loyalist": "Contrebande pour tous",
     "trader_shields_strikecraft_research_subject_name": "Modernisation des boucliers des chasseurs",
-    "trader_shields_strikecraft_research_subject_name_uppercase": "MODERNISATION DES\nBOUCLIERS DES CHASSEURS",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "MODERNISATION DES\\nBOUCLIERS DES CHASSEURS",
     "trader_shields_structure_research_subject_name": "Modernisation des boucliers des structures",
-    "trader_shields_structure_research_subject_name_uppercase": "MODERNISATION DES\nBOUCLIERS DES STRUCTURES",
+    "trader_shields_structure_research_subject_name_uppercase": "MODERNISATION DES\\nBOUCLIERS DES STRUCTURES",
     "trader_shields_structure_research_subject_description": "Octroie des boucliers aux structures.",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "Déblocage : Bouclier planétaire pour les planètes",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "DÉBLOCAGE : BOUCLIER PLANÉTAIRE POUR LES PLANÈTES",
@@ -18,7 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Permet la construction de boucliers planétaires orbitaux pour les Corsaires.",
     "trader_corsair_planetary_shield_structure_description": "Un générateur de bouclier à bord de cette puissante structure protège la planète des attaques ennemies.",
     "trader_corsair_planetary_shield_structure_name": "Bouclier planétaire",
-    "player_race.shadow": "Flotte de l'Ombre",
-    "player_race_description.shadow": "La Flotte de l'Ombre est une faction mystérieuse et puissante qui a émergé des vestiges d'une civilisation ancienne. Elle est connue pour sa technologie avancée et sa capacité à se téléporter à travers l'univers. Les membres de la Flotte de l'Ombre sont divisés en deux grandes factions : les Loyalistes, qui croient en l'ordre ancien, et les Rébellés, qui cherchent la liberté. Les deux factions partagent l'objectif de dominer l'univers et d'élargir leur pouvoir.",
+    "player_race.shadow": "TAU",
+    "player_race_description.shadow": "La Union de Ascensión de Teletransportación (TAU) es un grupo de investigadores de la Coalición de Emergencia de Comerciantes que accidentalmente descubrieron el secreto de la teletransportación personal. Fueron brutalmente reprimidos por los funcionarios de la TEC y llevados al crimen.\\n\\nLos miembros de la TAU se dividen en dos facciones principales: los Leales, que realizan comercio fuera de toda moralidad, y los Rebeldes, que quieren desarmar y despojar completamente a todas las demás facciones.",
     "end": "Fin"
 }

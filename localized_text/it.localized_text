@@ -1,14 +1,14 @@
 {
     "shadow_fleet_name": "Flotta dell'Ombra",
     "shadow_fleet_desc": "Teletrasporto in Sins2",
-    "player_faction_name.shadow_rebel": "Corsari",
+    "player_faction_name.shadow_rebel": "TAU Corsari",
     "player_faction_description.shadow_rebel": "Ora è mio!",
-    "player_faction_name.shadow_loyalist": "Contrabbandieri",
+    "player_faction_name.shadow_loyalist": "TAU Contrabbandieri",
     "player_faction_description.shadow_loyalist": "Contrabbando per tutti",
     "trader_shields_strikecraft_research_subject_name": "Riconversione scudi caccia",
-    "trader_shields_strikecraft_research_subject_name_uppercase": "RICONVERSIONE SCUDI\nCACCIA",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "RICONVERSIONE SCUDI\\nCACCIA",
     "trader_shields_structure_research_subject_name": "Riconversione scudi strutture",
-    "trader_shields_structure_research_subject_name_uppercase": "RICONVERSIONE SCUDI\nSTRUTTURE",
+    "trader_shields_structure_research_subject_name_uppercase": "RICONVERSIONE SCUDI\\nSTRUTTURE",
     "trader_shields_structure_research_subject_description": "Fornisce scudi alle strutture.",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "Sblocco: Scudo planetario per pianeti",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "SBLOCCO: SCUDO PLANETARIO PER PIANETI",
@@ -18,7 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Consente la costruzione di scudi planetari orbitali per i Corsari.",
     "trader_corsair_planetary_shield_structure_description": "Un generatore di scudi a bordo di questa potente struttura protegge il pianeta dagli attacchi nemici.",
     "trader_corsair_planetary_shield_structure_name": "Scudo planetario",
-    "player_race.shadow": "Flotta dell'Ombra",
-    "player_race_description.shadow": "La Flotta dell'Ombra è una faction misteriosa e potente che è emersa dai resti di una civiltà antica. Sono conosciuti per la loro tecnologia avanzata e la loro capacità di teletrasportarsi attraverso l'universo. I membri della Flotta dell'Ombra sono divisi in due principali fazioni: i Loyalisti, che credono nell'ordine vecchio, e i Ribelli, che cercano la libertà. Entrambe le fazioni condividono l'obiettivo di dominare l'universo e espandere il loro potere.",
+    "player_race.shadow": "TAU",
+    "player_race_description.shadow": "La Union de Ascensión de Teletransportación (TAU) es un grupo de investigadores de la Coalición de Emergencia de Comerciantes que accidentalmente descubrieron el secreto de la teletransportación personal. Fueron brutalmente reprimidos por los funcionarios de la TEC y llevados al crimen.\\n\\nLos miembros de la TAU se dividen en dos facciones principales: los Leales, que realizan comercio fuera de toda moralidad, y los Rebeldes, que quieren desarmar y despojar completamente a todas las demás facciones.",
     "end": "Fine"
 }

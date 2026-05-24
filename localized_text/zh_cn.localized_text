@@ -6,9 +6,9 @@
     "player_faction_name.shadow_loyalist": "走私者",
     "player_faction_description.shadow_loyalist": "全民走私",
     "trader_shields_strikecraft_research_subject_name": "攻击艇护盾改装",
-    "trader_shields_strikecraft_research_subject_name_uppercase": "攻击艇\\n护盾改装",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "攻击艇\\\n护盾改装",
     "trader_shields_structure_research_subject_name": "建筑护盾改装",
-    "trader_shields_structure_research_subject_name_uppercase": "建筑护盾\\n改装",
+    "trader_shields_structure_research_subject_name_uppercase": "建筑护盾\\\n改装",
     "trader_shields_structure_research_subject_description": "为建筑提供护盾。",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "解锁：行星级行星护盾",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "解锁：行星级行星护盾",
@@ -18,7 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "允许海盗建造轨道行星护盾。",
     "trader_corsair_planetary_shield_structure_description": "这座强大建筑上的护盾发生器可以保护行星免受敌方攻击。",
     "trader_corsair_planetary_shield_structure_name": "行星护盾",
-    "player_race.shadow": "暗影舰队",
-    "player_race_description.shadow": "暗影舰队是一个神秘而强大的派系，由古代文明的遗迹形成。他们以先进的技术和穿越宇宙的传送能力而闻名。暗影舰队的成员分为两个主要派系：忠诚于旧秩序的洛伊alist和追求自由的反叛者。两个派系都致力于统治宇宙并扩大自己的权力。",
+    "player_race.shadow": " 塔乌",
+    "player_race_description.shadow": "传送升腾联盟（TAU）是一群来自贸易商紧急联盟（TEC） lean 的研究人员，他们偶然发现了个人传送的秘密。他们遭到了 TEC 官员的残酷镇压，并被迫走上犯罪道路。\\n\\nTAU 的成员主要分为两大派系：保皇派，他们进行毫无道德底线的贸易活动；以及叛军，他们企图彻底解除并剥夺所有其他派系的武装与权力。",
     "end": "结束"
 }

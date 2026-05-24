@@ -6,9 +6,9 @@
     "player_faction_name.shadow_loyalist": "밀수업자",
     "player_faction_description.shadow_loyalist": "모두를 위한 밀수품",
     "trader_shields_strikecraft_research_subject_name": "기동함선 보호막 개조",
-    "trader_shields_strikecraft_research_subject_name_uppercase": "기동함선\n보호막 개조",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "기동함선\\n보호막 개조",
     "trader_shields_structure_research_subject_name": "구조물 보호막 개조",
-    "trader_shields_structure_research_subject_name_uppercase": "구조물\n보호막 개조",
+    "trader_shields_structure_research_subject_name_uppercase": "구조물\\n보호막 개조",
     "trader_shields_structure_research_subject_description": "구조물에 보호막을 부여합니다.",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "잠금 해제: 행성용 행성 보호막",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "잠금 해제: 행성용 행성 보호막",
@@ -18,7 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "코르세어의 궤도 행성 보호막 건설을 허용합니다.",
     "trader_corsair_planetary_shield_structure_description": "이 강력한 구조물에 탑재된 보호막 발생기가 적의 공격으로부터 행성을 보호합니다.",
     "trader_corsair_planetary_shield_structure_name": "행성 보호막",
-    "player_race.shadow": "그림자 함대",
-    "player_race_description.shadow": "그림자 함대는 고대 문명의 흔적에서 태어난 신비로운 강력한 파벌입니다. 고급 기술과 우주를 넘어 텔레포트하는 능력으로 알려져 있습니다. 그림자 함대의 구성원들은 오래된 질서를 믿는 '로열리스트'와 자유를 추구하는 '리벨리온'이라는 두 가지 주요 파벌로 나뉩니다. 두 파벌 모두 우주를 지배하고 권력을 확장하는 것을 목표로 하고 있습니다.",
+    "player_race.shadow": "타우",
+    "player_race_description.shadow": "텔레포테이션 어센션 유니온(TAU)은 개인 텔레포트의 비밀을 우연히 발견한 상인 비상 연합(TEC) 출신의 연구원 집단입니다. 이들은 TEC 관리들에게 잔인하게 탄압받으며 범죄의 길로 내몰렸습니다.\\\n\\\nTAU의 구성원들은 크게 두 가지 주요 파벌로 나뉩니다. 도덕을 배제하고 무역을 추구하는 '로열리스트(충성파)'와, 다른 모든 파벌을 완전히 무장 해제하고 권력을 박탈하려는 '레벨즈(반란파)'입니다.",
     "end": "종료"
 }

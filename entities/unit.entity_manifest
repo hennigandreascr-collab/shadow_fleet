@@ -2,6 +2,7 @@
     "ids": [
         "shadow_loyalist_trade_ship",
         "trader_corsair_planetary_shield_structure",
+        "shadow_orbital_cannon_structure",
         "shadow_loyalist_trade_port_structure"
     ]
 }

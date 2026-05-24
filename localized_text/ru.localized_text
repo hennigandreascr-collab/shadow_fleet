@@ -6,9 +6,9 @@
     "player_faction_name.shadow_loyalist": "Контрабандисты",
     "player_faction_description.shadow_loyalist": "Контрабанда для всех",
     "trader_shields_strikecraft_research_subject_name": "Модернизация щитов ударных кораблей",
-    "trader_shields_strikecraft_research_subject_name_uppercase": "МОДЕРНИЗАЦИЯ ЩИТОВ\nУДАРНЫХ КОРАБЛЕЙ",
+    "trader_shields_strikecraft_research_subject_name_uppercase": "МОДЕРНИЗАЦИЯ ЩИТОВ\\nУДАРНЫХ КОРАБЛЕЙ",
     "trader_shields_structure_research_subject_name": "Модернизация щитов структур",
-    "trader_shields_structure_research_subject_name_uppercase": "МОДЕРНИЗАЦИЯ ЩИТОВ\nСТРУКТУР",
+    "trader_shields_structure_research_subject_name_uppercase": "МОДЕРНИЗАЦИЯ ЩИТОВ\\nСТРУКТУР",
     "trader_shields_structure_research_subject_description": "Дарует щиты структурам.",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "Разблокировка: Планетарный щит для планет",
     "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "РАЗБЛОКИРОВКА: ПЛАНЕТАРНЫЙ ЩИТ ДЛЯ ПЛАНЕТ",
@@ -18,7 +18,7 @@
     "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "Позволяет строить орбитальные планетарные щиты для Корсаров.",
     "trader_corsair_planetary_shield_structure_description": "Генератор щита на борту этой мощной структуры защищает планету от вражеских атак.",
     "trader_corsair_planetary_shield_structure_name": "Планетарный щит",
-    "player_race.shadow": "Теневой флот",
-    "player_race_description.shadow": "Теневой флот — это загадочная и могущественная фракция, возникшая из остатков древней цивилизации. Они известны своей передовой технологией и способностью телепортироваться через вселенную. Члены Теневого флота разделены на две основные фракции: лоялисты, верящие в старый порядок, и повстанцы, стремящиеся к свободе. Обе фракции разделяют цель — доминировать над вселенной и расширять свой власть.",
+    "player_race.shadow": "ТАУ",
+    "player_race_description.shadow": "Телепортационный Альянс Вознесения (TAU) — это группа исследователей из Чрезвычайной Коалиции Торговцев (TEC), которая случайно открыла секрет персональной телепортации. Они подверглись жестоким преследованиям со стороны чиновников TEC, что вынудило их встать на преступный путь.\\\n\\\nЧлены TAU разделены на две основные фракции: лоялисты, которые ведут торговлю вразрез с любой моралью, и повстанцы, стремящиеся полностью разоружить и лишить власти все остальные фракции.",
     "end": "Конец"
 }

@@ -511,7 +511,7 @@
         "trader_hangar_defense_structure",
         "trader_starbase",
         "trader_corsair_planetary_shield_structure",
-        "trader_orbital_cannon_structure"
+        "shadow_orbital_cannon_structure.unit"
     ],
     "allowed_traffic_ports": [
         "advent_population_structure",
