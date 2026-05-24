@@ -1,9 +1,11 @@
 {
     "shadow_fleet_name": "Hạm đội Bóng đêm",
     "shadow_fleet_desc": "Dịch chuyển tức thời trong Sins2",
-    "player_faction_name.shadow_rebel": "Hải tặc",
+    "player_faction_name.shadow_rebel": "TAU Hải tặc",
+    "player_faction_short_name.shadow_rebel": "TAU Hải tặc",
     "player_faction_description.shadow_rebel": "Bây giờ nó là của tôi!",
-    "player_faction_name.shadow_loyalist": "Kẻ buôn lậu",
+    "player_faction_name.shadow_loyalist": "TAU Kẻ buôn lậu",
+    "player_faction_short_name.shadow_loyalist": "TAU Kẻ buôn lậu",
     "player_faction_description.shadow_loyalist": "Hàng lậu cho mọi người",
     "trader_shields_strikecraft_research_subject_name": "Cải tạo lá chắn phi thuyền đột kích",
     "trader_shields_strikecraft_research_subject_name_uppercase": "CẢI TẠO LÁ CHẮN\\nPHI THUYỀN ĐỘT KÍCH",
