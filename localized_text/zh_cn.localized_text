@@ -22,5 +22,7 @@
     "trader_corsair_planetary_shield_structure_name": "行星护盾",
     "player_race.shadow": " 塔乌",
     "player_race_description.shadow": "传送升腾联盟（TAU）是一群来自贸易商紧急联盟（TEC） lean 的研究人员，他们偶然发现了个人传送的秘密。他们遭到了 TEC 官员的残酷镇压，并被迫走上犯罪道路。\\n\\nTAU 的成员主要分为两大派系：保皇派，他们进行毫无道德底线的贸易活动；以及叛军，他们企图彻底解除并剥夺所有其他派系的武装与权力。",
+    "trader_constructor_cruiser_name": "建造型巡洋舰",
+    "trader_constructor_cruiser_description": "一种强大的巡洋舰，负责建造结构和保护附近的行星。",
     "end": "结束"
 }

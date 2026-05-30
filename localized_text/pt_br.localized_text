@@ -22,5 +22,7 @@
     "trader_corsair_planetary_shield_structure_name": "Escudo Planetário",
     "player_race.shadow": "Frota das Sombras",
     "player_race_description.shadow": "A Frota das Sombras é uma facção misteriosa e poderosa que surgiu a partir dos restos de uma civilização antiga. Eles são conhecidos por sua tecnologia avançada e capacidade de se teletransportar através do universo. Os membros da Frota das Sombras estão divididos em duas principais facções: os Leais, que acreditam no velho ordenamento, e os Rebeldes, que buscam liberdade. Ambas as facções compartilham o objetivo de dominar o universo e expandir seu poder.",
+    "trader_constructor_cruiser_name": "Cruzador Construtor",
+    "trader_constructor_cruiser_description": "Um cruzador poderoso responsável pela construção de estruturas e pela defesa do planeta próximo.",
     "end": "Fim"
 }

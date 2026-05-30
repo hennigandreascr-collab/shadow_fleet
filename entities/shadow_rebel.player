@@ -489,7 +489,7 @@
     }],
     "structure_builder":
     {
-        "ship": "trader_constructor_ship",
+        "ship": "trader_constructor_cruiser",
         "special_operation_unit_kind": "structure_builder"
     },
     "structures": [
