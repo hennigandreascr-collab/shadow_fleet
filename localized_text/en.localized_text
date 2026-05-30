@@ -24,5 +24,8 @@
     "player_race_description.shadow": "The Teleportation Ascension Union (TAU) is a group of researchers from the Trader Emergency Coalition who accidentally discovered the secret of personal teleportation. They were brutally suppressed by TEC officials and driven into crime.\\n\\nThe members of the TAU are divided into two main factions: the Loyalists, who conduct trade outside of all morality, and the Rebels, who want to completely disarm and disempower all other factions.",
     "trader_constructor_cruiser_name": "Constructor Cruiser",
     "trader_constructor_cruiser_description": "A powerful cruiser responsible for building structures and defending the nearby planet.",
+    "trader_unlock_detection_with_culture_research_subject_name": "Unlock: Teleport Scouts",
+    "trader_unlock_detection_with_culture_research_subject_name_uppercase": "UNLOCK: TELEPORT-SCOUTS",
+    "trader_unlock_detection_with_culture_research_subject_name_description": "Allows the construction of Teleport Scouts that can detect and track enemy ships.",
     "end": "The End"
 }

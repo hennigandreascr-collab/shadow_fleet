@@ -24,5 +24,8 @@
     "player_race_description.shadow": "텔레포테이션 어센션 유니온(TAU)은 개인 텔레포트의 비밀을 우연히 발견한 상인 비상 연합(TEC) 출신의 연구원 집단입니다. 이들은 TEC 관리들에게 잔인하게 탄압받으며 범죄의 길로 내몰렸습니다.\\\n\\\nTAU의 구성원들은 크게 두 가지 주요 파벌로 나뉩니다. 도덕을 배제하고 무역을 추구하는 '로열리스트(충성파)'와, 다른 모든 파벌을 완전히 무장 해제하고 권력을 박탈하려는 '레벨즈(반란파)'입니다.",
     "trader_constructor_cruiser_name": "건설 크루저",
     "trader_constructor_cruiser_description": "구조물의 건설과 인근 행성을 방어하는 데 담당하는 강력한 크루저입니다.",
+    "trader_unlock_detection_with_culture_research_subject_name": "잠금 해제: 텔레포트 스카우트",
+    "trader_unlock_detection_with_culture_research_subject_name_uppercase": "잠금 해제: 텔레포트 스카우트",
+    "trader_unlock_detection_with_culture_research_subject_name_description": "적대적인 함선을 감지하고 추적할 수 있는 텔레포트 스카우트의 건설을 가능하게 합니다.",
     "end": "종료"
 }

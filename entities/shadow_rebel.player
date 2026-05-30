@@ -907,6 +907,7 @@
             "trader_economic_exotic_build_rate",
             "trader_enemy_culture_suppression",
             "trader_find_npc_explore",
+            "trader_unlock_detection_with_culture",
             "trader_heavy_fallout",
             "trader_heavy_maneuvering_thrusters",
             "trader_high_order_explosives",
@@ -5039,12 +5040,42 @@
         }],
         "planet_track_level_culture_providers": [
         {
+            "track_type": "logistics",
+            "minimum_level": 0,
+            "rate": 0.01
+        },        
+        {
+            "track_type": "defense",
+            "minimum_level": 0,
+            "rate": 0.02
+        },        
+        {
+            "track_type": "commerce",
+            "minimum_level": 0,
+            "rate": 0.01
+        },        
+        {
+            "track_type": "mining",
+            "minimum_level": 0,
+            "rate": 0.01
+        },        
+        {
+            "track_type": "research",
+            "minimum_level": 0,
+            "rate": 0.02
+        },        
+        {
+            "track_type": "surveying",
+            "minimum_level": 0,
+            "rate": 0.02
+        },        
+        {
             "track_type": "commerce",
             "minimum_level": 3,
             "prerequisites": [
                 ["trader_commerce_culture"]
             ],
-            "rate": 0.01
+            "rate": 0.05
         }],
         "insurgency":
         {
@@ -5088,8 +5119,8 @@
                     "weight": 10.0
                 }]
             },
-            "supply": 300,
-            "cooldown": 200.0,
+            "supply": 400,
+            "cooldown": 100.0,
             "spawn_at_gravity_well_count_percentage": 0.2
         }
     },

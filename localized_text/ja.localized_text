@@ -24,5 +24,8 @@
     "player_race_description.shadow": "テレポート・アセンション・ユニオン（TAU）は、個人用テレポーテーションの秘密を偶然発見したトレーダー緊急連合（TEC）の研究者グループです。彼らはTECの官僚たちから残忍な弾圧を受け、犯罪の道へと追い込まれました。\\\n\\\nTAUのメンバーは主に2つの派閥に分かれています。モラルを度外視して交易を行う「ロイヤリスト（忠誠派）」と、他のすべての派閥を完全に武装解除し、権力を剥奪しようとする「レベルズ（反乱派）」です。",
     "trader_constructor_cruiser_name": "建造クルーザー",
     "trader_constructor_cruiser_description": "構造物の建設と近隣惑星の防衛を担当する強力なクルーザー。",
+    "trader_unlock_detection_with_culture_research_subject_name": "解禁：テレポート・スカウト",
+    "trader_unlock_detection_with_culture_research_subject_name_uppercase": "解禁：テレポート・スカウト",
+    "trader_unlock_detection_with_culture_research_subject_name_description": "敵対的な艦船を検出および追跡できるテレポート・スカウトの建設を可能にします。",
     "end": "終了"
 }
