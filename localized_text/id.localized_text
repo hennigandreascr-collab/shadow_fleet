@@ -27,5 +27,6 @@
     "trader_unlock_detection_with_culture_research_subject_name": "Buka kunci: Scouts Teleport",
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "BUKA KUNCI: SCOUTS TELEPORT",
     "trader_unlock_detection_with_culture_research_subject_name_description": "Memungkinkan pembangunan Scouts Teleport yang dapat mendeteksi dan melacak kapal musuh.",
+    "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "Scouts Teleport mengungkapkan detail dari semua lokasi yang didominasi secara budaya.",
     "end": "Selesai"
 }

@@ -27,5 +27,6 @@
     "trader_unlock_detection_with_culture_research_subject_name": "Desbloqueo: Scouts de Teletransporte",
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "DESBLOQUEO: SCOUTS DE TELETRANSPORTE",
     "trader_unlock_detection_with_culture_research_subject_name_description": "Permite la construcción de Scouts de Teletransporte que pueden detectar y rastrear naves enemigas.",
+    "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "Los Scouts de Teletransporte revelan detalles de todas las ubicaciones dominadas culturalmente.",
     "end": "Fin"
 }

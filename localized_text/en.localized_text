@@ -27,5 +27,6 @@
     "trader_unlock_detection_with_culture_research_subject_name": "Unlock: Teleport Scouts",
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "UNLOCK: TELEPORT-SCOUTS",
     "trader_unlock_detection_with_culture_research_subject_name_description": "Allows the construction of Teleport Scouts that can detect and track enemy ships.",
+    "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "Teleport Scouts reveal details of all culturally dominated locations.",
     "end": "The End"
 }

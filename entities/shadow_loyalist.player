@@ -5032,6 +5032,39 @@
                 ]
             }]
         }],
+        "friendly_planet_modifiers": [
+            {
+                "modifier_type": "commerce_track_credit_income_rate",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_resource_extractor_structures"]
+                    ],
+                    "value": 0.15
+                }]
+            },
+            {
+                "modifier_type": "mining_track_metal_income_rate",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_resource_extractor_structures"]
+                    ],
+                    "value": 0.15
+                }]
+            },
+            {
+                "modifier_type": "mining_track_crystal_income_rate",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_resource_extractor_structures"]
+                    ],
+                    "value": 0.15
+                }]
+            }
+        ],        
+
         "planet_track_level_culture_providers": [
         {
             "track_type": "logistics",

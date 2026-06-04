@@ -27,5 +27,6 @@
     "trader_unlock_detection_with_culture_research_subject_name": "잠금 해제: 텔레포트 스카우트",
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "잠금 해제: 텔레포트 스카우트",
     "trader_unlock_detection_with_culture_research_subject_name_description": "적대적인 함선을 감지하고 추적할 수 있는 텔레포트 스카우트의 건설을 가능하게 합니다.",
+    "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "텔레포트 스카우트는 문화적으로 지배된 모든 장소의 세부 정보를 드러냅니다.",
     "end": "종료"
 }

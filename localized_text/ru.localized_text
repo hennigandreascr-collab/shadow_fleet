@@ -27,5 +27,6 @@
     "trader_unlock_detection_with_culture_research_subject_name": "Разблокировка: Телепорт-скауты",
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "РАЗБЛОКИРОВКА: ТЕЛЕПОРТ-СКАУТЫ",
     "trader_unlock_detection_with_culture_research_subject_name_description": "Позволяет строить телепорт-скауты, которые могут обнаруживать и преследовать вражеские корабли.",
+    "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "Телепорт-скауты раскрывают детали всех культурно доминируемых локаций.",
     "end": "Конец"
 }

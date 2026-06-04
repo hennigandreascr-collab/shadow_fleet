@@ -27,5 +27,6 @@
     "trader_unlock_detection_with_culture_research_subject_name": "解禁：テレポート・スカウト",
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "解禁：テレポート・スカウト",
     "trader_unlock_detection_with_culture_research_subject_name_description": "敵対的な艦船を検出および追跡できるテレポート・スカウトの建設を可能にします。",
+    "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "テレポート・スカウトは、文化的に支配されたすべての場所の詳細を明らかにします。",
     "end": "終了"
 }

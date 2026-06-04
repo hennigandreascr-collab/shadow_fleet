@@ -27,5 +27,6 @@
     "trader_unlock_detection_with_culture_research_subject_name": "Odblokowanie: Scouts Teleport",
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "ODBLOKOWANIE: SCOUTS TELEPORT",
     "trader_unlock_detection_with_culture_research_subject_name_description": "Umożliwia budowę Scoutów Teleport, którzy mogą wykrywać i śledzić wrogie statki.",
+    "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "Scouts Teleport ujawniają szczegóły wszystkich kulturowo zdominowanych lokalizacji.",
     "end": "Koniec"
 }

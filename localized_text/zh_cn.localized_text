@@ -27,5 +27,6 @@
     "trader_unlock_detection_with_culture_research_subject_name": "解锁：传送侦察兵",
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "解锁：传送侦察兵",
     "trader_unlock_detection_with_culture_research_subject_name_description": "允许建造能够发现和追踪敌方船只的传送侦察兵。",
+    "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "传送侦察兵揭示所有文化主导位置的细节。",
     "end": "结束"
 }

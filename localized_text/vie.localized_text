@@ -27,6 +27,6 @@
     "trader_unlock_detection_with_culture_research_subject_name": "Mở khóa: Trinh sát Dịch chuyển",
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "MỞ KHÓA: TRINH SÁT DỊCH CHUYỂN",
     "trader_unlock_detection_with_culture_research_subject_name_description": "Cho phép xây dựng các trinh sát dịch chuyển có thể phát hiện và truy đuổi tàu địch.",
-
+    "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "Trinh sát Dịch chuyển tiết lộ chi tiết của tất cả các địa điểm bị thống trị về mặt văn hóa.",
     "end": "Kết thúc"
 }
