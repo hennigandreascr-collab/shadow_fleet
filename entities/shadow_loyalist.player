@@ -46,7 +46,7 @@
     },
     "influence":
     {
-        "reveal_npc_point_costs": [1, 2, 3, 4, 5, 6]
+        "reveal_npc_point_costs": [1, 1, 1, 1, 1, 1]
     },
     "planet_levels": [
     {
@@ -5034,12 +5034,42 @@
         }],
         "planet_track_level_culture_providers": [
         {
+            "track_type": "logistics",
+            "minimum_level": 0,
+            "rate": 0.01
+        },        
+        {
+            "track_type": "defense",
+            "minimum_level": 0,
+            "rate": 0.02
+        },        
+        {
+            "track_type": "commerce",
+            "minimum_level": 0,
+            "rate": 0.01
+        },        
+        {
+            "track_type": "mining",
+            "minimum_level": 0,
+            "rate": 0.01
+        },        
+        {
+            "track_type": "research",
+            "minimum_level": 0,
+            "rate": 0.02
+        },        
+        {
+            "track_type": "surveying",
+            "minimum_level": 0,
+            "rate": 0.02
+        },        
+        {
             "track_type": "commerce",
             "minimum_level": 3,
             "prerequisites": [
                 ["trader_commerce_culture"]
             ],
-            "rate": 0.01
+            "rate": 0.05
         }]
     },
     "find_npc_explore_prerequisites": [
