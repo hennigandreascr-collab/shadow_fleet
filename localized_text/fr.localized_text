@@ -28,5 +28,7 @@
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "DÉBLOCAGE : SCOUTS DE TÉLÉPORTATION",
     "trader_unlock_detection_with_culture_research_subject_name_description": "Permet la construction de Scouts de Téléportation qui peuvent détecter et suivre les navires ennemis.",
     "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "Les Scouts de Téléportation révèlent les détails de tous les emplacements dominés culturellement.",
+    "trader_trade_corvette_name" : "Corvette de Commerce",
+    "trader_trade_corvette_description": "Une corvette légère chargée du commerce et du transport de marchandises.",
     "end": "Fin"
 }

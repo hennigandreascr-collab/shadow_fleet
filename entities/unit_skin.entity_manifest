@@ -2,6 +2,7 @@
     "ids": [
         "trader_corsair_planetary_shield_structure",
         "trader_constructor_cruiser",
+        "trader_trade_corvette",
         "shadow_orbital_cannon_structure"
     ]
 }

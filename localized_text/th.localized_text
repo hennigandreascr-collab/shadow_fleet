@@ -28,5 +28,7 @@
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "ปลดล็อก: สเกาท์เทเลพอร์ต",
     "trader_unlock_detection_with_culture_research_subject_name_description": "อนุญาตให้สร้างสเกาท์เทเลพอร์ตที่สามารถตรวจจับและตามล่าเรือศัตรูได้",
     "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "สเกาท์เทเลพอร์ตเปิดเผยรายละเอียดของทุกสถานที่ที่ถูกครอบงำทางวัฒนธรรม",
+    "trader_trade_corvette_name" : "เรือคอร์เวตต์การค้า",
+    "trader_trade_corvette_description": "เรือคอร์เวตต์เบาที่รับผิดชอบในการค้าและขนส่งสินค้า",
     "end": "จบ"
 }

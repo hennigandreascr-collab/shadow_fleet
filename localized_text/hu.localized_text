@@ -28,5 +28,7 @@
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "FELOLDÁS: TELEPORT SKAUTOK",
     "trader_unlock_detection_with_culture_research_subject_name_description": "Lehetővé teszi a Teleport Skautok építését, amelyek fel tudják fedezni és követni az ellenséges hajókat.",
     "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "A Teleport Skautok felfedik a részleteket minden kulturálisan dominált helyszínről.",
+    "trader_trade_corvette_name" : "Kereskedelmi Korvett",
+    "trader_trade_corvette_description": "Egy könnyű korvett, amely a kereskedelem és az áruk szállítása felelős.",
     "end": "Vége"
 }

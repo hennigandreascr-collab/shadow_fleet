@@ -28,5 +28,8 @@
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "解锁：传送侦察兵",
     "trader_unlock_detection_with_culture_research_subject_name_description": "允许建造能够发现和追踪敌方船只的传送侦察兵。",
     "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "传送侦察兵揭示所有文化主导位置的细节。",
+    "trader_trade_corvette_name" : "贸易护卫舰",
+    "trader_trade_corvette_description": "一种轻型护卫舰，负责贸易和货物运输。",
     "end": "结束"
 }
+    

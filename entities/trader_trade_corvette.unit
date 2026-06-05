@@ -114,7 +114,7 @@
     "skin_groups": [
     {
         "skins": [
-            "trader_trade_ship"]
+            "trader_trade_corvette"]
     }],
     "action_effect_size": "small_unit"
 }

@@ -104,7 +104,7 @@
     },
     "trade_port":
     {
-        "max_trade_ship_count": 3,
+        "max_trade_ship_count": 6,
         "trade_ship_construction_time": 60.0,
         "trade_ship": "trader_trade_corvette",
         "special_operation_unit_kind": "trade_ship",

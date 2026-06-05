@@ -28,5 +28,7 @@
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "SBLOCCO: SCOUTS DI TELETRASPORTO",
     "trader_unlock_detection_with_culture_research_subject_name_description": "Permette la costruzione di Scouts di Teletrasporto che possono rilevare e inseguire navi nemiche.",
     "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "Gli Scouts di Teletrasporto rivelano i dettagli di tutte le posizioni dominate culturalmente.",
+    "trader_trade_corvette_name" : "Corvetta da Commercio",
+    "trader_trade_corvette_description": "Una corvetta leggera responsabile del commercio e del trasporto di merci.",   
     "end": "Fine"
 }

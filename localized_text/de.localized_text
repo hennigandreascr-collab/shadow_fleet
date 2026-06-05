@@ -28,5 +28,7 @@
     "trader_unlock_detection_with_culture_research_subject_name_uppercase": "FREISCHALTUNG: TELEPORT-SKOUTS",
     "trader_unlock_detection_with_culture_research_subject_name_description": "Ermöglicht den Bau von Teleport-Skouts, die feindliche Schiffe aufdecken und verfolgen können.",
     "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "Teleport-Skouts zeigen Details aller kulturell dominierten Plätze.",
+    "trader_trade_corvette_name" : "Handelskorvette",
+    "trader_trade_corvette_description": "Eine leichte Korvette, die für den Handel und den Transport von Waren zuständig ist.",
     "end": "Das Ende"
 }
