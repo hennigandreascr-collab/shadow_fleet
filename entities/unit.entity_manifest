@@ -1,7 +1,9 @@
 {
     "ids": [
-        "trader_smuggler_trade_ship",
+        "trader_trade_corvette",
         "trader_corsair_planetary_shield_structure",
-        "trader_smuggler_trade_port_structure"
+        "shadow_orbital_cannon_structure",
+        "trader_constructor_cruiser",
+        "shadow_loyalist_trade_port_structure"
     ]
 }

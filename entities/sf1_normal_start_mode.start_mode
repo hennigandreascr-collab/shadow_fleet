@@ -65,7 +65,7 @@
         }
     },
     {
-        "player_definition_id": "trader_smuggler",
+        "player_definition_id": "shadow_loyalist",
         "starting_assets":
         {
             "credits": 5500.0,
@@ -185,28 +185,42 @@
         }
     },
     {
-        "player_definition_id": "trader_corsair",
+        "player_definition_id": "shadow_rebel",
         "starting_assets":
         {
-            "credits": 1000.0,
-            "metal": 400.0,
-            "crystal": 250.0
+            "credits": 5500.0,
+            "metal": 1650.0,
+            "crystal": 850.0
         },
         "home_planet":
         {
             "starting_units_in_gravity_well":
+            {},
+            "starting_units_in_formations": [
             {
                 "required_units": [
                 {
+                    "unit": "trader_capital_ship_factory_structure",
+                    "count": [1, 1]
+                },
+                {
+                    "unit": "trader_retrofit_bay_structure",
+                    "count": [1, 1]
+                },
+                {
                     "unit": "trader_frigate_factory_structure",
                     "count": [1, 1]
+                },
+                {
+                    "unit": "trader_scout_corvette",
+                    "count": [2, 2]
                 }]
-            },
+            }],
             "home_planet_track_levels":
             {
-                "logistics": 1,
-                "defense": 0,
-                "commerce": 1,
+                "logistics": 2,
+                "defense": 1,
+                "commerce": 3,
                 "mining": 1,
                 "research": 0,
                 "focus": 0,
@@ -214,7 +228,7 @@
             },
             "starting_units_in_hyperspace":
             {},
-            "home_planet_starting_population": [400, 400]
+            "home_planet_starting_population": [500, 500]
         },
         "starting_research":
         {
@@ -228,8 +242,7 @@
             "max_jumps": 0,
             "include_star_phase_lanes": false,
             "include_wormhole_phase_lanes": false
-        },
-        "free_starting_capital_ship": false
+        }
     },
     {
         "player_definition_id": "advent_loyalist",

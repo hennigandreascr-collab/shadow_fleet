@@ -13,7 +13,7 @@ Status der Lokalisierung:
 
 * Quellsprache: Deutsch (de.localized_text)
 * Zielsprachen (14): en, es, fr, hu, id, it, jp, ko, pl, pt_br, ru, th, vie, zn_ch.
-* Format: UTF-8 JSON-Dateien mit spezifischen Keys für Namen, Beschreibungen und UI-Elemente (Uppercase/Newline \n).
+* Format: UTF-8 JSON-Dateien mit spezifischen Keys für Namen, Beschreibungen und UI-Elemente (Uppercase/Newline \\n).
 * Stil-Richtlinie: Atmosphärisches Sci-Fi-Vokabular (Sins 2 Jargon), keine rein wörtliche API-Übersetzung.
 
 Bisher erledigt:
@@ -816,8 +816,8 @@ json
     "advent_loyalist",
     "vasari_loyalist",
     "vasari_rebel",
-    "trader_smuggler", 
-    "trader_corsair"
+    "shadow_loyalist", 
+    "shadow_rebel"
 ],
 Verwende Code mit Vorsicht.
 

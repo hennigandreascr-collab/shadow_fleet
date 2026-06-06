@@ -103,7 +103,7 @@
         "value_behavior": "additive",
         "value": 1500.0,
         "prerequisites": [
-            ["trader_shields_frigate"]
+            ["trader_shields_corvette"]
         ]
     }],
     "target_filter_unit_type": "frigate",
@@ -114,7 +114,7 @@
     "skin_groups": [
     {
         "skins": [
-            "trader_trade_ship"]
+            "trader_trade_corvette"]
     }],
     "action_effect_size": "small_unit"
 }
