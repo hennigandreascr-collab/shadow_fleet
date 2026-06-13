@@ -199,7 +199,7 @@
         "release_time_after_death": 60.0,
         "can_collide_duration_after_death": 3.95,
         "durability": 400.0,
-        "can_ever_be_resurrected": true,
+        "can_ever_be_resurrected": false,
         "levels": [
         {
             "max_hull_points": 1250.0,
@@ -253,6 +253,7 @@
             "trader_constructor_ship_build_structure"]
     }],
     "build_structure_ability": "trader_constructor_ship_build_structure",
+    "virtual_supply_cost": 1,
     "skin_groups": [
     {
         "skins": [

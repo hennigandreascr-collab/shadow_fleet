@@ -464,9 +464,11 @@
         "trader_carrier_capital_ship",
         "trader_siege_capital_ship",
         "trader_rebel_titan",
+        "trader_constructor_cruiser",
         "dlc2_trader_rebel_super_capital_ship"
     ],
     "faction_buildable_units": [
+        "trader_constructor_cruiser",
         "trader_rebel_titan",
         "dlc2_trader_rebel_super_capital_ship"
     ],
@@ -511,7 +513,7 @@
         "trader_hangar_defense_structure",
         "trader_starbase",
         "sf1_trader_corsair_planetary_shield_structure",
-        "shadow_orbital_cannon_structure"
+        "sf1_shadow_orbital_cannon_structure"
     ],
     "allowed_traffic_ports": [
         "advent_population_structure",
@@ -5548,10 +5550,10 @@
     {
         "hud_skin_name": "trader_hud_skin",
         "race_name": "player_race_name.shadow",
-        "race_description": "player_race_description.shadow",
-        "faction_name": "player_faction_name.shadow_rebel",
-        "faction_short_name": "player_faction_short_name.shadow_rebel",
-        "faction_description": "player_faction_description.shadow_rebel",
+        "race_description": "player_race_description.sf1_shadow",
+        "faction_name": "player_faction_name.sf1_shadow_rebel",
+        "faction_short_name": "player_faction_short_name.sf1_shadow_rebel",
+        "faction_description": "player_faction_description.sf1_shadow_rebel",
         "faction_icon": "trader_rebel_faction_icon",
         "load_screen_character_brush": "trader_load_screen_character",
         "player_slot_plates": [

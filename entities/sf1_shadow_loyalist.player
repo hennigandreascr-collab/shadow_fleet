@@ -34,7 +34,7 @@
             "mining": 1
         },
         "starting_planet_components": [
-            "trader_rebel_homeworld_human_doctrine_center"
+            "trader_loyalist_homeworld_home_guard_command"
         ],
         "establish_price":
         {
@@ -46,7 +46,7 @@
     },
     "influence":
     {
-        "reveal_npc_point_costs": [1, 2, 3, 4, 5, 6]
+        "reveal_npc_point_costs": [1, 1, 1, 1, 1, 1]
     },
     "planet_levels": [
     {
@@ -406,11 +406,6 @@
             "unit": "trader_frigate_factory_structure"
         }]
     }],
-    "starting_npc_detection":
-    {
-        "specific_npcs": [
-            "pirate_npc"]
-    },
     "fleet": "trader_fleet",
     "fleet_name_group": "fleet",
     "unit_build_groups": [
@@ -463,12 +458,12 @@
         "trader_support_capital_ship",
         "trader_carrier_capital_ship",
         "trader_siege_capital_ship",
-        "trader_rebel_titan",
-        "dlc2_trader_rebel_super_capital_ship"
+        "trader_loyalist_titan",
+        "dlc2_trader_loyalist_super_capital_ship"
     ],
     "faction_buildable_units": [
-        "trader_rebel_titan",
-        "dlc2_trader_rebel_super_capital_ship"
+        "trader_loyalist_titan",
+        "dlc2_trader_loyalist_super_capital_ship"
     ],
     "buildable_strikecraft": [
         "trader_interceptor_strikecraft",
@@ -489,7 +484,7 @@
     }],
     "structure_builder":
     {
-        "ship": "trader_constructor_cruiser",
+        "ship": "trader_constructor_ship",
         "special_operation_unit_kind": "structure_builder"
     },
     "structures": [
@@ -502,16 +497,15 @@
         "trader_culture_center_structure",
         "trader_exotic_factory_structure",
         "trader_population_structure",
-        "trader_trade_port_structure",
-        "trader_rebel_titan_factory_structure",
+        "sf1_shadow_loyalist_trade_port_structure",
+        "trader_loyalist_titan_factory_structure",
         "trader_autocannon_defense_structure",
         "trader_retrofit_bay_structure",
         "trader_gauss_defense_structure",
         "trader_phase_jump_inhibitor_structure",
         "trader_hangar_defense_structure",
         "trader_starbase",
-        "sf1_trader_corsair_planetary_shield_structure",
-        "shadow_orbital_cannon_structure"
+        "sf1_shadow_orbital_cannon_structure"
     ],
     "allowed_traffic_ports": [
         "advent_population_structure",
@@ -521,7 +515,6 @@
         "trader_population_structure",
         "vasari_population_structure"
     ],
-    "faction_structures": [],
     "ability_created_units": [
         "trader_missile_battery_frigate",
         "trader_starbase"
@@ -884,9 +877,9 @@
         },
         "research_subjects": [
             "dlc2_trader_unlock_faction_victory_item",
-            "dlc2_trader_unlock_rebel_super_capital_ship",
-            "dlc2_trader_upgrade_rebel_super_limit_0",
-            "dlc2_trader_upgrade_rebel_super_limit_1",
+            "dlc2_trader_unlock_loyalist_super_capital_ship",
+            "dlc2_trader_upgrade_loyalist_super_limit_0",
+            "dlc2_trader_upgrade_loyalist_super_limit_1",
             "trader_antimatter_0",
             "trader_antimatter_1",
             "trader_asteroid_planet_credit_rate",
@@ -901,16 +894,15 @@
             "trader_commerce_culture",
             "trader_commercial_district_credit_rate",
             "trader_corvette_speed",
-            "trader_culture_insurgency",
+            "trader_counter_deployment",
             "trader_culture_rate_0",
             "trader_culture_rate_1",
-            "trader_economic_exotic_build_rate",
-            "trader_enemy_culture_suppression",
+            "trader_defense_structure_culture_resistance",
             "trader_find_npc_explore",
-            "trader_unlock_detection_with_culture",
+            "trader_fortification_specialist",
+            "trader_garrison_max_supply",
             "trader_heavy_fallout",
             "trader_heavy_maneuvering_thrusters",
-            "trader_high_order_explosives",
             "trader_hull_damage_reduction_0",
             "trader_hull_damage_reduction_1",
             "trader_hull_damage_reduction_2",
@@ -918,6 +910,7 @@
             "trader_improve_gauss_defense_cooldown",
             "trader_improve_gauss_defense_range",
             "trader_labor_negotiations",
+            "trader_loyalist_garrison_max_supply",
             "trader_max_hull_points_0",
             "trader_max_hull_points_1",
             "trader_max_hull_points_2",
@@ -936,35 +929,33 @@
             "trader_missile_weapon_damage_2",
             "trader_missile_weapon_range",
             "trader_npc_market_discounts",
-            "trader_orbital_cannon_structure_range",
             "trader_orbital_extraction_crystal_rate_0",
             "trader_orbital_extraction_crystal_rate_1",
             "trader_orbital_extraction_metal_rate_0",
             "trader_orbital_extraction_metal_rate_1",
             "trader_pervasive_economy",
-            "trader_pirate_king_windfall",
-            "trader_pirate_raid_supply",
             "trader_planet_bombing_damage_0",
             "trader_planet_civilian_slots",
             "trader_planet_health_restore_rate",
-            "trader_planet_pillaging",
             "trader_planet_track_upgrade_rate",
             "trader_quick_phase_jump",
-            "trader_rebel_pirate_cease_fire",
-            "trader_rebel_pirate_share_vision",
             "trader_retrofit_bay_repair_rate_0",
-            "trader_savage_thrill",
             "trader_scout_corvette_hyperspace_charge_time",
             "trader_shields_0",
             "trader_shields_1",
             "trader_shields_corvette",
             "trader_shields_cruiser",
             "trader_shields_frigate",
+            "trader_shields_structure",
+            "trader_shields_strikecraft",
+            "trader_starbase_item_price",
             "trader_structure_build_rate",
+            "trader_structure_hull",
             "trader_structure_price_decrease",
             "trader_trade_port_culture",
             "trader_trade_port_income_rate_0",
             "trader_trade_port_income_rate_1",
+            "trader_twin_fortresses",
             "trader_unit_factory_build_rate",
             "trader_unlock_alloy_foundry_unit_item",
             "trader_unlock_antiarmor_frigate",
@@ -992,6 +983,7 @@
             "trader_unlock_ferrous_biosphere",
             "trader_unlock_flak_burst_unit_item",
             "trader_unlock_fulfilment_warehouse_unit_item",
+            "trader_unlock_garrison_recruitment_center",
             "trader_unlock_gas_crystalizer_unit_item",
             "trader_unlock_gas_giant_biosphere",
             "trader_unlock_gas_harvester_unit_item",
@@ -1000,16 +992,25 @@
             "trader_unlock_hangar_defense_structure",
             "trader_unlock_heavy_armor_unit_item",
             "trader_unlock_heavy_cruiser",
+            "trader_unlock_heavy_garrison",
             "trader_unlock_heavy_gauss_slugs_unit_item",
             "trader_unlock_high_density_district_unit_item",
             "trader_unlock_high_yield_warheads_unit_item",
-            "trader_unlock_human_doctrine_center_unit_item",
+            "trader_unlock_home_guard_outpost_unit_item",
             "trader_unlock_hyperspace_between_stars",
             "trader_unlock_ice_biosphere",
             "trader_unlock_industrial_complex_unit_item",
             "trader_unlock_irradiated_biosphere",
             "trader_unlock_long_range_cruiser",
             "trader_unlock_long_range_cruiser_breaker_missile_ability",
+            "trader_unlock_loyalist_titan",
+            "trader_unlock_loyalist_titan_beam_weapon_unit_item",
+            "trader_unlock_loyalist_titan_hangar_unit_item",
+            "trader_unlock_loyalist_titan_hull_plating_0_unit_item",
+            "trader_unlock_loyalist_titan_hull_plating_1_unit_item",
+            "trader_unlock_loyalist_titan_hull_plating_2_unit_item",
+            "trader_unlock_loyalist_titan_missile_weapon_unit_item",
+            "trader_unlock_loyalist_titan_shield_array_unit_item",
             "trader_unlock_magnetic_biosphere",
             "trader_unlock_media_conglomerate_unit_item",
             "trader_unlock_missile_armor_unit_item",
@@ -1022,15 +1023,8 @@
             "trader_unlock_phase_jump_inhibitor",
             "trader_unlock_phase_lane_detector",
             "trader_unlock_phase_lane_detector_extended_range",
-            "trader_unlock_pirate_mercenary_base_unit_item",
             "trader_unlock_population_structure",
             "trader_unlock_rapid_autoloader_unit_item",
-            "trader_unlock_rebel_titan",
-            "trader_unlock_rebel_titan_hangar_unit_item",
-            "trader_unlock_rebel_titan_hull_plating_0_unit_item",
-            "trader_unlock_rebel_titan_hull_plating_1_unit_item",
-            "trader_unlock_rebel_titan_missile_weapon_unit_item",
-            "trader_unlock_rebel_titan_rail_gun_weapon_unit_item",
             "trader_unlock_regional_government_unit_item",
             "trader_unlock_remote_drone_refinery_unit_item",
             "trader_unlock_reserve_squadron_hangar_unit_item",
@@ -1096,9 +1090,10 @@
             "trader_upgrade_swamp_biosphere",
             "trader_upgrade_volcanic_biosphere",
             "trader_upgrade_volcanic_biosphere_credit_rate",
+            "trader_war_measures_act",
             "trader_wormhole_travel",
+            "trader_unlock_planet_planetary_shield_array_unit_item",
             "trader_unlock_commodity_exchange_unit_item",
-            "trader_corsair_unlock_planetary_shield_structure",
             "trader_teleport_culture_0",
             "trader_teleport_culture_1",
             "trader_teleport_culture_2",
@@ -1107,20 +1102,19 @@
             "trader_unlock_population_growth_ability"
         ],
         "faction_research_subjects": [
-            "trader_enemy_culture_suppression",
-            "trader_savage_thrill",
-            "trader_planet_pillaging",
-            "trader_pirate_raid_supply",
-            "trader_high_order_explosives",
-            "trader_culture_insurgency",
-            "trader_rebel_pirate_cease_fire",
-            "trader_rebel_pirate_share_vision",
-            "trader_economic_exotic_build_rate",
-            "trader_unlock_rebel_titan_rail_gun_weapon_unit_item",
-            "trader_unlock_human_doctrine_center_unit_item",
-            "trader_unlock_pirate_mercenary_base_unit_item",
-            "trader_corsair_unlock_planetary_shield_structure",
-            "trader_orbital_cannon_structure_range"
+            "trader_shields_structure",
+            "trader_shields_strikecraft",
+            "trader_unlock_garrison_recruitment_center",
+            "trader_garrison_max_supply",
+            "trader_unlock_heavy_garrison",
+            "trader_loyalist_garrison_max_supply",
+            "trader_fortification_specialist",
+            "trader_starbase_item_price",
+            "trader_twin_fortresses",
+            "trader_structure_hull",
+            "trader_war_measures_act",
+            "trader_counter_deployment",
+            "trader_unlock_home_guard_outpost_unit_item"
         ]
     },
     "missing_ship_component_shop_build_time_scalar": 10.0,
@@ -1140,11 +1134,6 @@
         "trader_missile_guidance_computer",
         "trader_heavy_gauss_slugs",
         "trader_high_yield_warheads",
-        "trader_rebel_titan_hull_plating_0",
-        "trader_rebel_titan_hull_plating_1",
-        "trader_rebel_titan_unlock_missile_weapon",
-        "trader_rebel_titan_unlock_rail_gun_weapon",
-        "trader_rebel_titan_hangar",
         "trader_starbase_hangar_0",
         "trader_starbase_hangar_1",
         "trader_starbase_hangar_2",
@@ -1162,6 +1151,13 @@
         "trader_starbase_factory_support",
         "trader_starbase_flak_field",
         "trader_starbase_stun_torpedo",
+        "trader_loyalist_titan_hangar",
+        "trader_loyalist_titan_hull_plating_0",
+        "trader_loyalist_titan_hull_plating_1",
+        "trader_loyalist_titan_hull_plating_2",
+        "trader_loyalist_titan_planetary_shield_array",
+        "trader_loyalist_titan_unlock_beam_weapon",
+        "trader_loyalist_titan_unlock_missile_weapon",
         "trader_deploy_starbase",
         "trader_volatile_accelerants",
         "trader_war_reporter",
@@ -1173,12 +1169,9 @@
         "dlc_ancient_starbase_unlock_heavy_weapon",
         "dlc_ancient_starbase_unlock_light_weapon",
         "dlc_ancient_starbase_unlock_missile_weapon",
-        "dlc2_trader_rebel_super_capital_ship_modular_hangar",
-        "dlc2_trader_rebel_super_capital_ship_modular_missile",
-        "dlc2_trader_rebel_super_capital_ship_modular_railgun",
-        "dlc2_trader_rebel_super_capital_ship_turret_beam",
-        "dlc2_trader_rebel_super_capital_ship_turret_gauss",
-        "dlc2_trader_rebel_super_capital_ship_turret_missile",
+        "dlc2_trader_loyalist_super_capital_ship_unlock_missile_weapon",
+        "dlc2_trader_loyalist_super_capital_ship_factory_supplies",
+        "dlc2_trader_loyalist_super_capital_ship_antimatter_reserves",
         "dlc2_trader_faction_victory"
     ],
     "ship_component_build_groups": [
@@ -1221,14 +1214,14 @@
         "trader_ferric_mining_rig",
         "trader_fulfilment_warehouse",
         "trader_oceanic_domes",
-        "trader_pirate_mercenary_base",
         "trader_media_conglomerate",
         "trader_regional_government_office",
         "trader_command_bunker",
         "trader_munitions_plant",
         "trader_industrial_complex",
         "trader_auxiliary_supply_depot",
-        "trader_rebel_human_doctrine_center",
+        "trader_loyalist_garrison_recruitment_center",
+        "trader_loyalist_home_guard_outpost",
         "trader_high_density_district",
         "trader_surface_magnetic_planet_research_lab",
         "trader_aquaculture_harvester",
@@ -1237,6 +1230,7 @@
         "trader_xeno_tech_lab",
         "trader_surface_irradiated_planet_research_lab",
         "trader_fissile_plant",
+        "trader_planet_planetary_shield_array",
         "trader_commodity_exchange"
     ],
     "planet_component_build_groups": [
@@ -5043,6 +5037,69 @@
                 ]
             }]
         }],
+        "friendly_planet_modifiers": [
+            {
+                "modifier_type": "commerce_track_credit_income_rate",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_resource_extractor_structures"]
+                    ],
+                    "value": 0.15
+                }]
+            },
+            {
+                "modifier_type": "commerce_track_credit_income_rate_per_population",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_population_structure"]
+                    ],
+                    "value": 0.5
+                }]
+            },
+            {
+                "modifier_type": "mining_track_metal_income_rate",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_resource_extractor_structures"]
+                    ],
+                    "value": 0.15
+                }]
+            },
+            {
+                "modifier_type": "mining_track_metal_income_rate_per_population",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_population_structure"]
+                    ],
+                    "value": 0.5
+                }]
+            },
+            {
+                "modifier_type": "mining_track_crystal_income_rate",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_resource_extractor_structures"]
+                    ],
+                    "value": 0.15
+                }]
+            },
+            {
+                "modifier_type": "mining_track_crystal_income_rate_per_population",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_population_structure"]
+                    ],
+                    "value": 0.5
+                }]
+            }
+        ],        
+
         "planet_track_level_culture_providers": [
         {
             "track_type": "logistics",
@@ -5291,53 +5348,7 @@
                 ["trader_commerce_culture"]
             ],
             "rate": 0.05
-        }],
-        "insurgency":
-        {
-            "prerequisites": [
-                ["trader_culture_insurgency"]
-            ],
-            "special_operation_unit_kind": "insurgent",
-            "spawn_units":
-            {
-                "random_units": [
-                {
-                    "unit": "trader_light_frigate",
-                    "weight": 20.0
-                },
-                {
-                    "unit": "trader_skirmisher_corvette_frigate",
-                    "weight": 20.0
-                },
-                {
-                    "unit": "trader_missile_corvette",
-                    "weight": 20.0
-                },
-                {
-                    "unit": "trader_long_range_cruiser",
-                    "weight": 20.0
-                },
-                {
-                    "unit": "trader_heavy_cruiser",
-                    "weight": 20.0
-                },
-                {
-                    "unit": "trader_carrier_cruiser",
-                    "weight": 20.0
-                },
-                {
-                    "unit": "trader_antifighter_frigate",
-                    "weight": 10.0
-                },
-                {
-                    "unit": "trader_siege_frigate",
-                    "weight": 10.0
-                }]
-            },
-            "supply": 100,
-            "cooldown": 50.0,
-            "spawn_at_gravity_well_count_percentage": 0.2
-        }
+        }]
     },
     "find_npc_explore_prerequisites": [
         ["trader_find_npc_explore"]
@@ -5427,14 +5438,20 @@
         },
         {
             "build_kind": "frigate"
+        },
+        {
+            "build_kind": "cruiser",
+            "prerequisites": [
+                ["trader_unlock_heavy_garrison"]
+            ]
         }],
-        "factory_build_time_scalar": 2.0,
+        "factory_build_time_scalar": 1.5,
         "units":
         {
             "random_units": [
             {
                 "unit": "trader_light_frigate",
-                "weight": 50.0
+                "weight": 30.0
             },
             {
                 "unit": "trader_heavy_cruiser",
@@ -5450,11 +5467,19 @@
             },
             {
                 "unit": "trader_skirmisher_corvette_frigate",
-                "weight": 50.0
+                "weight": 20.0
+            },
+            {
+                "unit": "trader_missile_corvette",
+                "weight": 20.0
             },
             {
                 "unit": "trader_antifighter_frigate",
-                "weight": 10.0
+                "weight": 30.0
+            },
+            {
+                "unit": "trader_antiarmor_frigate",
+                "weight": 20.0
             }]
         },
         "base_max_supply": 0
@@ -5548,30 +5573,30 @@
     {
         "hud_skin_name": "trader_hud_skin",
         "race_name": "player_race_name.shadow",
-        "race_description": "player_race_description.shadow",
-        "faction_name": "player_faction_name.shadow_rebel",
-        "faction_short_name": "player_faction_short_name.shadow_rebel",
-        "faction_description": "player_faction_description.shadow_rebel",
-        "faction_icon": "trader_rebel_faction_icon",
+        "race_description": "player_race_description.sf1_shadow",
+        "faction_name": "player_faction_name.sf1_shadow_loyalist",
+        "faction_short_name": "player_faction_short_name.sf1_shadow_loyalist",
+        "faction_description": "player_faction_description.sf1_shadow_loyalist",
+        "faction_icon": "trader_loyalist_faction_icon",
         "load_screen_character_brush": "trader_load_screen_character",
         "player_slot_plates": [
-            "trader_rebel_player_slot_plate",
-            "trader_rebel_player_slot_plate_2",
-            "trader_rebel_player_slot_plate_3",
-            "trader_rebel_player_slot_plate_4",
-            "trader_rebel_player_slot_plate_5",
-            "trader_rebel_player_slot_plate_6",
-            "trader_rebel_player_slot_plate_7",
-            "trader_rebel_player_slot_plate_8",
-            "trader_rebel_player_slot_plate_9",
-            "trader_rebel_player_slot_plate_10",
-            "trader_rebel_player_slot_plate_11",
-            "trader_rebel_player_slot_plate_12",
-			"trader_rebel_player_slot_plate_13",
-            "trader_rebel_player_slot_plate_14",
-            "trader_rebel_player_slot_plate_15",
-			"trader_rebel_player_slot_plate_16",
-            "trader_rebel_player_slot_plate_17",
+            "trader_loyalist_player_slot_plate",
+            "trader_loyalist_player_slot_plate_2",
+            "trader_loyalist_player_slot_plate_3",
+            "trader_loyalist_player_slot_plate_4",
+            "trader_loyalist_player_slot_plate_5",
+            "trader_loyalist_player_slot_plate_6",
+            "trader_loyalist_player_slot_plate_7",
+            "trader_loyalist_player_slot_plate_8",
+            "trader_loyalist_player_slot_plate_9",
+            "trader_loyalist_player_slot_plate_10",
+            "trader_loyalist_player_slot_plate_11",
+            "trader_loyalist_player_slot_plate_12",
+			"trader_loyalist_player_slot_plate_13",
+            "trader_loyalist_player_slot_plate_14",
+            "trader_loyalist_player_slot_plate_15",
+			"trader_loyalist_player_slot_plate_16",
+            "trader_loyalist_player_slot_plate_17",
             "trader_rebel_player_slot_plate_18",
 			"trader_loyalist_player_slot_plate_19"
         ],
@@ -5698,12 +5723,12 @@
                 "won_texts": [
                 {
                     "status": "player_victory.status.factional.won",
-                    "phrase": "player_victory.phrase.factional.won.trader_rebel"
+                    "phrase": "player_victory.phrase.factional.won.trader_loyalist"
                 }],
                 "lost_texts": [
                 {
                     "status": "player_victory.status.factional.lost",
-                    "phrase": "player_victory.phrase.factional.lost.trader_rebel"
+                    "phrase": "player_victory.phrase.factional.lost.trader_loyalist"
                 }]
             }
         }
@@ -6442,12 +6467,12 @@
             "player_ai_tec_taunt.8",
             "player_ai_tec_taunt.9",
             "player_ai_tec_taunt.10",
-            "player_ai_tec_rebel_taunt.1",
-            "player_ai_tec_rebel_taunt.2",
-            "player_ai_tec_rebel_taunt.3",
-            "player_ai_tec_rebel_taunt.4",
-            "player_ai_tec_rebel_taunt.5",
-            "player_ai_tec_rebel_taunt.6"
+            "player_ai_tec_loyalist_taunt.1",
+            "player_ai_tec_loyalist_taunt.2",
+            "player_ai_tec_loyalist_taunt.3",
+            "player_ai_tec_loyalist_taunt.4",
+            "player_ai_tec_loyalist_taunt.5",
+            "player_ai_tec_loyalist_taunt.6"
         ],
         "cease_fire_messages": [
             "player_ai_tec_alliance.1",
@@ -6455,14 +6480,15 @@
             "player_ai_tec_alliance.3"
         ],
         "bounty_placed_messages": [
-            "player_ai_tec_primacy_bounty_taunt.0",
-            "player_ai_tec_primacy_bounty_taunt.1",
-            "player_ai_tec_primacy_bounty_taunt.3",
-            "player_ai_tec_primacy_bounty_taunt.4",
-            "player_ai_tec_primacy_bounty_taunt.5",
-            "player_ai_tec_primacy_bounty_taunt.6",
-            "player_ai_tec_primacy_bounty_taunt.7",
-            "player_ai_tec_primacy_bounty_taunt.8"
+            "player_ai_tec_enclave_bounty_taunt.0",
+            "player_ai_tec_enclave_bounty_taunt.1",
+            "player_ai_tec_enclave_bounty_taunt.2",
+            "player_ai_tec_enclave_bounty_taunt.3",
+            "player_ai_tec_enclave_bounty_taunt.4",
+            "player_ai_tec_enclave_bounty_taunt.5",
+            "player_ai_tec_enclave_bounty_taunt.7",
+            "player_ai_tec_enclave_bounty_taunt.9",
+            "player_ai_tec_enclave_bounty_taunt.10"
         ]
     },
     "planet_elevators":
@@ -6494,8 +6520,8 @@
         "trader_carrier_cruiser",
         "trader_heavy_cruiser",
         "trader_battle_capital_ship",
-        "trader_colony_capital_ship",
-        "trader_rebel_titan",
+        "trader_carrier_capital_ship",
+        "trader_loyalist_titan",
         "trader_starbase"
     ],
     "theme_picker_skybox": "skybox_cloud_16",

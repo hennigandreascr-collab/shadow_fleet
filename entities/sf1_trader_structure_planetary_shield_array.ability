@@ -1,0 +1,14 @@
+{
+    "version": 0,
+    "action_data_source": "sf1_trader_structure_planetary_shield_array",
+    "passive_actions":
+    {
+        "persistant_buff": "sf1_trader_structure_planetary_shield_array_on_self"
+    },
+    "gui":
+    {
+        "hud_icon": "trader_starbase_planetary_shield_array_unit_item_hud_icon",
+        "name": "trader_corsair_planetary_shield_structure_name",
+        "description": "trader_starbase_planetary_shield_array_unit_item_description"
+    }
+}

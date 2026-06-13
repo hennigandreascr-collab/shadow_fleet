@@ -171,12 +171,12 @@
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_loyalist",
+                    "modified_faction": "sf1_shadow_loyalist",
                     "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_rebel",
+                    "modified_faction": "sf1_shadow_rebel",
                     "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },
@@ -318,7 +318,7 @@
             ]
         },
         {
-            "this_faction": "shadow_loyalist",
+            "this_faction": "sf1_shadow_loyalist",
             "min_trust_for_trade_offers": 20.0,
             "chance_to_make_trade_offer": 0.2,
             "influence_valuation_stages": [2.0, 5.0, 9.0, 15.0],
@@ -341,12 +341,12 @@
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_loyalist",
+                    "modified_faction": "sf1_shadow_loyalist",
                     "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_rebel",
+                    "modified_faction": "sf1_shadow_rebel",
                     "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },
@@ -511,12 +511,12 @@
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_loyalist",
+                    "modified_faction": "sf1_shadow_loyalist",
                     "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_rebel",
+                    "modified_faction": "sf1_shadow_rebel",
                     "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },
@@ -657,7 +657,7 @@
             ]
         },
         {
-            "this_faction": "shadow_rebel",
+            "this_faction": "sf1_shadow_rebel",
             "min_trust_for_trade_offers": 20.0,
             "chance_to_make_trade_offer": 0.2,
             "influence_valuation_stages": [2.0, 5.0, 9.0, 15.0],
@@ -680,12 +680,12 @@
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_loyalist",
+                    "modified_faction": "sf1_shadow_loyalist",
                     "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_rebel",
+                    "modified_faction": "sf1_shadow_rebel",
                     "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },
@@ -849,12 +849,12 @@
                     "base_hatred": 10.0
                 },
                 {
-                    "modified_faction": "shadow_loyalist",
+                    "modified_faction": "sf1_shadow_loyalist",
                     "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_rebel",
+                    "modified_faction": "sf1_shadow_rebel",
                     "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },
@@ -1018,12 +1018,12 @@
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_loyalist",
+                    "modified_faction": "sf1_shadow_loyalist",
                     "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_rebel",
+                    "modified_faction": "sf1_shadow_rebel",
                     "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },
@@ -1187,12 +1187,12 @@
                     "base_hatred": 5.0
                 },
                 {
-                    "modified_faction": "shadow_loyalist",
+                    "modified_faction": "sf1_shadow_loyalist",
                     "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_rebel",
+                    "modified_faction": "sf1_shadow_rebel",
                     "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },
@@ -1356,12 +1356,12 @@
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_loyalist",
+                    "modified_faction": "sf1_shadow_loyalist",
                     "faction_diplomacy_modifier": [5.0, 5.0],
                     "base_hatred": 0.0
                 },
                 {
-                    "modified_faction": "shadow_rebel",
+                    "modified_faction": "sf1_shadow_rebel",
                     "faction_diplomacy_modifier": [-30.0, -20.0],
                     "base_hatred": 0.0
                 },

@@ -817,7 +817,7 @@ json
     "vasari_loyalist",
     "vasari_rebel",
     "shadow_loyalist", 
-    "shadow_rebel"
+    "sf1_shadow_rebel"
 ],
 Verwende Code mit Vorsicht.
 

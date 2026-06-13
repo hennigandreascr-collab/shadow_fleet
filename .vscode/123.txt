@@ -1,0 +1,10 @@
+Found errors for C:\Users\a_hen\AppData\Local\sins2\mods\shadow_fleet\entities\shadow_orbital_cannon_structure.unit
+
+- player_definition with id 'shadow_loyalist' does not exist. source=C:\Users\a_hen\AppData\Local\sins2\mods\shadow_fleet\entities\shadow_orbital_cannon_structure.unit : abilities[1].
+- player_definition with id 'sf1_shadow_rebel' does not exist. source=C:\Users\a_hen\AppData\Local\sins2\mods\shadow_fleet\entities\shadow_orbital_cannon_structure.unit : abilities[2].
+
+
+
+
+version=1.61.3 (294)
+log=C:\Users\a_hen\AppData\Local\sins2\logs\sins2_log_17336.txt

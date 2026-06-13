@@ -1,9 +1,9 @@
 {
     "ids": [
         "trader_trade_corvette",
-        "trader_corsair_planetary_shield_structure",
-        "shadow_orbital_cannon_structure",
+        "sf1_trader_corsair_planetary_shield_structure",
+        "sf1_shadow_orbital_cannon_structure",
         "trader_constructor_cruiser",
-        "shadow_loyalist_trade_port_structure"
+        "sf1_shadow_loyalist_trade_port_structure"
     ]
 }

@@ -52,7 +52,7 @@
         "free_starting_capital_ship": false
     },
     {
-        "player_definition_id": "shadow_loyalist",
+        "player_definition_id": "sf1_shadow_loyalist",
         "starting_assets":
         {
             "credits": 1000.0,
@@ -146,7 +146,7 @@
         "free_starting_capital_ship": false
     },    
     {
-        "player_definition_id": "shadow_rebel",
+        "player_definition_id": "sf1_shadow_rebel",
         "starting_assets":
         {
             "credits": 1000.0,
