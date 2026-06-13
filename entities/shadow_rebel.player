@@ -1099,6 +1099,11 @@
             "trader_wormhole_travel",
             "trader_unlock_commodity_exchange_unit_item",
             "trader_corsair_unlock_planetary_shield_structure",
+            "trader_teleport_culture_0",
+            "trader_teleport_culture_1",
+            "trader_teleport_culture_2",
+            "trader_teleport_culture_3",
+            "trader_teleport_culture_4",
             "trader_unlock_population_growth_ability"
         ],
         "faction_research_subjects": [
@@ -5042,32 +5047,242 @@
         {
             "track_type": "logistics",
             "minimum_level": 0,
-            "rate": 0.01
+            "prerequisites": [
+                ["trader_teleport_culture_0"]
+            ],
+            "rate": 0.002
         },        
         {
             "track_type": "defense",
             "minimum_level": 0,
-            "rate": 0.02
+            "prerequisites": [
+                ["trader_teleport_culture_0"]
+            ],
+            "rate": 0.002
         },        
         {
             "track_type": "commerce",
             "minimum_level": 0,
-            "rate": 0.01
+            "prerequisites": [
+                ["trader_teleport_culture_0"]
+            ],
+            "rate": 0.002
         },        
         {
             "track_type": "mining",
             "minimum_level": 0,
-            "rate": 0.01
+            "prerequisites": [
+                ["trader_teleport_culture_0"]
+            ],
+            "rate": 0.002
         },        
         {
             "track_type": "research",
             "minimum_level": 0,
-            "rate": 0.02
+            "prerequisites": [
+                ["trader_teleport_culture_0"]
+            ],
+            "rate": 0.002
         },        
         {
             "track_type": "surveying",
             "minimum_level": 0,
-            "rate": 0.02
+            "prerequisites": [
+                ["trader_teleport_culture_0"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "logistics",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_1"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "defense",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_1"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "commerce",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_1"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "mining",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_1"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "research",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_1"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "logistics",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_2"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "defense",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_2"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "commerce",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_2"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "mining",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_2"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "research",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_2"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "surveying",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_2"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "surveying",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_2"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "logistics",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_3"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "defense",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_3"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "commerce",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_3"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "mining",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_3"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "research",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_3"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "surveying",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_3"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "logistics",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_4"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "defense",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_4"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "commerce",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_4"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "mining",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_4"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "research",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_4"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "surveying",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_teleport_culture_4"]
+            ],
+            "rate": 0.002
         },        
         {
             "track_type": "commerce",
@@ -5119,8 +5334,8 @@
                     "weight": 10.0
                 }]
             },
-            "supply": 400,
-            "cooldown": 100.0,
+            "supply": 100,
+            "cooldown": 50.0,
             "spawn_at_gravity_well_count_percentage": 0.2
         }
     },

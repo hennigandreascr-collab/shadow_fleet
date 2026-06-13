@@ -106,7 +106,8 @@
     "abilities": [
     {
         "abilities": [
-            "trader_starbase_planetary_shield_array"]
+            "trader_starbase_planetary_shield_array",
+            "trader_culture_center_structure_culture_provider"]
     }],
     "skin_groups": [
     {

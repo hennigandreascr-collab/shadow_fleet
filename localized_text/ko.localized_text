@@ -30,5 +30,21 @@
     "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "텔레포트 스카우트는 문화적으로 지배된 모든 장소의 세부 정보를 드러냅니다.",
     "trader_trade_corvette_name" : "무역 코르벳",
     "trader_trade_corvette_description": "무역과 상품 운송을 담당하는 경량 코르벳입니다.",
+    "trader_teleport_culture_0_research_subject_name": "구조",
+    "trader_teleport_culture_0_research_subject_name_uppercase": "구조",
+    "trader_teleport_culture_0_research_subject_description": "텔레포터들은 TEC의 사냥꾼들로부터 도망쳤습니다. 하지만 소문은 진동합니다...",
+    "trader_teleport_culture_1_research_subject_name": "존엄",
+    "trader_teleport_culture_1_research_subject_name_uppercase": "존엄",
+    "trader_teleport_culture_1_research_subject_description": "사회 가장자리에서 텔레포터들은 의심과 불신 속에서 번성합니다. 그들의 재능이 그들이 가진 전부입니다.",
+    "trader_teleport_culture_2_research_subject_name": "명예",
+    "trader_teleport_culture_2_research_subject_name_uppercase": "명예",
+    "trader_teleport_culture_2_research_subject_description": "텔레포터들은 명예와 상호 존중을 기반으로 한 독특한 문화를 개발했습니다. 그들은 행동과 결정을 이끄는 엄격한 명예 코드에 따라 살아갑니다.",
+    "trader_teleport_culture_3_research_subject_name": "글로리아",
+    "trader_teleport_culture_3_research_subject_name_uppercase": "글로리아",
+    "trader_teleport_culture_3_research_subject_description": "텔레포터들은 그림자를 떠나 빛 속으로 걸어듭니다.",
+    "trader_teleport_culture_4_research_subject_name": "승리",
+    "trader_teleport_culture_4_research_subject_name_uppercase": "승리",
+    "trader_teleport_culture_4_research_subject_description": "미래가 도래했습니다.",
+
     "end": "종료"
 }

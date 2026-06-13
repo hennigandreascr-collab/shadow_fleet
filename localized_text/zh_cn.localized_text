@@ -30,6 +30,21 @@
     "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "传送侦察兵揭示所有文化主导位置的细节。",
     "trader_trade_corvette_name" : "贸易护卫舰",
     "trader_trade_corvette_description": "一种轻型护卫舰，负责贸易和货物运输。",
+    "trader_teleport_culture_0_research_subject_name": "救援",
+    "trader_teleport_culture_0_research_subject_name_uppercase": "救援",
+    "trader_teleport_culture_0_research_subject_description": "传送者已经逃脱了 TEC 的猎人。但谣言仍在传播...",
+    "trader_teleport_culture_1_research_subject_name": "尊严",
+    "trader_teleport_culture_1_research_subject_name_uppercase": "尊严",
+    "trader_teleport_culture_1_research_subject_description": "在社会的边缘，传送者在怀疑和不信任中蓬勃发展。他们的才能是他们所拥有的全部。",
+    "trader_teleport_culture_2_research_subject_name": "名誉",
+    "trader_teleport_culture_2_research_subject_name_uppercase": "名誉",
+    "trader_teleport_culture_2_research_subject_description": "传送者已经发展出一种独特的文化，基于名誉和相互尊重。他们按照严格的名誉准则生活，指导他们的行动和决定。",
+    "trader_teleport_culture_3_research_subject_name": "荣耀",
+    "trader_teleport_culture_3_research_subject_name_uppercase": "荣耀",
+    "trader_teleport_culture_3_research_subject_description": "传送者离开了阴影，走进了光明。",
+    "trader_teleport_culture_4_research_subject_name": "凯旋",
+    "trader_teleport_culture_4_research_subject_name_uppercase": "凯旋",
+    "trader_teleport_culture_4_research_subject_description": "未来已经到来。",
     "end": "结束"
 }
     

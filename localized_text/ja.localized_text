@@ -30,5 +30,22 @@
     "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "テレポート・スカウトは、文化的に支配されたすべての場所の詳細を明らかにします。",
     "trader_trade_corvette_name" : "貿易コルベット",
     "trader_trade_corvette_description": "貿易と物資の輸送を担当する軽量のコルベット。",
+    "trader_teleport_culture_0_research_subject_name": "救出",
+    "trader_teleport_culture_0_research_subject_name_uppercase": "サブティ",
+    "trader_teleport_culture_0_research_subject_description": "テレポーターはTECのハンターから逃げ出しました。しかし、噂は静まりません...",
+    "trader_teleport_culture_1_research_subject_name": "尊厳",
+    "trader_teleport_culture_1_research_subject_name_uppercase": "",
+    "trader_teleport_culture_1_research_subject_description": "社会の端っこで、テレポーターたちは疑念と不信感の下で繁栄している。彼らの才能は、彼らが持っているすべてである。",
+    "trader_teleport_culture_2_research_subject_name": "名誉",
+    "trader_teleport_culture_2_research_subject_name_uppercase": "名誉",
+    "trader_teleport_culture_2_research_subject_description": "テレポーターは、名誉と相互尊重に基づいた独自の文化を発展させました。彼らは、行動や決定を導く厳格な名誉コードに従って生活しています。",
+
+    "trader_teleport_culture_3_research_subject_name": "グロリア",
+    "trader_teleport_culture_3_research_subject_name_uppercase": "グロリア",
+    "trader_teleport_culture_3_research_subject_description": "テレポーターは影を離れ、光の中に踏み入れる。",
+    "trader_teleport_culture_4_research_subject_name": "凱旋",
+    "trader_teleport_culture_4_research_subject_name_uppercase": "凱旋",
+    "trader_teleport_culture_4_research_subject_description": "未来が到来した。",
+
     "end": "終了"
 }

@@ -115,6 +115,11 @@
         "structure"
     ],
     "virtual_supply_cost": 10,
+    "abilities": [
+    {
+        "abilities": [
+            "trader_culture_center_structure_culture_provider"]
+    }],
     "skin_groups": [
     {
         "skins": [

@@ -1,6 +1,11 @@
 {
     "ids": [
         "trader_shields_strikecraft",
+        "trader_teleport_culture_0",
+        "trader_teleport_culture_1",
+        "trader_teleport_culture_2",
+        "trader_teleport_culture_3",
+        "trader_teleport_culture_4",
         "trader_unlock_planet_planetary_shield_array_unit_item",
         "trader_corsair_unlock_planetary_shield_structure",
         "trader_unlock_detection_with_culture",

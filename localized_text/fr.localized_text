@@ -30,5 +30,21 @@
     "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "Les Scouts de Téléportation révèlent les détails de tous les emplacements dominés culturellement.",
     "trader_trade_corvette_name" : "Corvette de Commerce",
     "trader_trade_corvette_description": "Une corvette légère chargée du commerce et du transport de marchandises.",
+    "trader_teleport_culture_0_research_subject_name": "Sauvetage",
+    "trader_teleport_culture_0_research_subject_name_uppercase": "SAUVETAGE",
+    "trader_teleport_culture_0_research_subject_description": "Les téléporteurs se sont échappés des chasseurs de la TEC. Mais les rumeurs ne se calment pas...",
+    "trader_teleport_culture_1_research_subject_name": "Dignité",
+    "trader_teleport_culture_1_research_subject_name_uppercase": "DIGNITÉ",
+    "trader_teleport_culture_1_research_subject_description": "Aux marges de la société, les téléporteurs prospèrent sous la suspicion et la méfiance. Leur talent est tout ce qu'ils ont.",
+    "trader_teleport_culture_2_research_subject_name": "Honneur",
+    "trader_teleport_culture_2_research_subject_name_uppercase": "HONNEUR",
+    "trader_teleport_culture_2_research_subject_description": "Les téléporteurs ont développé leur propre culture, basée sur l'honneur et le respect mutuel. Ils vivent selon un code strict d'honneur qui guide leurs actions et decisions.",
+    "trader_teleport_culture_3_research_subject_name": "Gloire",
+    "trader_teleport_culture_3_research_subject_name_uppercase": "GLOIRE",
+    "trader_teleport_culture_3_research_subject_description": "Les téléporteurs quittent les ombres et entrent dans la lumière.",
+    "trader_teleport_culture_4_research_subject_name": "Triomphe",
+    "trader_teleport_culture_4_research_subject_name_uppercase": "TRIOMPHE",
+    "trader_teleport_culture_4_research_subject_description": "Le futur est arrivé.",
+
     "end": "Fin"
 }
