@@ -1,7 +1,7 @@
 {
     "version": 0,
     "domain": "civilian",
-    "tier": 0,
+    "tier": 2,
     "field": "civilian_policy",
     "field_coord": [5, 9],
     "research_time": 270.0,
