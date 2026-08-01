@@ -87,6 +87,9 @@
         "weapons": [
         {
             "weapon": "trader_heavy_cruiser_heavy_autocannon",
+            "required_research_prerequisites": [
+                ["trader_unlock_population_structure"]
+            ],
             "mesh_point": "child.kodmedturret_mount.0",
             "weapon_position": [54.563721, 36.892036, -45.070797],
             "forward": [-0.0, -0.0, 1.0],
@@ -104,6 +107,9 @@
         },
         {
             "weapon": "trader_heavy_cruiser_heavy_autocannon",
+            "required_research_prerequisites": [
+                ["trader_unlock_population_structure"]
+            ],
             "mesh_point": "child.kodmedturret_mount.1",
             "weapon_position": [-54.563961, 36.883492, -45.070797],
             "forward": [-0.0, -0.0, 1.0],
@@ -121,6 +127,9 @@
         },
         {
             "weapon": "trader_heavy_cruiser_heavy_autocannon",
+            "required_research_prerequisites": [
+                ["trader_unlock_population_structure"]
+            ],
             "mesh_point": "child.kodmedturret_mount.2",
             "weapon_position": [63.027348, -5.579963, 48.390011],
             "forward": [0.0, 0.0, 1.0],
@@ -138,6 +147,9 @@
         },
         {
             "weapon": "trader_heavy_cruiser_heavy_autocannon",
+            "required_research_prerequisites": [
+                ["trader_unlock_population_structure"]
+            ],
             "mesh_point": "child.kodmedturret_mount.3",
             "weapon_position": [-63.026363, -5.579947, 48.390011],
             "forward": [0.0, 0.0, 1.0],
@@ -155,6 +167,9 @@
         },
         {
             "weapon": "trader_heavy_cruiser_heavy_autocannon",
+            "required_research_prerequisites": [
+                ["trader_unlock_population_structure"]
+            ],
             "mesh_point": "child.kodmedturret_mount.4",
             "weapon_position": [0.341122, -26.575737, 61.368896],
             "forward": [0.0, 0.0, 1.0],
@@ -231,6 +246,9 @@
             "metal": 50.0,
             "crystal": 50.0
         },
+        "prerequisites": [
+            ["trader_unlock_population_growth_ability"]
+        ],
         "build_kind": "cruiser",
         "build_group_id": "cruiser"
     },
