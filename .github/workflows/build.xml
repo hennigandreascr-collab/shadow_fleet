@@ -5,7 +5,7 @@
     <target name="buildMod" depends="init">
         <zip destfile="${dist}/shadow_fleet.${DSTAMP}${TSTAM}.zip"
          basedir="../.."
-     includes="uniforms/*.uniforms localized_text/*.localized_text entities/*.*"
+     includes="uniforms/*.uniforms localized_text/*.localized_text entities/*.* *.png .mod_meta_data"
      />
     </target>
 </project>
