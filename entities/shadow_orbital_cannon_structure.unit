@@ -140,13 +140,13 @@
         "abilities": [
             "trader_orbital_cannon_loyalist"
         ],
-        "required_player": "shadow_loyalist"
+        "required_player": "sf1_shadow_loyalist"
     },
     {
         "abilities": [
             "trader_orbital_cannon"
         ],
-        "required_player": "shadow_rebel"
+        "required_player": "sf1_shadow_rebel"
     }],
     "skin_groups": [
     {

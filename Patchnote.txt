@@ -997,7 +997,7 @@ Ob die Icons im HUD richtig geladen werden?
 KI-Antworten können Fehler enthalten. Weitere Informationen
 
 
-Found errors for C:\Users\a_hen\AppData\Local\sins2\mods\Shadow_fleet\entities\trader_smuggler.player
+Found errors for C:\Users\a_hen\AppData\Local\sins2\mods\shadow_fleet\entities\trader_smuggler.player
 
 - trader_torpedo_cruiser : trader_torpedo_cruiser_heavy_torpedo : research_subject(trader_unlock_torpedo_cruiser_heavy_torpedo.research_subject) not found in player(trader_smuggler)
 - trader_population_structure : trader_population_structure_growth : research_subject(trader_unlock_population_growth_ability.research_subject) not found in player(trader_smuggler)
@@ -1786,7 +1786,7 @@ Wie du die Handels-Boni in den JSON-Dateien noch feiner abstimmst.
 Oder wie du Gully Foyles Start-Ressourcen anpasst.
 Ruh dich gut aus! Wenn du bereit für den nächsten Sprung durch den Hyperraum bist, melde dich einfach wieder. Viel Erfolg beim Ausprobieren!
 
-Found validation errors for player_race : [C:\Program Files (x86)\Steam\steamapps\common\Sins2\uniforms\player_race.uniforms, C:\Users\a_hen\AppData\Local\sins2\mods\Shadow_fleet\uniforms\player_race.uniforms]
+Found validation errors for player_race : [C:\Program Files (x86)\Steam\steamapps\common\Sins2\uniforms\player_race.uniforms, C:\Users\a_hen\AppData\Local\sins2\mods\shadow_fleet\uniforms\player_race.uniforms]
 
 - duplicate race found : 'trader'
 - duplicate race found : 'advent'
