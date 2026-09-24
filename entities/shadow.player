@@ -5538,7 +5538,53 @@
                 ["trader_commerce_culture"]
             ],
             "rate": 0.05
-        }]
+        }],
+        "insurgency":
+        {
+            "prerequisites": [
+                ["trader_culture_insurgency"]
+            ],
+            "special_operation_unit_kind": "insurgent",
+            "spawn_units":
+            {
+                "random_units": [
+                {
+                    "unit": "trader_light_frigate",
+                    "weight": 20.0
+                },
+                {
+                    "unit": "trader_skirmisher_corvette_frigate",
+                    "weight": 20.0
+                },
+                {
+                    "unit": "trader_missile_corvette",
+                    "weight": 20.0
+                },
+                {
+                    "unit": "trader_long_range_cruiser",
+                    "weight": 20.0
+                },
+                {
+                    "unit": "trader_heavy_cruiser",
+                    "weight": 20.0
+                },
+                {
+                    "unit": "trader_carrier_cruiser",
+                    "weight": 20.0
+                },
+                {
+                    "unit": "trader_antifighter_frigate",
+                    "weight": 10.0
+                },
+                {
+                    "unit": "trader_siege_frigate",
+                    "weight": 10.0
+                }]
+            },
+            "supply": 100,
+            "cooldown": 50.0,
+            "spawn_at_gravity_well_count_percentage": 0.2
+        }
     },
     "find_npc_explore_prerequisites": [
         ["trader_find_npc_explore"]
