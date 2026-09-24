@@ -107,7 +107,6 @@
             "include_wormhole_phase_lanes": false
         }
     },
-    "faction_configurations": [
     {
         "player_definition_id": "shadow",
         "starting_assets":

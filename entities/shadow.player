@@ -895,6 +895,7 @@
             "trader_commerce_culture",
             "trader_commercial_district_credit_rate",
             "trader_corvette_speed",
+            "trader_culture_insurgency",
             "trader_counter_deployment",
             "trader_culture_rate_0",
             "trader_culture_rate_1",
@@ -5454,11 +5455,11 @@
     "gui":
     {
         "hud_skin_name": "trader_hud_skin",
-        "race_name": "player_race_name.trader",
-        "race_description": "player_race_description.trader",
-        "faction_name": "player_faction_name.trader_loyalist",
-        "faction_short_name": "player_faction_short_name.trader_loyalist",
-        "faction_description": "player_faction_description.trader_loyalist",
+        "race_name": "player_race_name.shadow",
+        "race_description": "player_race_description.shadow",
+        "faction_name": "player_faction_name.shadow",
+        "faction_short_name": "player_faction_short_name.shadow",
+        "faction_description": "player_faction_description.shadow",
         "faction_icon": "trader_loyalist_faction_icon",
         "load_screen_character_brush": "trader_load_screen_character",
         "player_slot_plates": [

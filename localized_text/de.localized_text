@@ -1,6 +1,14 @@
 {
     "shadow_fleet_name": "Schattenflotte",
     "shadow_fleet_desc": "Teleportation in Sins2",
+
+    "player_race_name.shadow" : "TAU Schatten",
+    "player_race_description.shadow" : "Unterdrückt, gejagt, egal ",
+    "player_faction_name.shadow" : "TAU Schatten",
+    "player_faction_short_name" : "TAU",
+    "player_faction_description.shadow" : "Unterdrückt, gejagt, egal ",
+
+
     "player_faction_name.trader_corsair": "TEC - Korsaren",
     "player_faction_description.trader_corsair": "Jetzt gehört es mir! Corsairs sind die Kreuzfahrer unter den Piraten und nutzen Jaunten zum Angriff. Überfälle sind ihre Wirtschaft. Plündern und Rauben werden erforscht und erweitert. Nichts ist zu groß, um nicht von ihnen erobert zu werden.Die TEC Corsairs können den Kverkov-Titan bauen, ein einzigartiges Kriegsschiff, das in der Lage ist, enormen Schaden anzurichten und sogar feindliche Planeten sofort zu erobern.",
     "player_faction_name.trader_smuggler": "TEC - Schmuggler",
