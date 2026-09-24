@@ -1,5 +1,5 @@
 {
-    "race": "trader",
+    "race": "shadow",
     "home_planet":
     {
         "random_fixture_filling": "random_terran_home_planet",
@@ -46,7 +46,7 @@
     },
     "influence":
     {
-        "reveal_npc_point_costs": [1, 2, 3, 4, 5, 6]
+        "reveal_npc_point_costs": [1, 1, 1, 1, 1, 1]
     },
     "planet_levels": [
     {
@@ -5227,14 +5227,317 @@
                 ]
             }]
         }],
+        "friendly_planet_modifiers": [
+            {
+                "modifier_type": "commerce_track_credit_income_rate",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_resource_extractor_structures"]
+                    ],
+                    "value": 0.15
+                }]
+            },
+            {
+                "modifier_type": "commerce_track_credit_income_rate_per_population",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_population_structure"]
+                    ],
+                    "value": 0.5
+                }]
+            },
+            {
+                "modifier_type": "mining_track_metal_income_rate",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_resource_extractor_structures"]
+                    ],
+                    "value": 0.15
+                }]
+            },
+            {
+                "modifier_type": "mining_track_metal_income_rate_per_population",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_population_structure"]
+                    ],
+                    "value": 0.5
+                }]
+            },
+            {
+                "modifier_type": "mining_track_crystal_income_rate",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_resource_extractor_structures"]
+                    ],
+                    "value": 0.15
+                }]
+            },
+            {
+                "modifier_type": "mining_track_crystal_income_rate_per_population",
+                "value_behavior": "scalar",
+                "values": [{
+                    "prerequisites": [
+                        ["trader_unlock_population_structure"]
+                    ],
+                    "value": 0.5
+                }]
+            }
+        ],        
+
         "planet_track_level_culture_providers": [
+        {
+            "track_type": "logistics",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_unlock_culture_center"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "defense",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_unlock_culture_center"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "commerce",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_unlock_culture_center"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "mining",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_unlock_culture_center"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "research",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_unlock_culture_center"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "surveying",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_unlock_culture_center"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "logistics",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_unlock_media_conglomerate_unit_item"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "defense",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_unlock_media_conglomerate_unit_item"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "commerce",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_unlock_media_conglomerate_unit_item"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "mining",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_unlock_media_conglomerate_unit_item"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "research",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_unlock_media_conglomerate_unit_item"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "logistics",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_culture_rate_0"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "defense",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_culture_rate_0"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "commerce",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_culture_rate_0"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "mining",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_culture_rate_0"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "research",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_culture_rate_0"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "surveying",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_culture_rate_0"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "surveying",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_culture_rate_0"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "logistics",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_culture_rate_1"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "defense",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_culture_rate_1"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "commerce",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_culture_rate_1"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "mining",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_culture_rate_1"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "research",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_culture_rate_1"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "surveying",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_culture_rate_1"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "logistics",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_improve_culture_propagation"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "defense",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_improve_culture_propagation"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "commerce",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_improve_culture_propagation"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "mining",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_improve_culture_propagation"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "research",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_improve_culture_propagation"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "surveying",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_improve_culture_propagation"]
+            ],
+            "rate": 0.002
+        },        
         {
             "track_type": "commerce",
             "minimum_level": 3,
             "prerequisites": [
                 ["trader_commerce_culture"]
             ],
-            "rate": 0.01
+            "rate": 0.05
         }]
     },
     "find_npc_explore_prerequisites": [
