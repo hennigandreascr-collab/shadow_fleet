@@ -1,6 +1,13 @@
 {
     "shadow_fleet_name": "Shadow Fleet",
     "shadow_fleet_desc": "Teleportation in Sins2",
+
+    "player_race_name.shadow" : "TAU Shadow",
+    "player_race_description.shadow" : "Oppressed, hunted, and still standing.",
+    "player_faction_name.shadow" : "TAU shadow",
+    "player_faction_short_name" : "TAU",
+    "player_faction_description.shadow" : "Oppressed, hunted, and still standing.",
+
     "player_faction_name.trader_corsair": "TEC - Corsairs",
     "player_faction_description.trader_corsair": "Now it's mine! Corsairs are the crusaders among pirates and use jaunts for their attacks. Raiding is the core of their economy. Pillaging and looting are researched and expanded upon. Nothing is too large to be conquered by them. The TEC Corsairs can build the Kverkov Titan, a unique warship capable of dealing massive damage and even instantly capturing enemy planets.",
     "player_faction_name.trader_smuggler": "TEC - Smugglers",
