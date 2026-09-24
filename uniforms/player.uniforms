@@ -4,18 +4,32 @@
     "fleet_factory_rally_hyperspace_speed": 155000.0,
     "fleet_factory_rally_hyperspace_speed_between_stars": 465000.0,
     "fleet_factory_rally_hyperspace_charge_time": 8.0,
+    "default_corruption_thresholds": [
+        0.5,
+        0.75,
+        0.9
+    ],
+    "default_negative_corruption_buffs": [
+        "dlc3_herald_ship_corruption_penalty_mild",
+        "dlc3_herald_ship_corruption_penalty_moderate",
+        "dlc3_herald_ship_corruption_penalty_extreme"
+    ],
     "pickable_players": [
         "trader_loyalist",
+        "shadow",
         "trader_rebel",
         "advent_rebel",
         "advent_loyalist",
         "vasari_loyalist",
-        "vasari_rebel",
-        "trader_corsair",
-        "trader_smuggler"
+        "vasari_rebel"
     ],
-    "dlc_only_pickable_players": [
-        "dlc_trader_loyalist"
+    "dlc_pickable_players": [
+        {
+            "product_id": "dlc_Herald",
+            "players": [
+                "dlc3_herald"
+            ]
+        }
     ],
     "npc_players_with_reputation": [
         "aluxian_resurgence_npc",
@@ -155,6 +169,7 @@
     },
     "npc":
     {
+        "bounty_market_max_snapshot_count": 512,
         "break_alliance_duration": 30,
         "reputation_level_texts": [
             "npc_reputation_level.1",
@@ -210,7 +225,21 @@
                 "color": "npc_asset_market_demand_level_highest",
                 "hud_icon": "market_demand_highest_hud_icon"
             }],
-            "initial_demand_level": 2
+            "initial_demand_level": 2,
+            "fluctuation":
+            {
+                "update_interval_seconds": 5.0,
+                "volatility": 0.035,
+                "mean_reversion_strength": 0.02,
+                "min_scalar": 0.45,
+                "max_scalar": 1.8,
+                "trade_impact_scalar_per_unit": 0.0002,
+                "max_snapshot_count": 180,
+                "shock_interval_seconds_range": [480.0, 900.0],
+                "shock_magnitude_range": [0.15, 0.35],
+                "shock_regime_retention": 0.6,
+                "regime_decay_strength": 0.01
+            }
         },
         "npc_tags": [
         {

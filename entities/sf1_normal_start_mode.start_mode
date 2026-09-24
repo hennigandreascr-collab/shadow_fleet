@@ -5,10 +5,10 @@
     "description": "start_mode.normal.description",
     "faction_configurations": [
     {
-        "player_definition_id": "trader_loyalist",
+        "player_definition_id": "shadow",
         "starting_assets":
         {
-            "credits": 5500.0,
+            "credits": 6500.0,
             "metal": 1650.0,
             "crystal": 850.0
         },
@@ -44,6 +44,11 @@
                 "mining": 1,
                 "research": 0,
                 "focus": 0,
+                "corruption": 0,
+                "industry": 0,
+                "influence": 0,
+                "culture": 0,
+                "population": 0,
                 "surveying": 0
             },
             "starting_units_in_hyperspace":
@@ -65,10 +70,10 @@
         }
     },
     {
-        "player_definition_id": "trader_smuggler",
+        "player_definition_id": "trader_loyalist",
         "starting_assets":
         {
-            "credits": 5500.0,
+            "credits": 6500.0,
             "metal": 1650.0,
             "crystal": 850.0
         },
@@ -104,6 +109,11 @@
                 "mining": 1,
                 "research": 0,
                 "focus": 0,
+                "corruption": 0,
+                "industry": 0,
+                "influence": 0,
+                "culture": 0,
+                "population": 0,
                 "surveying": 0
             },
             "starting_units_in_hyperspace":
@@ -128,7 +138,7 @@
         "player_definition_id": "trader_rebel",
         "starting_assets":
         {
-            "credits": 5500.0,
+            "credits": 6500.0,
             "metal": 1650.0,
             "crystal": 850.0
         },
@@ -164,6 +174,11 @@
                 "mining": 1,
                 "research": 0,
                 "focus": 0,
+                "corruption": 0,
+                "industry": 0,
+                "influence": 0,
+                "culture": 0,
+                "population": 0,
                 "surveying": 0
             },
             "starting_units_in_hyperspace":
@@ -185,59 +200,12 @@
         }
     },
     {
-        "player_definition_id": "trader_corsair",
-        "starting_assets":
-        {
-            "credits": 1000.0,
-            "metal": 400.0,
-            "crystal": 250.0
-        },
-        "home_planet":
-        {
-            "starting_units_in_gravity_well":
-            {
-                "required_units": [
-                {
-                    "unit": "trader_frigate_factory_structure",
-                    "count": [1, 1]
-                }]
-            },
-            "home_planet_track_levels":
-            {
-                "logistics": 1,
-                "defense": 0,
-                "commerce": 1,
-                "mining": 1,
-                "research": 0,
-                "focus": 0,
-                "surveying": 0
-            },
-            "starting_units_in_hyperspace":
-            {},
-            "home_planet_starting_population": [400, 400]
-        },
-        "starting_research":
-        {
-            "starting_research_subjects": []
-        },
-        "starting_player_inventory_items": [],
-        "additional_starting_planets":
-        {
-            "count": 0,
-            "allowed_planet_types": [],
-            "max_jumps": 0,
-            "include_star_phase_lanes": false,
-            "include_wormhole_phase_lanes": false
-        },
-        "free_starting_capital_ship": false
-    },
-    {
         "player_definition_id": "advent_loyalist",
         "starting_assets":
         {
-            "credits": 5000.0,
+            "credits": 6000.0,
             "metal": 1500.0,
-            "crystal": 1250.0
+            "crystal": 1750.0
         },
         "home_planet":
         {
@@ -267,6 +235,11 @@
                 "mining": 2,
                 "research": 0,
                 "focus": 1,
+                "corruption": 0,
+                "industry": 0,
+                "influence": 0,
+                "culture": 0,
+                "population": 0,
                 "surveying": 0
             },
             "starting_units_in_hyperspace":
@@ -291,9 +264,9 @@
         "player_definition_id": "advent_rebel",
         "starting_assets":
         {
-            "credits": 5000.0,
+            "credits": 6000.0,
             "metal": 1500.0,
-            "crystal": 1250.0
+            "crystal": 1750.0
         },
         "home_planet":
         {
@@ -323,6 +296,11 @@
                 "mining": 2,
                 "research": 0,
                 "focus": 1,
+                "corruption": 0,
+                "industry": 0,
+                "influence": 0,
+                "culture": 0,
+                "population": 0,
                 "surveying": 0
             },
             "starting_units_in_hyperspace":
@@ -381,7 +359,7 @@
                     "options":
                     {
                         "is_temporary_ruler_ship": true,
-                        "forced_leveled_up_ability": "vasari_colony_capital_ship_colonize",
+                        "forced_leveled_up_abilities": ["vasari_colony_capital_ship_colonize"],
                         "items": [
                             "vasari_loyalist_exodus_package"]
                     }
@@ -450,7 +428,7 @@
                     "options":
                     {
                         "is_temporary_ruler_ship": true,
-                        "forced_leveled_up_ability": "vasari_colony_capital_ship_colonize",
+                        "forced_leveled_up_abilities": ["vasari_colony_capital_ship_colonize"],
                         "items": [
                             "vasari_rebel_exodus_package"]
                     }
@@ -466,6 +444,77 @@
             },
             "starting_units_in_hyperspace_duration": 6.0,
             "home_planet_starting_population": [240, 240]
+        },
+        "starting_research":
+        {
+            "starting_research_subjects": []
+        },
+        "starting_player_inventory_items": [],
+        "additional_starting_planets":
+        {
+            "count": 0,
+            "allowed_planet_types": [],
+            "max_jumps": 0,
+            "include_star_phase_lanes": false,
+            "include_wormhole_phase_lanes": false
+        }
+    },
+    {
+        "player_definition_id": "dlc3_herald",
+        "starting_assets":
+        {
+            "credits": 5000.0,
+            "metal": 2000.0,
+            "crystal": 2000.0
+        },
+        "home_planet":
+        {
+            "starting_units_in_gravity_well":
+            {},
+            "starting_units_in_hyperspace":
+            {},
+            "starting_units_in_portal":
+            {
+                "required_units": [
+                {
+                    "unit": "dlc3_herald_scout_corvette",
+                    "count": [2, 2]
+                },
+                {
+                    "unit": "dlc3_herald_heavy_frigate",
+                    "count": [2, 2]
+                }]
+            },
+            "starting_units_in_portal_duration": 14.0,
+            "starting_militia_units_in_gravity_well":
+            {
+                "required_units": [
+                {
+                    "unit": "vasari_overseer_cruiser",
+                    "count": [1, 1]
+                },
+                {
+                    "unit": "vasari_light_frigate",
+                    "count": [2, 2]
+                }]
+            },
+            "starting_militia_units_owner": "dark_fleet_rearguard",
+            "home_planet_starting_population": [250, 250],
+            "home_planet_track_levels":
+            {
+                "logistics": 2,
+                "defense": 1,
+                "commerce": 0,
+                "mining": 0,
+                "research": 0,
+                "focus": 0,
+                "corruption": 0,
+                "industry": 0,
+                "influence": 0,
+                "culture": 0,
+                "population": 2,
+                "surveying": 0
+            }
         },
         "starting_research":
         {
