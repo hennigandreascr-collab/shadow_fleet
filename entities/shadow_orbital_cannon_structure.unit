@@ -52,7 +52,7 @@
         ],
         "build_group_id": "military",
         "abilities_for_range_in_build_rendering": [
-            "trader_orbital_cannon"]
+            "trader_orbital_cannon_loyalist"]
     },
     "formation":
     {
@@ -139,8 +139,7 @@
     {
         "abilities": [
             "trader_orbital_cannon_loyalist"
-        ],
-        "required_player": "shadow"
+        ]
     }],
     "skin_groups": [
     {

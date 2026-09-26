@@ -13,3 +13,23 @@ Found errors for C:\Users\a_hen\AppData\Local\sins2\mods\shadow_fleet\entities\s
 
 version=2.1.1 (320)
 log=C:\Users\a_hen\AppData\Local\sins2\logs\sins2_log_17772.txt
+
+Found errors for C:\Users\a_hen\AppData\Local\sins2\mods\shadow_fleet\entities\shadow_orbital_cannon_structure.unit
+
+- trader_orbital_cannon.ability in abilities_for_range_in_build_rendering must also exist in either the unit's abilities
+
+
+
+
+version=2.1.1 (320)
+log=C:\Users\a_hen\AppData\Local\sins2\logs\sins2_log_29600.txt
+
+Found errors for C:\Users\a_hen\AppData\Local\sins2\mods\shadow_fleet\entities\shadow.player
+
+- dlc_trader_triple_fortresses.research_subject found in faction list but not in base list
+
+
+
+
+version=2.1.1 (320)
+log=C:\Users\a_hen\AppData\Local\sins2\logs\sins2_log_30576.txt
