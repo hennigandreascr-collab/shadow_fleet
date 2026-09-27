@@ -1,55 +1,5 @@
 {
     "shadow_fleet_name": "暗影舰队",
-<<<<<<< HEAD
-    "shadow_fleet_desc": "《原罪帝国的叛逆2》中的传送",
-    "player_faction_name.sf1_shadow_rebel": "海盗",
-    "player_faction_short_name.sf1_shadow_rebel": "TAU 1 海盗",
-    "player_faction_description.sf1_shadow_rebel": "现在它是我的了！",
-    "player_faction_name.sf1_shadow_loyalist": "走私者",
-    "player_faction_description.sf1_shadow_loyalist": "全民走私",
-    "player_faction_short_name.sf1_shadow_loyalist": "TAU 1 走私者",
-    "trader_shields_strikecraft_research_subject_name": "攻击艇护盾改装",
-    "trader_shields_strikecraft_research_subject_name_uppercase": "攻击艇\\\n护盾改装",
-    "trader_shields_structure_research_subject_name": "建筑护盾改装",
-    "trader_shields_structure_research_subject_name_uppercase": "建筑护盾\\\n改装",
-    "trader_shields_structure_research_subject_description": "为建筑提供护盾。",
-    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name": "解锁：行星级行星护盾",
-    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_name_uppercase": "解锁：行星级行星护盾",
-    "trader_unlock_planet_planetary_shield_array_unit_item_research_subject_description": "在行星上建造行星护盾！",
-    "trader_corsair_unlock_planetary_shield_structure_research_subject_name": "解锁：海盗轨道行星护盾",
-    "trader_corsair_unlock_planetary_shield_structure_research_subject_name_uppercase": "解锁：海盗轨道行星护盾",
-    "trader_corsair_unlock_planetary_shield_structure_research_subject_description": "允许海盗建造轨道行星护盾。",
-    "trader_corsair_planetary_shield_structure_description": "这座强大建筑上的护盾发生器可以保护行星免受敌方攻击。",
-    "trader_corsair_planetary_shield_structure_name": "行星护盾",
-    "player_race.sf_1shadow": " 塔乌",
-    "player_race_description.sf1_shadow": "传送升腾联盟（TAU 1）是一群来自贸易商紧急联盟（TEC） lean 的研究人员，他们偶然发现了个人传送的秘密。他们遭到了 TEC 官员的残酷镇压，并被迫走上犯罪道路。\\n\\nTAU 的成员主要分为两大派系：保皇派，他们进行毫无道德底线的贸易活动；以及叛军，他们企图彻底解除并剥夺所有其他派系的武装与权力。",
-    "trader_constructor_cruiser_name": "建造型巡洋舰",
-    "trader_constructor_cruiser_description": "一种强大的巡洋舰，负责建造结构和保护附近的行星。",
-    "trader_unlock_detection_with_culture_research_subject_name": "解锁：传送侦察兵",
-    "trader_unlock_detection_with_culture_research_subject_name_uppercase": "解锁：传送侦察兵",
-    "trader_unlock_detection_with_culture_research_subject_name_description": "允许建造能够发现和追踪敌方船只的传送侦察兵。",
-    "tooltip.research_subject.arbitary_unlock_label.trader_unlock_detection_with_culture": "传送侦察兵揭示所有文化主导位置的细节。",
-    "trader_trade_corvette_name" : "贸易护卫舰",
-    "trader_trade_corvette_description": "一种轻型护卫舰，负责贸易和货物运输。",
-    "trader_teleport_culture_0_research_subject_name": "救援",
-    "trader_teleport_culture_0_research_subject_name_uppercase": "救援",
-    "trader_teleport_culture_0_research_subject_description": "传送者已经逃脱了 TEC 的猎人。但谣言仍在传播...",
-    "trader_teleport_culture_1_research_subject_name": "尊严",
-    "trader_teleport_culture_1_research_subject_name_uppercase": "尊严",
-    "trader_teleport_culture_1_research_subject_description": "在社会的边缘，传送者在怀疑和不信任中蓬勃发展。他们的才能是他们所拥有的全部。",
-    "trader_teleport_culture_2_research_subject_name": "名誉",
-    "trader_teleport_culture_2_research_subject_name_uppercase": "名誉",
-    "trader_teleport_culture_2_research_subject_description": "传送者已经发展出一种独特的文化，基于名誉和相互尊重。他们按照严格的名誉准则生活，指导他们的行动和决定。",
-    "trader_teleport_culture_3_research_subject_name": "荣耀",
-    "trader_teleport_culture_3_research_subject_name_uppercase": "荣耀",
-    "trader_teleport_culture_3_research_subject_description": "传送者离开了阴影，走进了光明。",
-    "trader_teleport_culture_4_research_subject_name": "凯旋",
-    "trader_teleport_culture_4_research_subject_name_uppercase": "凯旋",
-    "trader_teleport_culture_4_research_subject_description": "未来已经到来。",
-    "end": "结束"
-}
-    
-=======
     "shadow_fleet_desc": "Sins2 中的瞬移技术",
 
     "player_race_name.shadow" : "TAU 暗影",
@@ -60,4 +10,3 @@
 
     "end": "结束"
 }
->>>>>>> basic
