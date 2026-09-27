@@ -2,11 +2,11 @@
     "shadow_fleet_name": "Flotte de l'Ombre",
     "shadow_fleet_desc": "Téléportation dans Sins2",
 
-    "player_race_name.shadow" : "TAU Schatten",
-    "player_race_description.shadow" : "Unterdrückt, gejagt, egal ",
-    "player_faction_name.shadow" : "TAU Schatten",
+    "player_race_name.shadow" : "Ombre TAU",
+    "player_race_description.shadow" : "Opprimés, traqués, toujours debout.",
+    "player_faction_name.shadow" : "Ombre TAU",
     "player_faction_short_name" : "TAU",
-    "player_faction_description.shadow" : "Unterdrückt, gejagt, egal ",
+    "player_faction_description.shadow" : "Opprimés, traqués, toujours debout.",
 
     "end": "La Fin"
 }

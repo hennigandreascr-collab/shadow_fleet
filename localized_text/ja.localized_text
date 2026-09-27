@@ -2,11 +2,11 @@
     "shadow_fleet_name": "シャドウ・フリート",
     "shadow_fleet_desc": "Sins2におけるテレポート",
 
-    "player_race_name.shadow" : "TAU Schatten",
-    "player_race_description.shadow" : "Unterdrückt, gejagt, egal ",
-    "player_faction_name.shadow" : "TAU Schatten",
+    "player_race_name.shadow" : "TAUシャドウ",
+    "player_race_description.shadow" : "虐げられ、追われ、それでも立ち上がる。",
+    "player_faction_name.shadow" : "TAUシャドウ",
     "player_faction_short_name" : "TAU",
-    "player_faction_description.shadow" : "Unterdrückt, gejagt, egal ",
+    "player_faction_description.shadow" : "虐げられ、追われ、それでも立ち上がる。",
 
     "end": "終了"
 }

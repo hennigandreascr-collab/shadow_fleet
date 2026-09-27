@@ -2,11 +2,11 @@
     "shadow_fleet_name": "Flota de las Sombras",
     "shadow_fleet_desc": "Teletransportación en Sins2",
 
-    "player_race_name.shadow" : "TAU Schatten",
-    "player_race_description.shadow" : "Unterdrückt, gejagt, egal ",
-    "player_faction_name.shadow" : "TAU Schatten",
+    "player_race_name.shadow" : "Sombra TAU",
+    "player_race_description.shadow" : "Oprimidos, perseguidos y aún en pie.",
+    "player_faction_name.shadow" : "Sombra TAU",
     "player_faction_short_name" : "TAU",
-    "player_faction_description.shadow" : "Unterdrückt, gejagt, egal ",
+    "player_faction_description.shadow" : "Oprimidos, perseguidos y aún en pie.",
 
     "end": "El Fin"
 }

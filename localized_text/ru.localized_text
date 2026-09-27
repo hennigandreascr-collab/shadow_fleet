@@ -2,11 +2,11 @@
     "shadow_fleet_name": "Теневой флот",
     "shadow_fleet_desc": "Телепортация в Sins2",
 
-    "player_race_name.shadow" : "TAU Schatten",
-    "player_race_description.shadow" : "Unterdrückt, gejagt, egal ",
-    "player_faction_name.shadow" : "TAU Schatten",
+    "player_race_name.shadow" : "Теневой TAU",
+    "player_race_description.shadow" : "Угнетённые, преследуемые, но всё ещё стоящие.",
+    "player_faction_name.shadow" : "Теневой TAU",
     "player_faction_short_name" : "TAU",
-    "player_faction_description.shadow" : "Unterdrückt, gejagt, egal ",
+    "player_faction_description.shadow" : "Угнетённые, преследуемые, но всё ещё стоящие.",
 
     "end": "Конец"
 }

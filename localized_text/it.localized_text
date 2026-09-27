@@ -2,11 +2,11 @@
     "shadow_fleet_name": "Flotta dell'Ombra",
     "shadow_fleet_desc": "Teletrasporto in Sins2",
 
-    "player_race_name.shadow" : "TAU Schatten",
-    "player_race_description.shadow" : "Unterdrückt, gejagt, egal ",
-    "player_faction_name.shadow" : "TAU Schatten",
+    "player_race_name.shadow" : "Ombra TAU",
+    "player_race_description.shadow" : "Oppressi, braccati, ancora in piedi.",
+    "player_faction_name.shadow" : "Ombra TAU",
     "player_faction_short_name" : "TAU",
-    "player_faction_description.shadow" : "Unterdrückt, gejagt, egal ",
+    "player_faction_description.shadow" : "Oppressi, braccati, ancora in piedi.",
 
     "end": "Fine"
 }

@@ -2,11 +2,11 @@
     "shadow_fleet_name": "섀도우 플릿",
     "shadow_fleet_desc": "Sins2에서의 텔레포트",
 
-    "player_race_name.shadow" : "TAU Schatten",
-    "player_race_description.shadow" : "Unterdrückt, gejagt, egal ",
-    "player_faction_name.shadow" : "TAU Schatten",
+    "player_race_name.shadow" : "TAU 섀도우",
+    "player_race_description.shadow" : "억압받고 쫓기지만, 여전히 굳건히 서 있다.",
+    "player_faction_name.shadow" : "TAU 섀도우",
     "player_faction_short_name" : "TAU",
-    "player_faction_description.shadow" : "Unterdrückt, gejagt, egal ",
+    "player_faction_description.shadow" : "억압받고 쫓기지만, 여전히 굳건히 서 있다.",
 
     "end": "끝"
 }

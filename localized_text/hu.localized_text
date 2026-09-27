@@ -2,11 +2,11 @@
     "shadow_fleet_name": "Árnyékflotta",
     "shadow_fleet_desc": "Teleportálás a Sins2-ben",
 
-    "player_race_name.shadow" : "TAU Schatten",
-    "player_race_description.shadow" : "Unterdrückt, gejagt, egal ",
-    "player_faction_name.shadow" : "TAU Schatten",
+    "player_race_name.shadow" : "TAU Árnyék",
+    "player_race_description.shadow" : "Elnyomottak, üldözöttek, mégis talpon maradnak.",
+    "player_faction_name.shadow" : "TAU Árnyék",
     "player_faction_short_name" : "TAU",
-    "player_faction_description.shadow" : "Unterdrückt, gejagt, egal ",
+    "player_faction_description.shadow" : "Elnyomottak, üldözöttek, mégis talpon maradnak.",
 
     "end": "Vége"
 }

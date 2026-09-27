@@ -2,11 +2,11 @@
     "shadow_fleet_name": "Frota das Sombras",
     "shadow_fleet_desc": "Teletransporte em Sins2",
 
-    "player_race_name.shadow" : "TAU Schatten",
-    "player_race_description.shadow" : "Unterdrückt, gejagt, egal ",
-    "player_faction_name.shadow" : "TAU Schatten",
+    "player_race_name.shadow" : "Sombra TAU",
+    "player_race_description.shadow" : "Oprimidos, caçados, e ainda de pé.",
+    "player_faction_name.shadow" : "Sombra TAU",
     "player_faction_short_name" : "TAU",
-    "player_faction_description.shadow" : "Unterdrückt, gejagt, egal ",
+    "player_faction_description.shadow" : "Oprimidos, caçados, e ainda de pé.",
 
     "end": "Fim"
 }

@@ -2,11 +2,11 @@
     "shadow_fleet_name": "กองยานเงามืด",
     "shadow_fleet_desc": "การเคลื่อนย้ายมวลสารใน Sins2",
 
-    "player_race_name.shadow" : "TAU Schatten",
-    "player_race_description.shadow" : "Unterdrückt, gejagt, egal ",
-    "player_faction_name.shadow" : "TAU Schatten",
+    "player_race_name.shadow" : "เงา TAU",
+    "player_race_description.shadow" : "ถูกกดขี่ ถูกไล่ล่า แต่ยังคงยืนหยัด",
+    "player_faction_name.shadow" : "เงา TAU",
     "player_faction_short_name" : "TAU",
-    "player_faction_description.shadow" : "Unterdrückt, gejagt, egal ",
+    "player_faction_description.shadow" : "ถูกกดขี่ ถูกไล่ล่า แต่ยังคงยืนหยัด",
 
     "end": "สิ้นสุด"
 }
