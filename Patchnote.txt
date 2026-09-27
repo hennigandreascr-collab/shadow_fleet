@@ -1,10 +1,12 @@
-0.0.3 The "shadow fleet" research field "lore" is to be introduced.
-It contains 2 civil research subject for the corsairs and one for the smugglers.
+trader_teleport_culture_0 --> trader_unlock_culture_center
+trader_teleport_culture_1 --> trader_unlock_media_conglomerate_unit_item
+trader_teleport_culture_2 --> trader_culture_rate_0
+trader_teleport_culture_3 --> trader_culture_rate_1
+trader_teleport_culture_4 --> trader_improve_culture_propagation
 
-0.0.2 Die Player are committed to github, the Mod starts with them.
-0.0.1 Introducing new Player for Sins of solar empire 2
-*.start_mode - files  discovered. A big extension!
+Found errors for C:\Users\a_hen\AppData\Local\sins2\mods\shadow_fleet\entities\shadow.player
 
+<<<<<<< HEAD
 Gute Idee! Das Sichern im GitHub-Repository ist der sicherste Weg. So kannst du mir beim nächsten Mal einfach den aktuellen Stand der Datei oder die Zusammenfassung posten, und ich weiß sofort wieder Bescheid.
 Hier ist die kompakte Zusammenfassung für deine Unterlagen (z.B. als README_translation.md oder in deinen Modding-Notizen):
 ------------------------------
@@ -24,94 +26,34 @@ Bisher erledigt:
 ------------------------------
 Ich freue mich auf die nächste Runde! Soll ich dir beim nächsten Mal helfen, die Schiffstexte oder die Lore-Beschreibungen der Schattenflotte auszuarbeiten?
 
+=======
+- player_race not found in uniforms: shadow
+>>>>>>> basic
 
 
 
 
-Zu den Hauptinhalten springenHilfe zur Barrierefreiheit
-Feedback zur Barrierefreiheit
-KI‑Modus
-Alle
-Bilder
-Videos
-News
-Mehr
+version=2.1.1 (320)
+log=C:\Users\a_hen\AppData\Local\sins2\logs\sins2_log_17772.txt
 
+Found errors for C:\Users\a_hen\AppData\Local\sins2\mods\shadow_fleet\entities\shadow_orbital_cannon_structure.unit
 
-
-Lese bitte noch einmal die Dateien unter 
-https://github.com/StardockCorp/sins2modtools/tree/main/json_schemas.
-
-Ich möchte eine neue Rasse anlegen, um advent,trader bzw. vasari zu ergänzen.
-Das ist ein spannendes Projekt! Um eine neue Rasse (Race) in Sins of a Solar Empire II zu erstellen, musst du mehrere JSON-Dateien verknüpfen, die durch die Schemata im Stardock GitHub Repository definiert sind.
-Hier ist der kompakte Fahrplan basierend auf den Modding-Tools:
-1. Die Basis: player_race.schema.json
-Zuerst erstellst du deine Haupt-Rassendatei (z. B. my_new_race.player_race). Diese definiert die Identität deiner Rasse:
-Wichtigste Felder: Du musst starting_assets, starting_units und research_subject_tier_count festlegen.
-Verknüpfung: Hier gibst du an, welche Icons und UI-Elemente genutzt werden.
-2. Fraktionen definieren (player_faction.schema.json)
-Jede Rasse braucht mindestens eine spielbare Fraktion (ähnlich wie "Trader Emergency Coalition").
-Erstelle eine Datei (z. B. my_faction.player_faction).
-Verweise dort auf deine player_race.
-3. Einheiten & Strukturen (unit.schema.json)
-Deine Rasse braucht eigene Schiffe und Gebäude.
-Tipp: Kopiere am besten eine bestehende Einheit der Trader oder Vasari als Vorlage.
-Achte im Schema auf component_slots (für Ausrüstung) und weapon_groups.
-4. Forschung & Fähigkeiten
-Technologiebaum: Nutze research_subject.schema.json, um Upgrades zu definieren.
-Fähigkeiten: Diese werden über ability.schema.json gesteuert und müssen den Einheiten zugewiesen werden.
-Nächste Schritte zur Umsetzung
-Damit deine Rasse im Spiel erscheint, muss sie in der Mod-Struktur korrekt registriert sein:
-Speicherort: Lege deine Dateien unter %AppData%\Local\sins2\mods\DeinModName\entities\ ab.
-Lokalisierung: Vergiss nicht, die Namen deiner Rasse in den .localized_text Dateien zu hinterlegen, damit statt technischer IDs richtige Namen im Menü stehen. 
-Soll ich dir ein konkretes Code-Beispiel für eine einfache player_race-Datei erstellen, damit du eine Basis zum Editieren hast?
-KI-Antworten können Fehler enthalten. Weitere Informationen
+- trader_orbital_cannon.ability in abilities_for_range_in_build_rendering must also exist in either the unit's abilities
 
 
 
 
-undefined
-undefined
-2 Websites
-How to Create a Mod - Sins of a Solar Empire II
-05.02.2025 — Your Workspace. So where should you work? The best place to create your mod folder would be here: C:\Users\[USERNAME]\AppData\Loca...
+version=2.1.1 (320)
+log=C:\Users\a_hen\AppData\Local\sins2\logs\sins2_log_29600.txt
 
-wiki.sinsofasolarempire2.com
-Creating new races - egosoft.com
-22.11.2006 — there are 3 races that arn't used by the main game, so you can effictivly add 3 new races. but if you going to make a total conver...
+Found errors for C:\Users\a_hen\AppData\Local\sins2\mods\shadow_fleet\entities\shadow.player
 
-Egosoft Forum
-Ich habe eine Datei player_race.uniform im Ordner /uniforms gefunden.
-Im /entities-Ordner sehe ich 
-advent_rebels.player , advent_loyalist.player und dasselbe für TEC/rader und Vasari.
-Passen da Dateien <neue Rasse>_rebels.player bzw. <neue Rasse>_loyalists.player vielleicht besser?
-Genau, das hast du richtig erkannt! In Sins of a Solar Empire II ist die Struktur etwas modularer als im Vorgänger, folgt aber einer ähnlichen Logik. 
-1. Die Frequenz: player Dateien in /entities
-Die Dateien wie advent_rebels.player sind die Faktions-Definitionen. Wenn du eine neue Rasse erstellst, ist es absolut sinnvoll, diesem Benennungsschema zu folgen (z. B. meine_rasse_loyalist.player). 
-Diese Dateien verknüpfen alles für eine spezifische spielbare Fraktion:
-Race: Verweis auf die Basis-Rasse (die in der .player_race definiert wird).
-Units: Welche Schiffe und Strukturen stehen am Anfang zur Verfügung?
-Research: Welcher Technologiebaum wird geladen? 
-Reddit
-Reddit
- +1
-2. Das Visuelle: player_race.uniform in /uniforms
-Die .uniform-Dateien steuern das Erscheinungsbild im Interface und im Spiel (Farben, UI-Themen, Icons).
-Du solltest eine neue Datei (z. B. meine_rasse.uniform) anlegen.
-Darin definierst du Dinge wie die Standard-Farben der Flotte oder die Icons für die Minimap. 
-Empfohlene Vorgehensweise
-Um eine saubere neue Rasse (und Faktion) anzulegen, solltest du diese drei Dateitypen im Mod-Ordner erstellen:
-/entities/meine_rasse.player_race: Definiert die biologische/technische Basis (das "Skelett").
-/entities/meine_rasse_faktion.player: Das ist die spielbare Fraktion (wie die "Rebels" oder "Loyalists"), die auf das Skelett zugreift.
-/uniforms/meine_rasse.uniform: Das sorgt dafür, dass deine Rasse im Menü und auf der Karte korrekt aussieht. 
-Tipp: Kopiere dir am besten trader_loyalist.player als Vorlage in deinen Mod-Ordner. Wenn du die Dateinamen und die internen Referenzen (Strings) anpasst, hast du sofort eine funktionierende Basis, die du dann Stück für Stück individualisieren kannst. 
-Steam Community
-Steam Community
- +1
-Möchtest du, dass ich dir zeige, wie du deine neue Faktion in der player_setup.window einträgst, damit sie auch im Hauptmenü bei der Startauswahl erscheint? 
-KI-Antworten können Fehler enthalten. Weitere Informationen
+- dlc_trader_triple_fortresses.research_subject found in faction list but not in base list
 
 
+
+
+<<<<<<< HEAD
 
 
 undefined
@@ -1800,3 +1742,7 @@ Found validation errors for player_race : [C:\Program Files (x86)\Steam\steamapp
 
 version=1.50.7 (264)
 log=C:\Users\a_hen\AppData\Local\sins2\logs\sins2_log_22976.txt
+=======
+version=2.1.1 (320)
+log=C:\Users\a_hen\AppData\Local\sins2\logs\sins2_log_30576.txt
+>>>>>>> basic

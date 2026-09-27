@@ -1,6 +1,7 @@
 {
     "shadow_fleet_name": "Flota de las Sombras",
     "shadow_fleet_desc": "Teletransportación en Sins2",
+<<<<<<< HEAD
     "player_faction_name.sf1_shadow_rebel": "TAU 1 Corsarios",
     "player_faction_description.sf1_shadow_rebel": "¡Ahora es mío!",
     "player_faction_short_name.sf1_shadow_rebel": "TAU 1 Corsarios",
@@ -46,4 +47,14 @@
     "trader_teleport_culture_4_research_subject_name_uppercase": "TRIUNFO",
     "trader_teleport_culture_4_research_subject_description": "El futuro ha llegado.",
     "end": "Fin"
+=======
+
+    "player_race_name.shadow" : "Sombra TAU",
+    "player_race_description.shadow" : "Oprimidos, perseguidos y aún en pie.",
+    "player_faction_name.shadow" : "Sombra TAU",
+    "player_faction_short_name" : "TAU",
+    "player_faction_description.shadow" : "Oprimidos, perseguidos y aún en pie.",
+
+    "end": "El Fin"
+>>>>>>> basic
 }

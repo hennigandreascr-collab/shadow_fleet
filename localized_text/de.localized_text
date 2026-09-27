@@ -2,6 +2,7 @@
     "shadow_fleet_name": "Schattenflotte",
     "shadow_fleet_desc": "Teleportation in Sins2",
 
+<<<<<<< HEAD
     "player_faction_name.sf1_shadow_rebel": "TAU 1 Korsaren",
     "player_faction_short_name.sf1_shadow_rebel" :"TAU 1 Korsaren",
     "player_faction_description.sf1_shadow_rebel": "Jetzt gehört es mir!",
@@ -46,5 +47,13 @@
     "trader_teleport_culture_4_research_subject_name": "Triumph",
     "trader_teleport_culture_4_research_subject_name_uppercase": "TRIUMPH",
     "trader_teleport_culture_4_research_subject_description": "Die Zukunft ist angekommen.",
+=======
+    "player_race_name.shadow" : "TAU Schatten",
+    "player_race_description.shadow" : "Unterdrückt, gejagt, egal ",
+    "player_faction_name.shadow" : "TAU Schatten",
+    "player_faction_short_name" : "TAU",
+    "player_faction_description.shadow" : "Unterdrückt, gejagt, egal ",
+
+>>>>>>> basic
     "end": "Das Ende"
 }

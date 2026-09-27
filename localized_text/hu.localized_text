@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "shadow_fleet_name": "Árnyflotta",
     "shadow_fleet_desc": "Teleportáció a Sins2-ben",
     "player_faction_name.sf1_shadow_rebel": "TAU 1 Kalózok",
@@ -45,5 +46,16 @@
     "trader_teleport_culture_4_research_subject_description": "A jövő megérkezett.",
     "trader_trade_corvette_name" : "Kereskedelmi Korvett",
     "trader_trade_corvette_description": "Egy könnyű korvett, amely a kereskedelem és az áruk szállítása felelős.",
+=======
+    "shadow_fleet_name": "Árnyékflotta",
+    "shadow_fleet_desc": "Teleportálás a Sins2-ben",
+
+    "player_race_name.shadow" : "TAU Árnyék",
+    "player_race_description.shadow" : "Elnyomottak, üldözöttek, mégis talpon maradnak.",
+    "player_faction_name.shadow" : "TAU Árnyék",
+    "player_faction_short_name" : "TAU",
+    "player_faction_description.shadow" : "Elnyomottak, üldözöttek, mégis talpon maradnak.",
+
+>>>>>>> basic
     "end": "Vége"
 }

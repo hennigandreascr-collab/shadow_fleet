@@ -1,5 +1,6 @@
 {
     "shadow_fleet_name": "暗影舰队",
+<<<<<<< HEAD
     "shadow_fleet_desc": "《原罪帝国的叛逆2》中的传送",
     "player_faction_name.sf1_shadow_rebel": "海盗",
     "player_faction_short_name.sf1_shadow_rebel": "TAU 1 海盗",
@@ -48,3 +49,15 @@
     "end": "结束"
 }
     
+=======
+    "shadow_fleet_desc": "Sins2 中的瞬移技术",
+
+    "player_race_name.shadow" : "TAU 暗影",
+    "player_race_description.shadow" : "饱受压迫，遭到追猎，却依然屹立不倒。",
+    "player_faction_name.shadow" : "TAU 暗影",
+    "player_faction_short_name" : "TAU",
+    "player_faction_description.shadow" : "饱受压迫，遭到追猎，却依然屹立不倒。",
+
+    "end": "结束"
+}
+>>>>>>> basic

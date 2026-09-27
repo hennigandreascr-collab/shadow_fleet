@@ -56,3 +56,11 @@ This ensures German is the source language and all translations stay synchronize
 - Finalize starbase ability (remove `.try` when ready)
 - Consider creating as independent race (vs. Trader variants)
 - **Translations**: Request language support across all 15 languages when new content needs localization
+
+## 1. Fehlerbehebung (Troubleshooting)
+
+### Overlapping field_coord (Überlappende Koordinaten)
+*   **Problem:** Fehlermeldung `Overlapping field_coord found` beim Laden der Mod.
+*   **Ursache:** Zwei Forschungseinträge (z. B. `trader_corsair_civic_lore_1` und `lore_2`) nutzen dieselben X,Y-Koordinaten im Forschungsbaum-Raster.
+*   **Lösung:** Jedes Objekt in den `.research`-Dateien muss einen einzigartigen Wert für `"field_coord": [x, y]` besitzen. 
+*   **Wichtig:** Beim Kopieren von Dateien (Templates) immer die Koordinaten anpassen, um Kollisionen mit dem Basisspiel oder anderen Mod-Elementen zu vermeiden.

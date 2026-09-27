@@ -1,6 +1,7 @@
 {
     "shadow_fleet_name": "Flotte de l'Ombre",
     "shadow_fleet_desc": "Téléportation dans Sins2",
+<<<<<<< HEAD
     "player_faction_name.sf1_shadow_rebel": "TAU 1 Corsaires",
     "player_faction_short_name.sf1_shadow_rebel": "TAU 1 Corsaires",
     "player_faction_description.sf1_shadow_rebel": "Maintenant, c'est à moi !",
@@ -47,4 +48,14 @@
     "trader_teleport_culture_4_research_subject_description": "Le futur est arrivé.",
 
     "end": "Fin"
+=======
+
+    "player_race_name.shadow" : "Ombre TAU",
+    "player_race_description.shadow" : "Opprimés, traqués, toujours debout.",
+    "player_faction_name.shadow" : "Ombre TAU",
+    "player_faction_short_name" : "TAU",
+    "player_faction_description.shadow" : "Opprimés, traqués, toujours debout.",
+
+    "end": "La Fin"
+>>>>>>> basic
 }

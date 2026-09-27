@@ -1,6 +1,7 @@
 {
     "shadow_fleet_name": "Flotta dell'Ombra",
     "shadow_fleet_desc": "Teletrasporto in Sins2",
+<<<<<<< HEAD
     "player_faction_name.sf1_shadow_rebel": "TAU 1 Corsari",
     "player_faction_short_name.sf1_shadow_rebel": "TAU 1 Corsari",
     "player_faction_description.sf1_shadow_rebel": "Ora è mio!",
@@ -45,5 +46,14 @@
     "trader_teleport_culture_4_research_subject_name": "Trionfo",
     "trader_teleport_culture_4_research_subject_name_uppercase": "TRIONFO",
     "trader_teleport_culture_4_research_subject_description": "Il futuro è arrivato.",
+=======
+
+    "player_race_name.shadow" : "Ombra TAU",
+    "player_race_description.shadow" : "Oppressi, braccati, ancora in piedi.",
+    "player_faction_name.shadow" : "Ombra TAU",
+    "player_faction_short_name" : "TAU",
+    "player_faction_description.shadow" : "Oppressi, braccati, ancora in piedi.",
+
+>>>>>>> basic
     "end": "Fine"
 }

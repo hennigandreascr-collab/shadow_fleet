@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "shadow_fleet_name": "그림자 함대",
     "shadow_fleet_desc": "Sins2에서의 텔레포트",
     "player_faction_name.sf1_shadow_rebel": "코르세어",
@@ -47,4 +48,16 @@
     "trader_teleport_culture_4_research_subject_description": "미래가 도래했습니다.",
 
     "end": "종료"
+=======
+    "shadow_fleet_name": "섀도우 플릿",
+    "shadow_fleet_desc": "Sins2에서의 텔레포트",
+
+    "player_race_name.shadow" : "TAU 섀도우",
+    "player_race_description.shadow" : "억압받고 쫓기지만, 여전히 굳건히 서 있다.",
+    "player_faction_name.shadow" : "TAU 섀도우",
+    "player_faction_short_name" : "TAU",
+    "player_faction_description.shadow" : "억압받고 쫓기지만, 여전히 굳건히 서 있다.",
+
+    "end": "끝"
+>>>>>>> basic
 }

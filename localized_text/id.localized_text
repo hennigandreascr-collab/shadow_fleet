@@ -1,6 +1,7 @@
 {
     "shadow_fleet_name": "Armada Bayangan",
     "shadow_fleet_desc": "Teleportasi di Sins2",
+<<<<<<< HEAD
     "player_faction_name.sf1_shadow_rebel": "TAU 1 Korsair",
     "player_faction_short_name.sf1_shadow_rebel": "TAU 1 Korsair",
     "player_faction_description.sf1_shadow_rebel": "Sekarang ini milikku!",
@@ -46,5 +47,14 @@
 
     "trader_trade_corvette_name" : "Korvet Perdagangan",
     "trader_trade_corvette_description": "Sebuah corvette ringan yang bertanggung jawab untuk perdagangan dan pengiriman barang.",
+=======
+
+    "player_race_name.shadow" : "TAU Bayangan",
+    "player_race_description.shadow" : "Tertindas, diburu, namun tetap bertahan.",
+    "player_faction_name.shadow" : "TAU Bayangan",
+    "player_faction_short_name" : "TAU",
+    "player_faction_description.shadow" : "Tertindas, diburu, namun tetap bertahan.",
+
+>>>>>>> basic
     "end": "Selesai"
 }

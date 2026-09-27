@@ -52,7 +52,11 @@
         ],
         "build_group_id": "military",
         "abilities_for_range_in_build_rendering": [
+<<<<<<< HEAD
             "trader_orbital_cannon"]
+=======
+            "trader_orbital_cannon_loyalist"]
+>>>>>>> basic
     },
     "formation":
     {
@@ -139,6 +143,7 @@
     {
         "abilities": [
             "trader_orbital_cannon_loyalist"
+<<<<<<< HEAD
         ],
         "required_player": "sf1_shadow_loyalist"
     },
@@ -147,11 +152,18 @@
             "trader_orbital_cannon"
         ],
         "required_player": "sf1_shadow_rebel"
+=======
+        ]
+>>>>>>> basic
     }],
     "skin_groups": [
     {
         "skins": [
+<<<<<<< HEAD
             "trader_orbital_cannon_structure"]
+=======
+            "sf1_shadow_orbital_cannon_structure"]
+>>>>>>> basic
     }],
     "action_effect_size": "large_unit"
 }

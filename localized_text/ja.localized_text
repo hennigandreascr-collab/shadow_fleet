@@ -1,5 +1,6 @@
 {
     "shadow_fleet_name": "シャドウ・フリート",
+<<<<<<< HEAD
     "shadow_fleet_desc": "Sins2でのテレポーテーション",
     "player_faction_name.sf1_shadow_rebel": "コルセア",
     "player_faction_short_name.sf1_shadow_rebel": "TAU 1 コルセア",
@@ -46,6 +47,15 @@
     "trader_teleport_culture_4_research_subject_name": "凱旋",
     "trader_teleport_culture_4_research_subject_name_uppercase": "凱旋",
     "trader_teleport_culture_4_research_subject_description": "未来が到来した。",
+=======
+    "shadow_fleet_desc": "Sins2におけるテレポート",
+
+    "player_race_name.shadow" : "TAUシャドウ",
+    "player_race_description.shadow" : "虐げられ、追われ、それでも立ち上がる。",
+    "player_faction_name.shadow" : "TAUシャドウ",
+    "player_faction_short_name" : "TAU",
+    "player_faction_description.shadow" : "虐げられ、追われ、それでも立ち上がる。",
+>>>>>>> basic
 
     "end": "終了"
 }
