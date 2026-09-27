@@ -1,6 +1,6 @@
 {
     "compatibility_version": 2,
-    "display_version": "0.0.2",
+    "display_version": "2.0.0",
     "display_name": "Shadow fleet",
     "short_description": "Teleportation in Sins2",
     "logos": {
