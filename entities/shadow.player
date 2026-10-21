@@ -458,12 +458,14 @@
         "trader_support_capital_ship",
         "trader_carrier_capital_ship",
         "trader_siege_capital_ship",
+        "pirate_king_capital_ship",
         "trader_loyalist_titan",
         "dlc2_trader_loyalist_super_capital_ship"
     ],
     "faction_buildable_units": [
         "trader_loyalist_titan",
-        "dlc2_trader_loyalist_super_capital_ship"
+        "dlc2_trader_loyalist_super_capital_ship",
+        "pirate_king_capital_ship"
     ],
     "buildable_strikecraft": [
         "trader_interceptor_strikecraft",
@@ -1138,7 +1140,7 @@
         "trader_starbase_docking_booms",
         "trader_starbase_trade_port",
         "trader_starbase_unit_factory",
-        "trader_starbase_self_destruct",
+        "shadow_self_destruct",
         "trader_starbase_planetary_shield_array",
         "trader_starbase_unlock_beam_weapon",
         "trader_starbase_unlock_torpedo_weapon",
