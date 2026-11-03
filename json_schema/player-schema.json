@@ -19,6 +19,12 @@
         "ai": {
             "$ref": "#/$defs/player_ai_definition"
         },
+        "allowed_traffic_ports": {
+            "type": "array",
+            "items": {
+                "$ref": "#/$defs/unit_definition_ptr"
+            }
+        },
         "asteroid_extraction_rates": {
             "$ref": "#/$defs/asset_values"
         },
@@ -48,13 +54,28 @@
             "type": "number",
             "minimum": 0.0
         },
+        "corruption_thresholds": {
+            "type": "array",
+            "items": {
+                "type": "number"
+            }
+        },
         "culture": {
             "type": "object",
             "properties": {
+                "allegiance_decay_exponent": {
+                    "type": "number"
+                },
+                "allegiance_decay_minimum_percentage": {
+                    "type": "number"
+                },
                 "base_allegiance_growth_rate_from_neutral": {
                     "type": "number"
                 },
                 "base_allegiance_growth_rate_from_other_players": {
+                    "type": "number"
+                },
+                "base_allegiance_decay_rate": {
                     "type": "number"
                 },
                 "base_max_allegiance_factor": {
@@ -152,6 +173,9 @@
         "default_starting_exotics": {
             "$ref": "#/$defs/exotic_type_count_vector"
         },
+        "DEPRECATED_starting_units_in_player_file": {
+            "type": "string"
+        },
         "faction_buildable_units": {
             "type": "array",
             "items": {
@@ -169,6 +193,41 @@
             "items": {
                 "$ref": "#/$defs/unit_definition_ptr"
             }
+        },
+        "factional_victory": {
+            "type": "object",
+            "properties": {
+                "gui_definition": {
+                    "type": "object",
+                    "properties": {
+                        "item_prefix": {
+                            "$ref": "#/$defs/localized_text_ptr"
+                        },
+                        "optional_item_postfix": {
+                            "$ref": "#/$defs/localized_text_ptr"
+                        },
+                        "optional_tooltip_line": {
+                            "$ref": "#/$defs/localized_text_ptr"
+                        }
+                    },
+                    "unevaluatedProperties": false
+                },
+                "objective_item_buildable_unit": {
+                    "$ref": "#/$defs/unit_definition_ptr"
+                },
+                "objective_unit_item": {
+                    "$ref": "#/$defs/unit_item_definition_ptr"
+                },
+                "objectives_required": {
+                    "type": "integer",
+                    "minimum": 0
+                },
+                "victory_countdown_in_seconds": {
+                    "type": "number",
+                    "minimum": 0.0
+                }
+            },
+            "unevaluatedProperties": false
         },
         "find_npc_explore_prerequisites": {
             "type": "array",
@@ -1710,6 +1769,12 @@
             "type": "number",
             "minimum": 0.0
         },
+        "negative_corruption_buffs": {
+            "type": "array",
+            "items": {
+                "$ref": "#/$defs/buff_definition_ptr"
+            }
+        },
         "planet_component_build_groups": {
             "type": "array",
             "items": {
@@ -2192,10 +2257,16 @@
                         "could_not_accept_due_to_insufficient_exotics": {
                             "$ref": "#/$defs/localized_text_ptr"
                         },
+                        "could_not_accept_due_to_insufficient_influence": {
+                            "$ref": "#/$defs/localized_text_ptr"
+                        },
                         "could_not_accept_due_to_other_reasons": {
                             "$ref": "#/$defs/localized_text_ptr"
                         },
                         "give_planets_requires_synergy_alliance": {
+                            "$ref": "#/$defs/localized_text_ptr"
+                        },
+                        "out_of_patience": {
                             "$ref": "#/$defs/localized_text_ptr"
                         },
                         "trade_is_not_reasonable": {
@@ -2204,8 +2275,26 @@
                     },
                     "unevaluatedProperties": false
                 },
+                "bounty_placed_messages": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/$defs/localized_text_ptr"
+                    }
+                },
+                "cease_fire_messages": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/$defs/localized_text_ptr"
+                    }
+                },
                 "names": {
                     "$ref": "#/$defs/localized_text_group"
+                },
+                "rival_taunts": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/$defs/localized_text_ptr"
+                    }
                 }
             },
             "required": [
@@ -2893,7 +2982,13 @@
                 "research_points_name": {
                     "$ref": "#/$defs/localized_text_ptr"
                 },
+                "research_points_per_population_name": {
+                    "$ref": "#/$defs/localized_text_ptr"
+                },
                 "research_rate_name": {
+                    "$ref": "#/$defs/localized_text_ptr"
+                },
+                "research_rate_per_population_name": {
                     "$ref": "#/$defs/localized_text_ptr"
                 },
                 "research_tiers": {
@@ -4488,6 +4583,9 @@
                 "types": {
                     "type": "object",
                     "properties": {
+                        "factional": {
+                            "$ref": "#/$defs/player_victory_gui_definition/properties/types/properties/military"
+                        },
                         "colonization": {
                             "type": "object",
                             "properties": {
@@ -4911,10 +5009,19 @@
                 "faction_name": {
                     "$ref": "#/$defs/localized_text_ptr"
                 },
+                "faction_short_name": {
+                    "$ref": "#/$defs/localized_text_ptr"
+                },
                 "hud_skin_name": {
                     "type": "string"
                 },
                 "load_screen_character_brush": {
+                    "$ref": "#/$defs/brush_ptr"
+                },
+                "mission_notification_icon": {
+                    "$ref": "#/$defs/brush_ptr"
+                },
+                "mission_tooltip_notification_icon": {
                     "$ref": "#/$defs/brush_ptr"
                 },
                 "no_credit_income_description": {
@@ -4922,6 +5029,12 @@
                 },
                 "player_slot_plate": {
                     "$ref": "#/$defs/brush_ptr"
+                },
+                "player_slot_plates": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/$defs/brush_ptr"
+                    }
                 },
                 "race_description": {
                     "$ref": "#/$defs/localized_text_ptr"
@@ -4981,6 +5094,36 @@
                 },
                 "planet_type": {
                     "$ref": "#/$defs/planet_type_name"
+                },
+                "shroud_restricted_max_track_levels": {
+                    "type": "object",
+                    "properties": {
+                        "commerce": {
+                            "type": "integer",
+                            "minimum": 0
+                        },
+                        "defense": {
+                            "type": "integer",
+                            "minimum": 0
+                        },
+                        "focus": {
+                            "type": "integer",
+                            "minimum": 0
+                        },
+                        "logistics": {
+                            "type": "integer",
+                            "minimum": 0
+                        },
+                        "mining": {
+                            "type": "integer",
+                            "minimum": 0
+                        },
+                        "research": {
+                            "type": "integer",
+                            "minimum": 0
+                        }
+                    },
+                    "unevaluatedProperties": false
                 }
             },
             "required": [
@@ -5123,6 +5266,20 @@
                                         "items": {
                                             "type": "object",
                                             "properties": {
+                                                "planet_shield_burst_restore": {
+                                                    "type": "object",
+                                                    "properties": {
+                                                        "cooldown_duration": {
+                                                            "type": "number",
+                                                            "minimum": 0.0
+                                                        },
+                                                        "restore_percentage": {
+                                                            "type": "number",
+                                                            "minimum": 0.0
+                                                        }
+                                                    },
+                                                    "unevaluatedProperties": false
+                                                },
                                                 "civilian_research_points": {
                                                     "type": "integer"
                                                 },
@@ -5366,6 +5523,12 @@
                                         "items": {
                                             "type": "object",
                                             "properties": {
+                                                "civilian_research_points_per_population": {
+                                                    "type": "number"
+                                                },
+                                                "military_research_points_per_population": {
+                                                    "type": "number"
+                                                },
                                                 "civilian_research_points": {
                                                     "type": "integer"
                                                 },
@@ -5440,6 +5603,12 @@
                                                 }
                                             },
                                             "unevaluatedProperties": false
+                                        }
+                                    },
+                                    "focus": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "object"
                                         }
                                     },
                                     "surveying": {
@@ -7999,6 +8168,48 @@
                                 "sound"
                             ],
                             "unevaluatedProperties": false
+                        },
+                        "cloaked_unit_detected": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
+                        },
+                        "enemy_destroy_planet_started": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
+                        },
+                        "enemy_planet_destroyed": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
+                        },
+                        "enemy_planet_shrouded": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
+                        },
+                        "enemy_planet_shrouding_started": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
+                        },
+                        "insufficient_corruption": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
+                        },
+                        "planet_ready_to_shroud": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
+                        },
+                        "planet_shrouded": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
+                        },
+                        "planet_track_upgrade_corruption_completed": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
+                        },
+                        "planet_track_upgrade_culture_completed": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
+                        },
+                        "planet_track_upgrade_focus_completed": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
+                        },
+                        "planet_track_upgrade_industry_completed": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
+                        },
+                        "planet_track_upgrade_influence_completed": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
+                        },
+                        "planet_track_upgrade_population_completed": {
+                            "$ref": "#/$defs/player_sounds_definition/properties/user_interface_sounds/properties/planet_track_upgrade_defense_completed"
                         },
                         "wormhole_travel_research_prerequisites_not_met": {
                             "type": "object",

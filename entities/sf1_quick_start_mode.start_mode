@@ -150,11 +150,11 @@
             {
                 "required_units": [
                 {
-                    "unit": "trader_frigate_factory_structure",
+                    "unit": "shadow_frigate_factory_structure",
                     "count": [1, 1]
                 },
                 {
-                    "unit": "trader_capital_ship_factory_structure",
+                    "unit": "shadow_capital_ship_factory_structure",
                     "count": [1, 1]
                 },
                 {
@@ -253,7 +253,7 @@
             {
                 "required_units": [
                 {
-                    "unit": "trader_capital_ship_factory_structure",
+                    "unit": "shadow_capital_ship_factory_structure",
                     "count": [1, 1]
                 },
                 {
@@ -261,7 +261,7 @@
                     "count": [1, 1]
                 },
                 {
-                    "unit": "trader_frigate_factory_structure",
+                    "unit": "shadow_frigate_factory_structure",
                     "count": [1, 1]
                 },
                 {

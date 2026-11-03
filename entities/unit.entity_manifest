@@ -1,5 +1,9 @@
 {
     "ids": [
-        "shadow_orbital_cannon_structure"
+        "shadow_orbital_cannon_structure",
+        "shadow_capital_ship_factory_structure",
+        "shadow_frigate_factory_structure",
+        "shadow_titan_factory_structure"
+
     ]
 }
