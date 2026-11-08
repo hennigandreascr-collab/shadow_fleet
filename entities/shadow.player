@@ -1096,6 +1096,7 @@
             "trader_upgrade_volcanic_biosphere",
             "trader_upgrade_volcanic_biosphere_credit_rate",
             "trader_war_measures_act",
+            "trader_enemy_culture_suppression",
             "trader_wormhole_travel",
             "trader_unlock_commodity_exchange_unit_item",
             "trader_unlock_population_growth_ability"
@@ -5294,8 +5295,56 @@
                 }]
             }
         ],        
-
+        
         "planet_track_level_culture_providers": [
+        {
+            "track_type": "logistics",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_enemy_culture_suppression"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "defense",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_enemy_culture_suppression"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "commerce",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_enemy_culture_suppression"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "mining",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_enemy_culture_suppression"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "research",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_enemy_culture_suppression"]
+            ],
+            "rate": 0.002
+        },        
+        {
+            "track_type": "surveying",
+            "minimum_level": 0,
+            "prerequisites": [
+                ["trader_enemy_culture_suppression"]
+            ],
+            "rate": 0.002
+        },        
         {
             "track_type": "logistics",
             "minimum_level": 0,
