@@ -7,6 +7,8 @@
     "player_faction_name.shadow" : "TAU 暗影",
     "player_faction_short_name" : "TAU",
     "player_faction_description.shadow" : "饱受压迫，遭到追猎，却依然屹立不倒。",
+    "trader_constructor_cruiser_name": "建造型巡洋舰",
+    "trader_constructor_cruiser_description": "一种强大的巡洋舰，负责建造结构和保护附近的行星。",
 
     "end": "结束"
 }

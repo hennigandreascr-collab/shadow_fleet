@@ -458,6 +458,7 @@
         "trader_support_capital_ship",
         "trader_carrier_capital_ship",
         "trader_siege_capital_ship",
+        "trader_constructor_cruiser",
         "pirate_king_capital_ship",
         "trader_loyalist_titan",
         "dlc2_trader_loyalist_super_capital_ship"
@@ -486,7 +487,7 @@
     }],
     "structure_builder":
     {
-        "ship": "trader_constructor_ship",
+        "ship": "trader_constructor_cruiser",
         "special_operation_unit_kind": "structure_builder"
     },
     "structures": [

@@ -7,6 +7,8 @@
     "player_faction_name.shadow" : "Ombra TAU",
     "player_faction_short_name" : "TAU",
     "player_faction_description.shadow" : "Oppressi, braccati, ancora in piedi.",
+    "trader_constructor_cruiser_name": "Crociere costruttore",
+    "trader_constructor_cruiser_description": "Una crociera potente responsabile della costruzione di strutture e della difesa del pianeta vicino.",
 
     "end": "Fine"
 }

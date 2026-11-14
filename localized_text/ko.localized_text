@@ -7,6 +7,8 @@
     "player_faction_name.shadow" : "TAU 섀도우",
     "player_faction_short_name" : "TAU",
     "player_faction_description.shadow" : "억압받고 쫓기지만, 여전히 굳건히 서 있다.",
+    "trader_constructor_cruiser_name": "건설 크루저",
+    "trader_constructor_cruiser_description": "구조물의 건설과 인근 행성을 방어하는 데 담당하는 강력한 크루저입니다.",
 
     "end": "끝"
 }

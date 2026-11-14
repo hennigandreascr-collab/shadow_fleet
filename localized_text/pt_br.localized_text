@@ -7,6 +7,8 @@
     "player_faction_name.shadow" : "Sombra TAU",
     "player_faction_short_name" : "TAU",
     "player_faction_description.shadow" : "Oprimidos, caçados, e ainda de pé.",
+    "trader_constructor_cruiser_name": "Cruzador Construtor",
+    "trader_constructor_cruiser_description": "Um cruzador poderoso responsável pela construção de estruturas e pela defesa do planeta próximo.",
 
     "end": "Fim"
 }

@@ -7,6 +7,8 @@
     "player_faction_name.shadow" : "Теневой TAU",
     "player_faction_short_name" : "TAU",
     "player_faction_description.shadow" : "Угнетённые, преследуемые, но всё ещё стоящие.",
+    "trader_constructor_cruiser_name": "Конструкторский крейсер",
+    "trader_constructor_cruiser_description": "Мощный крейсер, ответственный за строительство структур и защиту ближайшей планеты.",
 
     "end": "Конец"
 }

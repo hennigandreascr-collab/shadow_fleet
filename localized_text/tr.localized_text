@@ -7,6 +7,8 @@
     "player_faction_name.shadow" : "TAU Gölge",
     "player_faction_short_name" : "TAU",
     "player_faction_description.shadow" : "Ezilen, avlanan, yine de ayakta kalan.",
+    "trader_constructor_cruiser_name": "İnşaatçı Kruvazörü",
+    "trader_constructor_cruiser_description": "Yapıların inşasından ve yakındaki gezegenin savunmasından sorumlu güçlü bir kruvazör.",
 
     "end": "Das Ende"
 }
