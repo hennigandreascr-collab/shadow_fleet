@@ -9,6 +9,8 @@
     "player_faction_description.shadow" : "ถูกกดขี่ ถูกไล่ล่า แต่ยังคงยืนหยัด",
     "trader_constructor_cruiser_name": "เรือรบก่อสร้าง",
     "trader_constructor_cruiser_description": "เรือรบที่มีพลังและรับผิดชอบในการสร้างโครงสร้างและป้องกันดาวเคราะห์ใกล้เคียง",
+    "trader_civil_bunker.name": "บังเกอร์พลเรือน",
+    "trader_civil_bunker.description": "บังเกอร์ป้องกันชั่วคราวที่คุ้มครองประชากรของดาวเคราะห์ใกล้เคียง",
 
     "end": "สิ้นสุด"
 }

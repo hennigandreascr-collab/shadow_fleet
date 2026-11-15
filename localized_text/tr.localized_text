@@ -9,6 +9,8 @@
     "player_faction_description.shadow" : "Ezilen, avlanan, yine de ayakta kalan.",
     "trader_constructor_cruiser_name": "İnşaatçı Kruvazörü",
     "trader_constructor_cruiser_description": "Yapıların inşasından ve yakındaki gezegenin savunmasından sorumlu güçlü bir kruvazör.",
+    "trader_civil_bunker.name": "Sivil Sığınak",
+    "trader_civil_bunker.description": "Yakındaki gezegenin nüfusunu koruyan geçici bir savunma sığınağı.",
 
     "end": "Das Ende"
 }

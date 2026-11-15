@@ -9,6 +9,7 @@
     "player_faction_description.shadow" : "Unterdrückt, gejagt, egal ",
     "trader_constructor_cruiser_name": "Konstruktor-Kreuzer",
     "trader_constructor_cruiser_description": "Ein mächtiger Kreuzer, der für den Bau von Strukturen und die Verteidigung des naheliegenden Planeten zuständig ist.",
-
+    "trader_civil_bunker.name": "Zivilbunker",
+    "trader_civil_bunker.description": "Ein provisorischer Verteidigungsbunker, der die Bevölkerung des naheliegenden Planeten abschirmt.",
     "end": "Das Ende"
 }

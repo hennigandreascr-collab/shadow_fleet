@@ -9,6 +9,8 @@
     "player_faction_description.shadow" : "Oprimidos, caçados, e ainda de pé.",
     "trader_constructor_cruiser_name": "Cruzador Construtor",
     "trader_constructor_cruiser_description": "Um cruzador poderoso responsável pela construção de estruturas e pela defesa do planeta próximo.",
+    "trader_civil_bunker.name": "Bunker civil",
+    "trader_civil_bunker.description": "Um bunker de defesa improvisado que protege a população do planeta próximo.",
 
     "end": "Fim"
 }

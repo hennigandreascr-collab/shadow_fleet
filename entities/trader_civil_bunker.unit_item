@@ -1,0 +1,52 @@
+{
+    "version": 0,
+    "item_type": "planet_component",
+    "build_group_id": "defense",
+    "hud_icon": "trader_fortification_specialist_research_subject_hud_icon",
+    "tooltip_icon": "trader_fortification_specialist_research_subject_hud_icon",
+    "tooltip_picture": "trader_fortification_specialist_research_subject_tooltip_picture",
+    "name": "trader_civil_bunker.name",
+    "description": "trader_civil_bunker.description",
+    "build_time": 90.0,
+    "price":
+    {
+        "credits": 425.0,
+        "metal": 125.0,
+        "crystal": 75.0
+    },
+    "max_count_on_unit": 1,
+    "planet_type_groups": [
+    {
+        "planet_types": [
+            "asteroid",
+            "barren",
+            "city",
+            "crystalline",
+            "desert",
+            "ferrous",
+            "gas_giant",
+            "hive_asteroid",
+            "ice_asteroid",
+            "ice",
+            "ice_moon",
+            "irradiated",
+            "magnetic",
+            "moon",
+            "oceanic",
+            "pirate_base",
+            "ship_graveyard",
+            "swamp",
+            "terran",
+            "volcanic",
+            "volcanic_moon"],
+        "build_prerequisites": [
+            ["trader_fortification_specialist"]
+        ]
+    }],
+    "planet_modifiers": [
+    {
+        "modifier_type": "max_health_points",
+        "value_behavior": "additive",
+        "values": [2000.0]
+    }]
+}

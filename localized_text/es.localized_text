@@ -9,6 +9,8 @@
     "player_faction_description.shadow" : "Oprimidos, perseguidos y aún en pie.",
     "trader_constructor_cruiser_name": "Cruzado Constructor",
     "trader_constructor_cruiser_description": "Un cruzado poderoso responsable de construir estructuras y defender el planeta cercano.",
+    "trader_civil_bunker.name": "Búnker civil",
+    "trader_civil_bunker.description": "Un búnker de defensa provisional que protege a la población del planeta cercano.",
 
     "end": "El Fin"
 }

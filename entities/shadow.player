@@ -1215,6 +1215,7 @@
         "trader_oceanic_domes",
         "trader_media_conglomerate",
         "trader_regional_government_office",
+        "trader_civil_bunker",        
         "trader_command_bunker",
         "trader_munitions_plant",
         "trader_industrial_complex",

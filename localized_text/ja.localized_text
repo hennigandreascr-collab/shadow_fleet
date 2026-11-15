@@ -9,6 +9,8 @@
     "player_faction_description.shadow" : "虐げられ、追われ、それでも立ち上がる。",
     "trader_constructor_cruiser_name": "建造クルーザー",
     "trader_constructor_cruiser_description": "構造物の建設と近隣惑星の防衛を担当する強力なクルーザー。",
+    "trader_civil_bunker.name": "民間人用バンカー",
+    "trader_civil_bunker.description": "近隣惑星の住民を守るための仮設防衛バンカー。",
 
     "end": "終了"
 }

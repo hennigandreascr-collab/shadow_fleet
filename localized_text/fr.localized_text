@@ -9,6 +9,8 @@
     "player_faction_description.shadow" : "Opprimés, traqués, toujours debout.",
     "trader_constructor_cruiser_name": "Croiseur Constructeur",
     "trader_constructor_cruiser_description": "Un croiseur puissant chargé de construire des structures et de défendre la planète voisine.",
+    "trader_civil_bunker.name": "Bunker civil",
+    "trader_civil_bunker.description": "Un bunker défensif provisoire qui protège la population de la planète voisine.",
 
     "end": "La Fin"
 }

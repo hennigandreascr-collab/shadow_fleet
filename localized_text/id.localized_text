@@ -9,6 +9,8 @@
     "player_faction_description.shadow" : "Tertindas, diburu, namun tetap bertahan.",
     "trader_constructor_cruiser_name": "Kapal Konstruktor",
     "trader_constructor_cruiser_description": "Kapal yang kuat dan bertanggung jawab dalam membangun struktur serta membela planet di sekitarnya.",
+    "trader_civil_bunker.name": "Bunker Sipil",
+    "trader_civil_bunker.description": "Bunker pertahanan darurat yang melindungi penduduk planet di dekatnya.",
 
     "end": "Selesai"
 }

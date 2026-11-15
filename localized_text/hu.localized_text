@@ -9,6 +9,8 @@
     "player_faction_description.shadow" : "Elnyomottak, üldözöttek, mégis talpon maradnak.",
     "trader_constructor_cruiser_name": "Konstruktorcirkáló",
     "trader_constructor_cruiser_description": "Nagy erejű cirkáló, amely építmények létrehozására és a közeli bolygó védelmére szolgál.",
+    "trader_civil_bunker.name": "Civil bunker",
+    "trader_civil_bunker.description": "Ideiglenes védelmi bunker, amely megóvja a közeli bolygó lakosságát.",
 
     "end": "Vége"
 }

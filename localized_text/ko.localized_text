@@ -9,6 +9,8 @@
     "player_faction_description.shadow" : "억압받고 쫓기지만, 여전히 굳건히 서 있다.",
     "trader_constructor_cruiser_name": "건설 크루저",
     "trader_constructor_cruiser_description": "구조물의 건설과 인근 행성을 방어하는 데 담당하는 강력한 크루저입니다.",
+    "trader_civil_bunker.name": "민간인 벙커",
+    "trader_civil_bunker.description": "인근 행성의 주민들을 보호하는 임시 방어 벙커입니다.",
 
     "end": "끝"
 }

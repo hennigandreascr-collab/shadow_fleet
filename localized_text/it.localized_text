@@ -9,6 +9,8 @@
     "player_faction_description.shadow" : "Oppressi, braccati, ancora in piedi.",
     "trader_constructor_cruiser_name": "Crociere costruttore",
     "trader_constructor_cruiser_description": "Una crociera potente responsabile della costruzione di strutture e della difesa del pianeta vicino.",
+    "trader_civil_bunker.name": "Bunker civile",
+    "trader_civil_bunker.description": "Un bunker difensivo improvvisato che protegge la popolazione del pianeta vicino.",
 
     "end": "Fine"
 }
